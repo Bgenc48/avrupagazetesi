@@ -1,0 +1,31 @@
+---
+import { getCollection, render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import { href, site } from '../../data/site';
+
+export async function getStaticPaths() {
+  return (await getCollection('articles')).map((article) => ({ params: { slug: article.id }, props: { article } }));
+}
+const { article } = Astro.props;
+const { Content } = await render(article);
+const url = new URL(href(`makale/${article.id}`), Astro.site).href;
+const articleLd = {
+  '@context':'https://schema.org', '@type':'NewsArticle', headline:article.data.title,
+  description:article.data.excerpt, datePublished:article.data.pubDate.toISOString(),
+  dateModified:(article.data.updatedDate ?? article.data.pubDate).toISOString(),
+  author:{'@type':'Person',name:article.data.author}, publisher:{'@type':'NewsMediaOrganization',name:site.name},
+  mainEntityOfPage:url, keywords:article.data.tags.join(', '), inLanguage:'tr-TR'
+};
+const faqLd = article.data.faq ? {'@context':'https://schema.org','@type':'FAQPage',mainEntity:article.data.faq.map((x) => ({'@type':'Question',name:x.question,acceptedAnswer:{'@type':'Answer',text:x.answer}}))} : undefined;
+---
+<Base title={article.data.title} description={article.data.excerpt} image={article.data.heroImage} type="article" jsonLd={faqLd ? [articleLd, faqLd] : articleLd}>
+  <article class="prose">
+    <p class="eyebrow">{article.data.section.replaceAll('-', ' ')}</p>
+    <h1>{article.data.title}</h1>
+    <p class="deck">{article.data.deck}</p>
+    <p class="meta">{article.data.author}{article.data.authorTitle ? ` · ${article.data.authorTitle}` : ''} · <time datetime={article.data.pubDate.toISOString()}>{article.data.pubDate.toLocaleDateString('tr-TR')}</time></p>
+    {article.data.advisory && <p class="notice"><strong>Bilgilendirme:</strong> Kurallar değişebilir. İşlem öncesinde ilgili resmî kurumun güncel açıklamasını kontrol edin.</p>}
+    <Content />
+    {article.data.faq && <section aria-labelledby="sss"><h2 id="sss">Sık Sorulan Sorular</h2>{article.data.faq.map((item) => <details><summary>{item.question}</summary><p>{item.answer}</p></details>)}</section>}
+  </article>
+</Base>

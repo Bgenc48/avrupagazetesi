@@ -1,0 +1,10 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import { site } from '../../data/site';
+export function getStaticPaths() { return site.sections.map((section) => ({ params:{section:section.slug}, props:{section} })); }
+const { section } = Astro.props;
+const articles = (await getCollection('articles', ({data}) => data.section === section.slug)).sort((a,b) => b.data.pubDate.valueOf()-a.data.pubDate.valueOf());
+---
+<Base title={section.label} description={section.description}><p class="eyebrow">Bölüm</p><h1>{section.label}</h1><p class="deck">{section.description}</p>{articles.length ? <div class="grid">{articles.map((article) => <ArticleCard article={article} />)}</div> : <p>Bu bölümün ilk dosyaları hazırlanıyor.</p>}</Base>

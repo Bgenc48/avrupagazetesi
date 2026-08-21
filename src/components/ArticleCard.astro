@@ -1,0 +1,10 @@
+---
+import { href } from '../data/site';
+const { article } = Astro.props;
+---
+<article class="card">
+  <p class="eyebrow">{article.data.section.replaceAll('-', ' ')}</p>
+  <h2><a href={href(`makale/${article.id}`)}>{article.data.title}</a></h2>
+  <p>{article.data.excerpt}</p>
+  <p class="meta">{article.data.pubDate.toLocaleDateString('tr-TR')} · {article.data.author}</p>
+</article>

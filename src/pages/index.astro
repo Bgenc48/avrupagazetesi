@@ -1,0 +1,19 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import { site, href } from '../data/site';
+const articles = (await getCollection('articles')).sort((a,b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const lead = articles.find((a) => a.data.lead) ?? articles[0];
+const rest = articles.filter((a) => a !== lead).slice(0, 12);
+---
+<Base>
+  {lead ? <>
+    <section>
+      <p class="eyebrow">{lead.data.section.replaceAll('-', ' ')}</p>
+      <h1><a href={href(`makale/${lead.id}`)}>{lead.data.title}</a></h1>
+      <p class="deck">{lead.data.deck}</p>
+    </section>
+    <section aria-labelledby="son-haberler"><h2 id="son-haberler">Son Haberler ve Rehberler</h2><div class="grid">{rest.map((article) => <ArticleCard article={article} />)}</div></section>
+  </> : <section><p class="eyebrow">Yeni yayın</p><h1>Avrupa’daki Türk toplumunun bilgi gazetesi</h1><p class="deck">{site.description} İlk dosyalarımız editoryal incelemenin ardından yayımlanacak.</p></section>}
+</Base>

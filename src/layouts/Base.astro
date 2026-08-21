@@ -1,0 +1,90 @@
+---
+import { site, href } from '../data/site';
+
+interface Props {
+  title?: string;
+  description?: string;
+  image?: string;
+  type?: 'website' | 'article';
+  jsonLd?: Record<string, unknown> | Record<string, unknown>[];
+}
+
+const {
+  title = site.name,
+  description = site.description,
+  image,
+  type = 'website',
+  jsonLd,
+} = Astro.props;
+const fullTitle = title === site.name ? title : `${title} | ${site.name}`;
+const canonical = new URL(Astro.url.pathname, Astro.site);
+const logoLd = {
+  '@context': 'https://schema.org',
+  '@type': 'NewsMediaOrganization',
+  name: site.name,
+  url: new URL(href('/'), Astro.site).href,
+  publishingPrinciples: new URL(href('yayin-ilkeleri'), Astro.site).href,
+};
+---
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content={type} />
+    <meta property="og:url" content={canonical} />
+    {image && <meta property="og:image" content={new URL(image, Astro.site)} />}
+    <meta name="twitter:card" content={image ? 'summary_large_image' : 'summary'} />
+    <script is:inline type="application/ld+json" set:html={JSON.stringify(logoLd)} />
+    {jsonLd && <script is:inline type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
+  </head>
+  <body>
+    <a class="skip" href="#icerik">İçeriğe geç</a>
+    <header>
+      <div class="mast"><a href={href('/')} aria-label="Avrupa Gazetesi ana sayfa">AVRUPA <span>GAZETESİ</span></a></div>
+      <nav aria-label="Ana menü">
+        {site.sections.map((section) => <a href={href(`bolum/${section.slug}`)}>{section.label}</a>)}
+        <a href={href('arsiv')}>Arşiv</a>
+      </nav>
+    </header>
+    <main id="icerik"><slot /></main>
+    <footer>
+      <p><strong>{site.name}</strong> — Avrupa Türk toplumuna bağımsız, doğrulanabilir habercilik.</p>
+      <p><a href={href('hakkimizda')}>Hakkımızda</a> · <a href={href('yayin-ilkeleri')}>Yayın İlkeleri</a> · <a href={href('rss.xml')}>RSS</a> · <a href={href('llms.txt')}>LLM dizini</a></p>
+    </footer>
+  </body>
+</html>
+
+<style is:global>
+  :root { --ink:#151515; --paper:#fbfaf7; --red:#a61723; --muted:#666; --line:#d9d4ca; font-family: Georgia, 'Times New Roman', serif; color:var(--ink); background:var(--paper); }
+  * { box-sizing:border-box; }
+  body { margin:0; line-height:1.65; }
+  a { color:inherit; text-decoration-color:var(--red); text-underline-offset:.2em; }
+  .skip { position:absolute; left:-9999px; }
+  .skip:focus { left:1rem; top:1rem; background:white; padding:.75rem; z-index:5; }
+  header, main, footer { width:min(1120px, calc(100% - 2rem)); margin:auto; }
+  header { padding-top:1.5rem; border-bottom:3px double var(--ink); }
+  .mast { text-align:center; font:900 clamp(2.2rem, 7vw, 5rem)/1 sans-serif; letter-spacing:-.07em; }
+  .mast a { text-decoration:none; }
+  .mast span { color:var(--red); }
+  nav { display:flex; gap:1.2rem; justify-content:center; overflow:auto; padding:.8rem 0; font:700 .78rem/1 sans-serif; text-transform:uppercase; white-space:nowrap; }
+  main { min-height:62vh; padding:2rem 0 4rem; }
+  footer { border-top:1px solid var(--line); padding:2rem 0 3rem; color:var(--muted); }
+  h1,h2,h3 { line-height:1.12; text-wrap:balance; }
+  h1 { font-size:clamp(2.2rem, 6vw, 4.8rem); letter-spacing:-.04em; }
+  .eyebrow { color:var(--red); font:800 .78rem/1 sans-serif; letter-spacing:.12em; text-transform:uppercase; }
+  .deck { font-size:clamp(1.15rem,2.5vw,1.5rem); color:#444; max-width:48rem; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(250px,1fr)); gap:1.5rem; }
+  .card { border-top:3px solid var(--ink); padding-top:1rem; }
+  .card h2 { font-size:1.5rem; }
+  .meta { color:var(--muted); font:600 .78rem/1.4 sans-serif; }
+  article.prose { max-width:760px; margin:auto; font-size:1.08rem; }
+  article.prose h2 { margin-top:2.2rem; font-size:1.8rem; }
+  .notice { border-left:4px solid var(--red); padding:.8rem 1rem; background:#f2eee6; }
+  @media (max-width:650px) { nav { justify-content:flex-start; } }
+</style>
