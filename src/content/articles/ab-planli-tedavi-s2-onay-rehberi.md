@@ -43,4 +43,3 @@ Tedavi sonrası ayrıntılı fatura, ödeme kanıtı, tıbbi rapor, reçete, tab
 
 - [Your Europe: organising planned medical treatment](https://europa.eu/youreurope/citizens/health/planned-healthcare/right-to-treatment/indexamp_en.htm)
 - [Your Europe: planned treatment FAQ](https://europa.eu/youreurope/citizens/health/planned-healthcare/right-to-treatment/faq/index_en.htm)
-

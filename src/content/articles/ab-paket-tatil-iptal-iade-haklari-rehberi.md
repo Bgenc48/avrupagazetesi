@@ -44,4 +44,3 @@ Organizatör paketteki tüm hizmetlerin düzgün ifasından sorumludur; sorun do
 - [Your Europe: package travel and linked arrangements](https://europa.eu/youreurope/citizens/travel/holidays/package-travel/index_en.htm)
 - [European Commission: Package Travel Directive](https://commission.europa.eu/law/law-topic/consumer-protection-law/travel-and-timeshare-law/package-travel-directive_en)
 - [European Commission: 2026 package travel amendments](https://commission.europa.eu/news-and-media/news/package-travel-stronger-rights-travellers-and-simpler-rules-travel-industry-2026-05-28_en)
-

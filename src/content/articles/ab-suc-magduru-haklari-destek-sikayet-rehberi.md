@@ -41,4 +41,3 @@ Basına, sosyal medyaya veya işverene açıklama yapmadan güvenlik ve soruştu
 
 - [European Commission: victims' rights in the EU](https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/criminal-justice/protecting-victims-rights/victims-rights-eu_en)
 - [European e-Justice Portal: victims of crime](https://e-justice.europa.eu/topics/your-rights/victims-crime_en)
-

@@ -41,4 +41,3 @@ AB ülkesinden uzun süre ayrılmak, başka ülkede uzun dönem statüsü kazanm
 
 - [European Commission: EU long-term residence](https://home-affairs.ec.europa.eu/policies/migration-and-asylum/migrant-integration/eu-long-term-residence_en)
 - [EUR-Lex: non-EU nationals and long-term residence](https://eur-lex.europa.eu/summary/EN/l23034)
-

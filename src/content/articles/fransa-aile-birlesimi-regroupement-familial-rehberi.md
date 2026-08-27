@@ -43,4 +43,3 @@ Ret veya zımni ret halinde gerekçe, itiraz makamı ve süre dosyaya özgüdür
 
 - [Service-Public.fr: regroupement familial](https://www.service-public.fr/particuliers/vosdroits/F35147/4_4?idFicheParent=F11166)
 - [Service-Public.fr: installation en France d'une famille étrangère](https://www.service-public.fr/particuliers/vosdroits/F35147/2_0_0?idFicheParent=N11165)
-

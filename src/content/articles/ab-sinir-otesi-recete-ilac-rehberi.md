@@ -43,4 +43,3 @@ Eczacı ilacı vermezse yazılı gerekçe istemek her ülkede zorunlu olmayabili
 
 - [Your Europe: prescription medicine abroad](https://europa.eu/youreurope/citizens/health/prescription-medicine-abroad/index_en.htm)
 - [Your Europe: presenting a prescription abroad](https://europa.eu/youreurope/citizens/health/prescription-medicine-abroad/prescriptions/index_en.htm)
-
