@@ -37,6 +37,8 @@ Hareket ekipmanı kaybolur veya zarar görürse terminal ve taşıyıcıya hemen
 
 Önce taşıyıcı veya terminale şikâyet edin, çözülmezse olay ülkesindeki ulusal uygulama makamına başvurun. Uçuş iptal veya gecikmesi de varsa [uçuş tazminat rehberimiz](/avrupagazetesi/makale/ab-ucus-gecikme-iptal-tazminat-rehberi/) ayrı hakları açıklar. Yardım ihtiyacına ilişkin sağlık ayrıntısını yalnız gerekli ölçüde paylaşın.
 
+Yanıt tarihini kaydedin.
+
 Aktarmalı yolculukta her taşıyıcının bildirim aldığına güvenmeyin; tek rezervasyon olsa bile her terminal ve operatör için yardımın başlangıç-bitiş noktasını doğrulayın. Koltuk transferi, tuvalete erişim, oksijen, bataryanın uçakta taşınması ve ekipmanın kapıda teslimi için ayrı soru listesi kullanın. Ekipman teslim etiketini fotoğraflayın ve varışta hasarı terminalden ayrılmadan tutanağa geçirin. Yardım verilmediğinde oluşan taksi, otel veya geçici ekipman masrafının fişini saklayın.
 
 ## Resmî kaynaklar
