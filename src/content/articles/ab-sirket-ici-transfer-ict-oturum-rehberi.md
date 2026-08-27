@@ -41,4 +41,3 @@ ICT'yi [AB Mavi Kart rehberindeki](/avrupagazetesi/makale/almanya-ab-mavi-kart-2
 
 - [Avrupa Komisyonu: göç kategorileri ve ICT koşulları](https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/what-category-do-i-fit_en)
 - [EUR-Lex: 2014/66/AB şirket içi transfer direktifi](https://eur-lex.europa.eu/eli/dir/2014/66/oj/eng)
-

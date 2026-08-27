@@ -43,4 +43,3 @@ Bu yol, [Almanya Chancenkarte rehberindeki](/avrupagazetesi/makale/almanya-chanc
 
 - [Make it in Germany: denklik ortaklığı vizesi](https://www.make-it-in-germany.com/en/visa-residence/types/visa-recognition-partnership)
 - [Make it in Germany: işveren için denklik ortaklığı](https://www.make-it-in-germany.com/en/looking-for-foreign-professionals/entering/employment-recognition-partnership)
-
