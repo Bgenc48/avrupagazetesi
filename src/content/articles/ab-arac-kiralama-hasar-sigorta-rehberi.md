@@ -2,12 +2,16 @@
 title: "AB araç kiralama hasar ve sigorta rehberi"
 deck: "Aracı teslim alırken fotoğraf ve tutanak oluşturun; yakıt, depozito, muafiyet, ülke geçişi ve iade kontrolünü sözleşmeyle eşleştirin."
 section: "rehber"
+heroImage: "/images/photo-ab-arac-kiralama-hasar-sigorta-rehberi.jpg"
+heroAlt: "Köln/Bonn Havalimanı'nda kiralık araç otoparkını gösteren yönlendirme tabelası"
+heroCredit: "Fotoğraf: Kaap bij Sneeuw · CC0 · Wikimedia Commons"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Way_to_Parking_2,_car_rental,_arrival_2_or_3_(sign_in_CGN_2026).jpg"
 author: "Kaan Özsoy"
 authorTitle: "Yaşam editörü"
 pubDate: "2026-08-27"
 excerpt: "AB'de araç kiralarken broker-kiralama şirketi farkı, 14 günlük cayma istisnası, sigorta muafiyeti, hasar kanıtı ve sınır geçişi."
 tags: ["AB", "araç kiralama", "hasar", "sigorta"]
-photoQuery: "European car rental inspection damage checklist"
+photoQuery: "car rental parking airport Cologne Germany"
 lang: "tr"
 advisory: true
 faq:
