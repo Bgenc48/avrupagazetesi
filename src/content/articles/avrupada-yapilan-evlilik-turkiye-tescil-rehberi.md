@@ -15,6 +15,10 @@ faq:
     answer: "Evlilik, yapıldığı ülkenin yetkili makamınca gerçekleştirilmiş, Türk Medeni Kanunu'na uygun ve mutlak butlan nedeni taşımıyorsa geçerli olabilir; Türk aile kütüğüne ayrıca bildirilmelidir."
   - question: "Evlilik tescili için hangi temsilciliğe başvurulur?"
     answer: "İlke olarak evliliğin yapıldığı yerden sorumlu Türk dış temsilciliğine başvurulur. Başka ülkedeki temsilcilikten işlem istenirse belge ve onay yöntemi ilgili uluslararası sözleşmeye göre değişebilir."
+heroImage: "/images/ab-kamu-belgesi-apostil-muafiyeti-rehberi.jpg"
+heroAlt: "Damga ve giriş çıkış kayıtları bulunan resmî seyahat belgeleri"
+heroCredit: "The government of the United States of America. / Wikimedia Commons (Public domain)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:United_States_official_passport_of_a_naval_officer_during_the_early_Vietnam_War_(1956)_14.png"
 ---
 
 Bir Türk vatandaşının Avrupa'da yerel belediye veya başka yetkili makam önünde yaptığı evlilik, Türkiye aile kütüğünde görünmeyebilir. Yerel evlenme işlemi ile Türk nüfusuna **evlilik tescili** iki ayrı adımdır. Soyadı, çocuk kaydı, pasaport, miras ve eş üzerinden yapılacak işlemlerde iki ülke kaydının uyumlu olması önemlidir.

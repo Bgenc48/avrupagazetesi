@@ -15,6 +15,10 @@ faq:
     answer: "Genel kural olarak kazanın meydana geldiği ülkenin sorumluluk, zarar ve başvuru süreleri uygulanır; istisnalar için dosya bazlı hukuk görüşü gerekebilir."
   - question: "Eve döndükten sonra tazminat talebi yapılabilir mi?"
     answer: "Evet. Kusurlu aracın sigortacısının ikamet ülkenizdeki temsilcisine; temsilci yoksa veya araç sigortasız ya da belirlenemiyorsa ulusal tazminat kurumuna başvuru mümkün olabilir."
+heroImage: "/images/ab-arac-kiralama-hasar-sigorta-rehberi.jpg"
+heroAlt: "Prag Havalimanı araç kiralama ve otopark binası"
+heroCredit: "Pavel Hrdlička (Czech Wikipedia user Packa) / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:House_parking_and_car_rental,_Prague_Airport.jpg"
 ---
 
 Başka bir AB ülkesinde trafik kazası olduğunda önce can güvenliğini sağlayın, gerekiyorsa 112'yi ve polisi arayın; olay yerini yerel kural izin vermeden terk etmeyin. Kazanın olduğu ülkenin hukuku genellikle sorumluluk, zarar kalemleri ve talep sürelerini belirler.

@@ -15,6 +15,10 @@ faq:
     answer: "Üç ay, ücretsiz bekleme dönemi değildir. Süresinde poliçe yapılırsa kapsam yerleşim veya doğum başlangıcına geriye yürür ve o tarihten itibaren primler de geriye dönük ödenir."
   - question: "İsviçre'de aile için tek sağlık poliçesi yeterli mi?"
     answer: "Hayır. Zorunlu temel sigortada yetişkin ve çocuk dâhil her aile bireyi ayrı sigortalanmalıdır. Prim, franchise ve model seçimleri kişi bazında kaydedilir."
+heroImage: "/images/almanya-saglik-sigortasi-yeni-calisan-rehberi.jpg"
+heroAlt: "Bir hastanede görev başındaki doktorlar ve sağlık çalışanları"
+heroCredit: "U.S. Army photo by Cpl. Clara Soria / Wikimedia Commons (Public domain)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:US,_Ghana_medical_staff_participate_in_medical_exercise_(8439482).jpg"
 ---
 
 İsviçre'ye yerleşen kişi, temel sağlık sigortasını ikamet başlangıcından itibaren **üç ay içinde** yaptırmalıdır. Çalışmak için gelenlerde resmî rehber, varış veya işe başlama tarihinden en geç üç ay sonrasını işaret eder. Bu süre ücretsiz koruma dönemi değildir: zamanında poliçe seçilirse kapsam başlangıca geriye yürür, primler de aynı tarihten itibaren borçlanır.

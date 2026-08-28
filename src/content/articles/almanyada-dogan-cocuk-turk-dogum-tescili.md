@@ -15,6 +15,10 @@ faq:
     answer: "Türk Dışişleri Bakanlığı, doğum anında anne veya babadan birinin Türk vatandaşı olması halinde çocuğun doğumdan itibaren Türk vatandaşı olduğunu ve tescil başvurusu yapılması gerektiğini açıklıyor."
   - question: "Doğum tescili ile pasaport aynı anda alınabilir mi?"
     answer: "İşlem sırası doğum tescili, kimlik kartı ve ardından pasaporttur. Temsilciliğin tescil ile kimlik başvurusunu aynı anda kabul edip etmediği yerel uygulamaya bağlıdır."
+heroImage: "/images/fransa-aile-birlesimi-regroupement-familial-rehberi.jpg"
+heroAlt: "Ailelerin ve çocukların katıldığı açık hava etkinliği"
+heroCredit: "Cupofjoy / Wikimedia Commons (CC0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Family_festival_in_the_park_with_inflatables.jpg"
 ---
 
 Almanya'da doğan ve anne veya babasından en az biri doğum tarihinde Türk vatandaşı olan çocuk, Türk hukuku bakımından doğumdan itibaren vatandaş olabilir. Ancak Alman Standesamt kaydı Türkiye nüfus kütüğünü kendiliğinden güncellemez. Ailenin **doğum tescili** başvurusu yapması, çocuğun Türk kayıtlarında doğru ad, soyadı, doğum yeri ve soybağıyla görünmesini sağlar.

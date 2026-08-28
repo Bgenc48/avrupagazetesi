@@ -15,6 +15,10 @@ faq:
     answer: "DSA, tüm platformların tavsiye sistemlerinin ana parametrelerini açıklamasını ister. Profillemeye dayanmayan en az bir seçenek sunma yükümlülüğü özellikle çok büyük çevrim içi platformlar ve arama motorları için geçerlidir."
   - question: "Profilsiz seçenek kronolojik akış demek midir?"
     answer: "Her zaman değil. Seçenek profillemeye dayanmamalıdır; sıralama zaman, konum veya kullanıcının o anda verdiği başka bir sinyale dayanabilir. Platformun açıklamasını okuyun."
+heroImage: "/images/gdpr-veri-erisim-duzeltme-sikayet-rehberi.jpg"
+heroAlt: "Verilerin işlendiği bir sunucu odası"
+heroCredit: "Esquilo / Wikimedia Commons (CC BY-SA 3.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:PDC_server_room.jpg"
 ---
 
 Sosyal medya, video, alışveriş ve içerik platformları kullanıcının ne göreceğini bir tavsiye sistemiyle sıralayabilir. AB Dijital Hizmetler Yasası (DSA), bu sistemlerin tamamen açıklanmasını veya kaynak kodunun yayımlanmasını istemez; fakat hizmet şartlarında kullanılan ana parametrelerin ve kullanıcının bunları değiştirme yollarının açık, anlaşılır biçimde anlatılmasını zorunlu kılar.

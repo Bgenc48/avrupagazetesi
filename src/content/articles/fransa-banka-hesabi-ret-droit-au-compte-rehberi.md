@@ -15,6 +15,10 @@ faq:
     answer: "Banque de France'ın güncel rehberine göre banka 15 gün içinde yanıt vermezse sessizlik ret sayılır. Taahhütlü mektup alındısı veya elden teslim makbuzu süreyi kanıtlar."
   - question: "Droit au compte hesabı ücretli midir?"
     answer: "Banque de France tarafından belirlenen bankanın hesabı ve kanunda sayılan temel bankacılık hizmetleri ücretsiz sunulur; ek ürünler ve temel paket dışı işlemler ayrı olabilir."
+heroImage: "/images/ab-10000-avro-nakit-beyan-rehberi.jpg"
+heroAlt: "Euro banknotları ve madeni avrolar"
+heroCredit: "Avij (talk · contribs) / Wikimedia Commons (Public domain)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Euro_coins_and_banknotes_(cropped).jpg"
 ---
 
 Fransa'da banka, sözleşme özgürlüğü kapsamında hesap açmayı reddedebilir. Fakat Fransa'da hesabı olmayan ve şartları sağlayan kişi, Banque de France'ın bir banka belirlemesini sağlayan “droit au compte” prosedürünü kullanabilir. Bu yol kredi veya sınırsız ürün garantisi değil, temel mevduat hesabına erişim mekanizmasıdır.

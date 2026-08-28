@@ -15,6 +15,10 @@ faq:
     answer: "Geçerli AB dışı ehliyet sahibi, Great Britain'da yerleşik olduğu tarihten itibaren en fazla 12 ay bu ehliyetle araç kullanabilir. Yaş, araç sınıfı, ehliyet geçerliliği ve sigorta koşulları ayrıca karşılanmalıdır."
   - question: "Türk ehliyeti doğrudan Britanya ehliyetine çevrilebilir mi?"
     answer: "Türkiye, standart otomobil ehliyeti için GOV.UK'nin doğrudan değişim sürecinde varsayılmamalıdır. Güncel çevrim aracını kontrol edin; çoğu Türk ehliyeti sahibi kesintisiz sürüş için provisional licence alıp teori ve pratik sınavları geçmelidir."
+heroImage: "/images/ab-arac-kiralama-hasar-sigorta-rehberi.jpg"
+heroAlt: "Prag Havalimanı araç kiralama ve otopark binası"
+heroCredit: "Pavel Hrdlička (Czech Wikipedia user Packa) / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:House_parking_and_car_rental,_Prague_Airport.jpg"
 ---
 
 Türkiye'den alınmış geçerli sürücü belgesi, İngiltere, İskoçya ve Galler'i kapsayan **Great Britain** bölgesinde sınırsız kullanım sağlamaz. GOV.UK Highway Code, AB dışı ehliyetle yerleşik kişinin yerleşik olduğu tarihten itibaren en fazla **12 ay** araç kullanabileceğini belirtiyor. Kuzey İrlanda'nın kurumu ve kuralları ayrıdır.

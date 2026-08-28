@@ -15,6 +15,10 @@ faq:
     answer: "Hayır. Yetkili makam genellikle eğitim hedefini, süresini, çalışma ve gözetim koşullarını gösteren staj sözleşmesi ile diploma veya ilgili yeterlilik kanıtını ister."
   - question: "Stajyer oturum başvurusu ne kadar sürede karara bağlanır?"
     answer: "AB çerçevesi, eksiksiz başvurunun mümkün olan en kısa sürede ve kural olarak en geç 90 gün içinde karara bağlanmasını öngörür; ulusal usulü ayrıca kontrol edin."
+heroImage: "/images/ab-arastirmaci-oturum-izni-rehberi.jpg"
+heroAlt: "Avrupa'daki bir havalimanında pasaport kontrol noktası"
+heroCredit: "Subhashish Panigrahi / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Man_using_the_automatic_gate_in_Munich_airport_02.jpg"
 ---
 
 AB dışı bir ülke vatandaşı, bir AB ülkesinde staj yapmak için kısa süreli ziyaret kuralına güvenmemelidir. Ücretli veya ücretsiz stajın süresi ve niteliğine göre uzun süreli vize ya da stajyer oturum izni gerekebilir. Danimarka ve İrlanda dahil her ülkenin katılımı ve ulusal uygulaması aynı değildir; başvuruyu gidilecek ülkenin resmî göç portalından doğrulayın.

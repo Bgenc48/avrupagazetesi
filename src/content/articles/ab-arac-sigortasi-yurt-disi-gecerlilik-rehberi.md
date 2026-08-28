@@ -15,6 +15,10 @@ faq:
     answer: "Bir AB ülkesinde düzenlenen zorunlu üçüncü kişi sorumluluk sigortası diğer AB ülkelerinde de geçerlidir; kendi aracınızın hasarı ve hırsızlık gibi ek riskler otomatik kapsanmaz."
   - question: "Kasko bütün Avrupa'da aynı kapsamı sağlar mı?"
     answer: "Hayır. İsteğe bağlı teminatlarda AB çapında tek kural yoktur; poliçe ülke, süre, mesafe, sürücü, yol yardımı ve hırsızlık bakımından sınırlama koyabilir."
+heroImage: "/images/ab-arac-kiralama-hasar-sigorta-rehberi.jpg"
+heroAlt: "Prag Havalimanı araç kiralama ve otopark binası"
+heroCredit: "Pavel Hrdlička (Czech Wikipedia user Packa) / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:House_parking_and_car_rental,_Prague_Airport.jpg"
 ---
 
 Bir AB ülkesinde usulüne uygun kayıtlı araç için yaptırılan zorunlu üçüncü kişi sorumluluk sigortası diğer AB ülkelerinde de geçerlidir. Bu güvence, sizin neden olduğunuz kazada başka kişilerin bedensel ve maddi zararlarını kapsar. Kendi aracınızın onarımı, sürücü yaralanması, hırsızlık, vandalizm, yol yardımı ve hukuki destek ise zorunlu teminata otomatik olarak dahil değildir.

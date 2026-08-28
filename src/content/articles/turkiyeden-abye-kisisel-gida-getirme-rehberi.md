@@ -15,6 +15,10 @@ faq:
     answer: "Genel yolcu kuralında AB dışından gelen et, süt ve bunların ürünleri kişisel bagajda veya postayla getirilemez; vakumlu ya da ev yapımı olması yasağı kaldırmaz."
   - question: "Balık ve bal için izin verilen miktar nedir?"
     answer: "Kişisel tüketimde bal ve benzeri diğer hayvansal ürünler genel olarak kişi başı 2 kilograma; balıkçılık ürünleri ise 20 kilograma veya tek balığın ağırlığı daha fazlaysa o ağırlığa kadar getirilebilir."
+heroImage: "/images/abden-turkiyeye-tax-free-kdv-iadesi-rehberi.jpg"
+heroAlt: "Türkiye ve Avrupa Birliği temsilcilerinin katıldığı uluslararası toplantı"
+heroCredit: "Christophe Licoppe, © European Union, 2025 / Wikimedia Commons (CC BY 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Securing_Our_Future_(EC_pic)_2025-03-02-15-19.jpg"
 ---
 
 Türkiye'den bir AB ülkesine girerken kişisel tüketim için taşınan gıda da hayvan ve bitki sağlığı kurallarına tabidir. Ürünün marketten alınmış, vakumlanmış, pişmiş veya hediye olması otomatik muafiyet yaratmaz. Kurallar el bagajı, kayıtlı bagaj ve postayla gönderilen kişisel paketlere uygulanabilir.

@@ -15,6 +15,10 @@ faq:
     answer: "NVI'nin güncel açıklamasına göre yerleşim yeri adresindeki değişiklik 20 iş günü içinde bildirilmelidir. Yurt dışında yaşayan vatandaş bildirimi bulunduğu yerin Türk konsolosluğuna yapar."
   - question: "Yurt dışı adres kaydı seçimlerde oy kullanmayı etkiler mi?"
     answer: "Yurt dışı seçmen kütüğü adres kayıt sistemindeki bilgilerden oluşturulur. Seçim dönemi ilan edilen kontrol ve itiraz takviminde kaydın YSK seçmen sorgusundan ayrıca doğrulanması gerekir."
+heroImage: "/images/abden-turkiyeye-tax-free-kdv-iadesi-rehberi.jpg"
+heroAlt: "Türkiye ve Avrupa Birliği temsilcilerinin katıldığı uluslararası toplantı"
+heroCredit: "Christophe Licoppe, © European Union, 2025 / Wikimedia Commons (CC BY 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Securing_Our_Future_(EC_pic)_2025-03-02-15-19.jpg"
 ---
 
 Avrupa'ya kalıcı veya yerleşim amacıyla taşınan Türk vatandaşının yeni adresi yalnız yerel belediye kaydına girmez; Türkiye'nin Adres Kayıt Sistemi'ne de bildirilmelidir. NVI açıklamasına göre her yetişkin kendi adresini, velayeti altındaki çocukların ve vesayetindeki kısıtlının adresini bildirmekle yükümlüdür.

@@ -15,6 +15,10 @@ faq:
     answer: "Avusturya federal göç portalı en az 55 puan arar. Eğitim, mesleğe uygun deneyim, dil ve yaş puanlanır; çevrim içi hesap sonucu makamın resmî değerlendirmesinin yerine geçmez."
   - question: "RWR Kartı iş aramak için mi verilir?"
     answer: "Eksik meslek çalışanı kategorisinde bağlayıcı Avusturya iş teklifi gerekir. Kart 24 ay için belirli işverene ve işe bağlı düzenlenir; çok yüksek nitelikli kişiler için Job Seeker Visa ayrı yoldur."
+heroImage: "/images/ab-arastirmaci-oturum-izni-rehberi.jpg"
+heroAlt: "Avrupa'daki bir havalimanında pasaport kontrol noktası"
+heroCredit: "Subhashish Panigrahi / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Man_using_the_automatic_gate_in_Munich_airport_02.jpg"
 ---
 
 Avusturya'nın **Rot-Weiß-Rot Karte** sistemi birkaç farklı nitelikli göç kategorisini kapsar. Eksik meslek çalışanı yolu için yalnız mesleğinizin adını listede görmek yeterli değildir: ilgili eğitimi tamamlamış olmanız, bağlayıcı Avusturya iş teklifi, yasal veya toplu sözleşme ücreti ve en az 55 puan birlikte aranır.

@@ -14,18 +14,29 @@ const articleLd = {
   description:article.data.excerpt, datePublished:article.data.pubDate.toISOString(),
   dateModified:(article.data.updatedDate ?? article.data.pubDate).toISOString(),
   author:{'@type':'Person',name:article.data.author}, publisher:{'@type':'NewsMediaOrganization',name:site.name},
+  image:[new URL(href(article.data.heroImage), Astro.site).href],
   mainEntityOfPage:url, keywords:article.data.tags.join(', '), inLanguage:'tr-TR'
 };
 const faqLd = article.data.faq ? {'@context':'https://schema.org','@type':'FAQPage',mainEntity:article.data.faq.map((x) => ({'@type':'Question',name:x.question,acceptedAnswer:{'@type':'Answer',text:x.answer}}))} : undefined;
 ---
-<Base title={article.data.title} description={article.data.excerpt} image={article.data.heroImage} type="article" jsonLd={faqLd ? [articleLd, faqLd] : articleLd}>
+<Base title={article.data.title} description={article.data.excerpt} image={href(article.data.heroImage)} type="article" jsonLd={faqLd ? [articleLd, faqLd] : articleLd}>
   <article class="prose">
     <p class="eyebrow">{article.data.section.replaceAll('-', ' ')}</p>
     <h1>{article.data.title}</h1>
     <p class="deck">{article.data.deck}</p>
     <p class="meta">{article.data.author}{article.data.authorTitle ? ` · ${article.data.authorTitle}` : ''} · <time datetime={article.data.pubDate.toISOString()}>{article.data.pubDate.toLocaleDateString('tr-TR')}</time></p>
+    <figure class="hero">
+      <img src={href(article.data.heroImage)} alt={article.data.heroAlt} width="1200" height="675" fetchpriority="high" />
+      <figcaption>Fotoğraf: <a href={article.data.heroCreditUrl} target="_blank" rel="noopener noreferrer nofollow">{article.data.heroCredit}</a></figcaption>
+    </figure>
     {article.data.advisory && <p class="notice"><strong>Bilgilendirme:</strong> Kurallar değişebilir. İşlem öncesinde ilgili resmî kurumun güncel açıklamasını kontrol edin.</p>}
     <Content />
     {article.data.faq && <section aria-labelledby="sss"><h2 id="sss">Sık Sorulan Sorular</h2>{article.data.faq.map((item) => <details><summary>{item.question}</summary><p>{item.answer}</p></details>)}</section>}
   </article>
 </Base>
+
+<style>
+  .hero { margin:2rem 0; }
+  .hero img { width:100%; aspect-ratio:16/9; object-fit:cover; display:block; }
+  .hero figcaption { margin-top:.45rem; color:#666; font:600 .72rem/1.4 sans-serif; }
+</style>

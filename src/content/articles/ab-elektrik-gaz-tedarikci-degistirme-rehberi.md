@@ -15,6 +15,10 @@ faq:
     answer: "AB kurallarına göre tedarikçi değişimi için ücret alınmamalıdır; ancak eski sözleşmenin makul fesih, asgari süre veya erken çıkış koşulları ayrıca uygulanabilir."
   - question: "Eski tedarikçi son faturayı ne zaman göndermelidir?"
     answer: "Geçişten sonra eski tedarikçi en geç altı hafta içinde nihai kapanış hesabını veya faturayı göndermelidir."
+heroImage: "/images/ab-konut-kredisi-esis-rehberi.jpg"
+heroAlt: "Amsterdam'da konutların bulunduğu bir şehir sokağı"
+heroCredit: "Jorge Láscar from Australia / Wikimedia Commons (CC BY 2.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Street_and_canal_at_dusk,_Oudezijds_Voorburgwal_%27blue_hour%27,_7_januari_2011_(5821465439).jpg"
 ---
 
 AB'de tüketici, bulunduğu bölgede hizmet sunan elektrik veya gaz tedarikçileri arasından seçim yapabilir. Şebeke işletmecisi ile enerji satan tedarikçi farklıdır: yerel kablo ve boru altyapısını işleteni seçemezsiniz, fakat o ağ üzerinde sözleşme sunan tedarikçiyi değiştirebilirsiniz.

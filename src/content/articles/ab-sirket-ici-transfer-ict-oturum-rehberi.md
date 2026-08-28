@@ -15,6 +15,10 @@ faq:
     answer: "ICT, AB dışındaki işveren ile aynı şirket veya şirket grubundaki ev sahibi kuruluş arasında geçici transfer içindir. Başka bir grup için çalışma, ülkenin ayrı çalışma ve oturum kurallarına tabidir."
   - question: "ICT izni bütün AB ülkelerinde aynı mı uygulanır?"
     answer: "AB çerçevesi ortak ölçütler getirir; kıdem, başvuru makamı, ücret, belge ve hareketlilik prosedürleri hedef ülkeye göre değişir. Danimarka ve İrlanda bu ICT çerçevesinin dışındadır."
+heroImage: "/images/ab-arastirmaci-oturum-izni-rehberi.jpg"
+heroAlt: "Avrupa'daki bir havalimanında pasaport kontrol noktası"
+heroCredit: "Subhashish Panigrahi / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Man_using_the_automatic_gate_in_Munich_airport_02.jpg"
 ---
 
 Şirket içi transfer, AB dışında kurulu bir şirkette çalışan üçüncü ülke vatandaşının aynı şirketin veya şirket grubunun AB'deki bir birimine geçici olarak gönderilmesidir. ICT izni genel bir iş arama ya da serbest iş değiştirme yolu değildir. Transfer edilen kişi yönetici, uzman veya üniversite mezunu stajyer çalışan kategorilerinden birine girmelidir.

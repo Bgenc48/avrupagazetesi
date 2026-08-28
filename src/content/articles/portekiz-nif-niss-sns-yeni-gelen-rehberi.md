@@ -15,6 +15,10 @@ faq:
     answer: "Hayır. NIF vergi işlemleri, NISS sosyal güvenlik katkı ve hakları, SNS kullanıcı numarası ise kamu sağlık sistemi içindir. Haziran 2026'dan beri uygun yabancılar belirli merkezlerde üçünü birlikte isteyebilse de numaralar ayrı kalır."
   - question: "Portekiz NIF başvurusu ücretli mi?"
     answer: "Resmî gov.pt rehberine göre NIF tahsisi ücretsizdir. Aracı veya temsilci kullanılması hâlinde özel hizmet ücreti doğabilir; bu ücret devletin NIF harcı değildir."
+heroImage: "/images/ab-konut-kredisi-esis-rehberi.jpg"
+heroAlt: "Amsterdam'da konutların bulunduğu bir şehir sokağı"
+heroCredit: "Jorge Láscar from Australia / Wikimedia Commons (CC BY 2.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Street_and_canal_at_dusk,_Oudezijds_Voorburgwal_%27blue_hour%27,_7_januari_2011_(5821465439).jpg"
 ---
 
 Portekiz'e taşınan yabancının günlük işlemlerinde üç farklı numara öne çıkar: vergi kimliği **NIF**, sosyal güvenlik kimliği **NISS** ve sağlık hizmeti kullanıcı numarası **SNS**. Banka, işveren veya ev sahibi bunlardan birini isterken diğerini kastetmiş olabilir. Her talepte numaranın tam adını ve kullanım amacını sorun.

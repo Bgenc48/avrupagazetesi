@@ -15,6 +15,10 @@ faq:
     answer: "PTT'nin güncel açıklamasına göre gerçek kişiler e-Devlet üzerinden iki aşamalı kimlik doğrulamayla dünyanın her yerinden çevrim içi UETS hesabı açabilir. Kimlik veya erişim sorunu varsa PTT formu ve dış temsilcilik hizmeti ayrıca kontrol edilir."
   - question: "UETS tebligatı okunmazsa geçersiz olur mu?"
     answer: "Hayır. Elektronik tebligat, elektronik adrese ulaştığı tarihi izleyen beşinci günün sonunda kanunen yapılmış sayılabilir. SMS veya e-posta yalnız bilgilendirmedir; ulaşmaması tebliğ sonucunu kendiliğinden kaldırmaz."
+heroImage: "/images/gdpr-veri-erisim-duzeltme-sikayet-rehberi.jpg"
+heroAlt: "Verilerin işlendiği bir sunucu odası"
+heroCredit: "Esquilo / Wikimedia Commons (CC BY-SA 3.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:PDC_server_room.jpg"
 ---
 
 Ulusal Elektronik Tebligat Sistemi (UETS), mahkeme ve tebligat çıkarmaya yetkili kurumların resmî bildirimlerini değiştirilemez delil kayıtlarıyla elektronik adrese iletir. Normal e-posta, KEP veya e-Devlet gelen kutusuyla aynı değildir. Yurt dışında yaşamak, Türkiye'deki dava ve idari işlemlerin sürelerini ortadan kaldırmaz; UETS hesabı varsa düzenli takip gerekir.

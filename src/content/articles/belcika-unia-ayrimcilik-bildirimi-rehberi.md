@@ -15,6 +15,10 @@ faq:
     answer: "Hayır. Unia çevrim içi veya telefonla yapılan bildirimin ve dosya takibinin ücretsiz ve gizli olduğunu belirtiyor. Kurumun olası mahkeme adımı çok istisnaidir ve kişinin onayıyla yürütülür."
   - question: "Belçika'daki her ayrımcılık konusu Unia'nın yetkisinde mi?"
     answer: "Hayır. Cinsiyet konuları Kadın-Erkek Eşitliği Enstitüsüne, bazı Flaman eğitim veya konut konuları başka kuruma gidebilir. Unia dil ayrımcılığı, Belçika dışı olay ve anonim bildirim gibi bazı dosyaları işlemez."
+heroImage: "/images/avrupa-kucuk-talepler-5000-avro-rehberi.jpg"
+heroAlt: "Lüksemburg’daki Avrupa Birliği Adalet Divanı yerleşkesi"
+heroCredit: "Luxofluxo / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Palais_de_la_Cour_de_Justice_CJEU_July_2021_Sign_to_the_Ancien_Palais.jpg"
 ---
 
 Belçika'da işe alım, işyeri, sağlık, kamuya açık hizmet veya başka bir alanda kökeniniz nedeniyle farklı muamele gördüğünüzü düşünüyorsanız, olayın can sıkıcı olması ile hukuken ayrımcılık oluşturması aynı şey değildir. **Unia**, ayrımcılık, nefret söylemi ve nefret suçu bildirimlerini alan bağımsız eşitlik kurumudur; haklar hakkında bilgi, tavsiye ve uygun dosyalarda destek sağlar.

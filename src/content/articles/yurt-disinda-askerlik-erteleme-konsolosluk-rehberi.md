@@ -15,6 +15,10 @@ faq:
     answer: "Şartları taşıyan işçi, işveren, meslek veya sanat mensubu, yabancı bandıralı gemi insanı ve yurt dışında ikamet eden çok vatandaşların askerliği doğum yılına göre 35 yaşını tamamladıkları yılın sonunu geçmeyecek şekilde ertelenebilir."
   - question: "Yurt dışında öğrenci oturumu çalışma ertelemesi için yeterli mi?"
     answer: "Öğrenciliğe bağlı oturum tek başına işçi veya işveren statüsündeki yurt dışı ertelemesini sağlamaz. Kişi ayrıca uygun çalışma hakkı ve statü kazanırsa ilgili şartlarla değerlendirilebilir; öğrenci ertelemesi farklı kurallara tabidir."
+heroImage: "/images/abden-turkiyeye-tax-free-kdv-iadesi-rehberi.jpg"
+heroAlt: "Türkiye ve Avrupa Birliği temsilcilerinin katıldığı uluslararası toplantı"
+heroCredit: "Christophe Licoppe, © European Union, 2025 / Wikimedia Commons (CC BY 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Securing_Our_Future_(EC_pic)_2025-03-02-15-19.jpg"
 ---
 
 Yurt dışında yaşayan askerlik yükümlüsü Türk vatandaşının erteleme yolu, yalnız yabancı ülkede adres sahibi olmasına değil hukuki statüsüne dayanır. Millî Savunma Bakanlığı; işçi, işveren, meslek veya sanat mensubu, yabancı bandıralı gemide çalışan gemi insanı ve tabiiyetindeki yabancı ülkede ikamet eden çok vatandaşlar için ayrı kanıtlar öngörür. Başvuru bağlı olunan Türk dış temsilciliği üzerinden yürütülür.

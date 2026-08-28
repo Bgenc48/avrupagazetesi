@@ -15,6 +15,10 @@ faq:
     answer: "Genel çalışma statüsünde, Türkiye'de geçirilen süreler hariç olmak üzere yabancı ülkede toplam en az üç yıl, yani 1095 gün fiilen çalışma şartı aranır; çok vatandaşlar için özel kuralları kontrol edin."
   - question: "Uzaktan eğitim ve ödeme başvuruyu tamamlar mı?"
     answer: "Hayır. Uzaktan eğitimin tamamlanması ve paranın yatırılması tek başına başvurunun kabul edildiği anlamına gelmez; konsolosluk işlemi ve askerlik durum kaydı sonuçlandırılmalıdır."
+heroImage: "/images/abden-turkiyeye-tax-free-kdv-iadesi-rehberi.jpg"
+heroAlt: "Türkiye ve Avrupa Birliği temsilcilerinin katıldığı uluslararası toplantı"
+heroCredit: "Christophe Licoppe, © European Union, 2025 / Wikimedia Commons (CC BY 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Securing_Our_Future_(EC_pic)_2025-03-02-15-19.jpg"
 ---
 
 Dövizle askerlik, yurt dışında yaşayan yükümlülerin kanundaki çalışma, bulunma, eğitim, başvuru ve ödeme koşullarını birlikte yerine getirerek askerlik hizmetini tamamlamış sayılmasına yönelik bir usuldür. Güncel tutar dönemsel katsayı ve döviz kuru üzerinden değiştiği için eski haberlerdeki rakamla ödeme yapmayın; başvuru gününde MSB ve konsolosluk ekranındaki tutarı esas alın.

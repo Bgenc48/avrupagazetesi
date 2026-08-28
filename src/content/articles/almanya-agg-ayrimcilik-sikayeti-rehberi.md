@@ -15,6 +15,10 @@ faq:
     answer: "Hayır. Kurum haklar hakkında bilgi ve uzlaşma desteği sunabilir; bağlayıcı karar veya tazminat için sorumlu tarafla işlem ve gerektiğinde mahkeme yolu gerekir."
   - question: "İş ayrımcılığında iki aylık süre ne anlama gelir?"
     answer: "AGG §15 kapsamındaki tazminat veya zarar talebi kural olarak iki ay içinde yazılı ileri sürülmelidir. Başlangıç anı başvuru reddi veya ayrımcılığın öğrenildiği tarihe göre değişir."
+heroImage: "/images/avrupa-kucuk-talepler-5000-avro-rehberi.jpg"
+heroAlt: "Lüksemburg’daki Avrupa Birliği Adalet Divanı yerleşkesi"
+heroCredit: "Luxofluxo / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Palais_de_la_Cour_de_Justice_CJEU_July_2021_Sign_to_the_Ancien_Palais.jpg"
 ---
 
 Almanya'nın Allgemeines Gleichbehandlungsgesetz, **AGG**, ırk veya etnik köken, cinsiyet, din veya dünya görüşü, engellilik, yaş ve cinsel kimlik temelindeki ayrımcılığı belirli alanlarda yasaklar. Koruma özellikle işe alım, çalışma koşulları, mesleki eğitim ve halka sunulan mal veya hizmetlerde önemlidir. Her haksızlık veya kaba davranış AGG ihlali değildir; olay ile korunan neden arasında bağlantı kurulmalıdır.

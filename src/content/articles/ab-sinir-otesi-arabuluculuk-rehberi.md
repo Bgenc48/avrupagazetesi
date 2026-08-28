@@ -15,6 +15,10 @@ faq:
     answer: "Taraflar, yazılı anlaşmanın içeriğinin ulusal usule göre mahkeme veya yetkili makam tarafından icra edilebilir hale getirilmesini isteyebilir; kamu düzenine aykırılık gibi sınırlar uygulanır."
   - question: "Arabuluculuk dava süresini durdurur mu?"
     answer: "AB kuralları arabuluculuğun zamanaşımı nedeniyle mahkemeye erişimi engellememesini amaçlar, ancak durma ve yeniden başlama hesabı ulusal hukuka bağlıdır; son günü yazılı doğrulayın."
+heroImage: "/images/avrupa-kucuk-talepler-5000-avro-rehberi.jpg"
+heroAlt: "Lüksemburg’daki Avrupa Birliği Adalet Divanı yerleşkesi"
+heroCredit: "Luxofluxo / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Palais_de_la_Cour_de_Justice_CJEU_July_2021_Sign_to_the_Ancien_Palais.jpg"
 ---
 
 Sınır ötesi medeni veya ticari uyuşmazlıkta arabuluculuk, tarafsız bir üçüncü kişinin tarafların kendi çözümünü oluşturmasına yardım ettiği gönüllü süreçtir. 2008/52 sayılı Direktif, farklı üye devletlerde yerleşik tarafların uyuşmazlıklarında kalite, gizlilik, zamanaşımı ve anlaşmanın icra edilebilirliği için ortak ilkeler getirir.

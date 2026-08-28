@@ -72,7 +72,8 @@ const logoLd = {
   .mast { text-align:center; font:900 clamp(2.2rem, 7vw, 5rem)/1 sans-serif; letter-spacing:-.07em; }
   .mast a { text-decoration:none; }
   .mast span { color:var(--red); }
-  nav { display:flex; gap:1.2rem; justify-content:center; overflow:auto; padding:.8rem 0; font:700 .78rem/1 sans-serif; text-transform:uppercase; white-space:nowrap; }
+  nav { display:flex; gap:1.2rem; justify-content:center; overflow-x:auto; padding:.8rem 0; font:700 .78rem/1 sans-serif; text-transform:uppercase; white-space:nowrap; scrollbar-width:none; }
+  nav::-webkit-scrollbar { display:none; }
   main { min-height:62vh; padding:2rem 0 4rem; }
   footer { border-top:1px solid var(--line); padding:2rem 0 3rem; color:var(--muted); }
   h1,h2,h3 { line-height:1.12; text-wrap:balance; }

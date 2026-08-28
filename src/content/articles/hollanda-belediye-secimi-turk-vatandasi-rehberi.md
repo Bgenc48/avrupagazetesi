@@ -15,6 +15,10 @@ faq:
     answer: "Evet, AB vatandaşı olmayan kişi adaylık gününde en az beş yıldır Hollanda'da yasal ve kesintisiz ikamet ediyor, geçerli uygun oturum statüsüne sahip, belediyede kayıtlı ve 18 yaşını doldurmuşsa oy kullanabilir."
   - question: "Beş yıl hesabı seçim gününde mi yapılır?"
     answer: "Kiesraad, AB dışı seçmen için beş yıllık yasal ve kesintisiz ikameti kandidaatstelling yani adaylık günü itibarıyla arar. Seçimin kendine özgü kritik tarihini resmi seçim takviminden kontrol edin."
+heroImage: "/images/ab-arastirmaci-oturum-izni-rehberi.jpg"
+heroAlt: "Avrupa'daki bir havalimanında pasaport kontrol noktası"
+heroCredit: "Subhashish Panigrahi / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Man_using_the_automatic_gate_in_Munich_airport_02.jpg"
 ---
 
 Hollanda belediye meclisi seçimlerinde oy hakkı yalnız Hollanda veya AB vatandaşlarına ait değildir. Türk vatandaşı gibi AB dışı bir ülke vatandaşı da koşulları karşıladığında yaşadığı belediyenin seçiminde oy kullanabilir. Bu hak, Tweede Kamer genel seçimiyle aynı değildir; seçim türünü doğru ayırmak gerekir.

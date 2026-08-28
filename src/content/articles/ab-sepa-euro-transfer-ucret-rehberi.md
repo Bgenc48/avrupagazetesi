@@ -15,6 +15,10 @@ faq:
     answer: "Hayır. Banka sınır ötesi euro ödemesine, eşdeğer yerel euro veya ulusal para transferinden daha yüksek ücret uygulayamaz; yerel işlem ücretliyse aynı ücret alınabilir."
   - question: "Kur dönüşüm ücreti eşit ücret kuralına dahil midir?"
     answer: "Hayır. Döviz dönüşüm oranı ve marjı ticari olarak belirlenebilir; transfer ücretinden ayrı gösterilmeli ve ödeme onayından önce açıklanmalıdır."
+heroImage: "/images/ab-10000-avro-nakit-beyan-rehberi.jpg"
+heroAlt: "Euro banknotları ve madeni avrolar"
+heroCredit: "Avij (talk · contribs) / Wikimedia Commons (Public domain)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Euro_coins_and_banknotes_(cropped).jpg"
 ---
 
 AB kuralları, bir bankanın sınır ötesi euro ödemesine eşdeğer yerel işlemden daha yüksek ücret uygulamasını yasaklar. Euro bölgesi dışındaki bir AB ülkesinde banka, euro transferini aynı değerdeki ulusal para birimli yurt içi transferle karşılaştırır. Kural işlemi ücretsiz yapmaz; yerel eşdeğer işlem ücretliyse aynı ücret alınabilir.

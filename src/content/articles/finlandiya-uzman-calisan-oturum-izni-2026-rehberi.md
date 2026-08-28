@@ -15,6 +15,10 @@ faq:
     answer: "Migri'nin uzman çalışan sayfasına göre 2026'da aylık brüt maaş en az 3.937 avro olmalıdır. Yemek, konut veya otomobil gibi yan haklar bu eşiğin hesabına katılmaz."
   - question: "Finlandiya fast track her uzman başvurusunu 14 günde sonuçlandırır mı?"
     answer: "Hedef süre, başvuru sahibinin Enter Finland dosyasını eksiksiz göndermesi, beş iş günü içinde kimliğini kanıtlaması ve işverenin koşulları iki iş günü içinde tamamlaması gibi şartlara bağlıdır; karar garantisi değildir."
+heroImage: "/images/ab-gorevlendirilen-calisan-a1-haklari-rehberi.jpg"
+heroAlt: "Çalışma hayatı üzerine düzenlenen kalabalık bir toplantı"
+heroCredit: "Marjory Collins / Wikimedia Commons (Public domain)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:A_Sunday_afternoon_meeting_of_the_rubber_workers_union8d18608v.jpg"
 ---
 
 Finlandiya'da uzman olarak çalışacak AB/AEA dışı ülke vatandaşı için doğru izin türü, iş unvanından çok görevin niteliğine ve maaşa bağlıdır. Türk vatandaşı bir yazılımcı, mühendis veya alan uzmanı, görevi özel uzmanlık gerektiriyorsa “residence permit for a specialist” yolunu inceleyebilir. Satış, destek veya genel idari görevler yalnızca şirketin “uzman” demesiyle bu kategoriye girmez.

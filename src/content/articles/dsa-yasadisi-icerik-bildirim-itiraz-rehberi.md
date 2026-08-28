@@ -15,6 +15,10 @@ faq:
     answer: "Kullanıcının karmaşık hukuk açıklaması yapması beklenmez; ancak içeriğin neden yasa dışı görüldüğünü yeterince açık anlatmalı, tam elektronik konumu ve iyi niyet beyanını sağlamalıdır."
   - question: "Platform moderasyon kararına itiraz ücretli midir?"
     answer: "DSA kapsamındaki çevrim içi platformlar, içerik kaldırma, hesap kısıtlama veya yasa dışı içerik bildiriminin reddi gibi kararlar için ücretsiz iç şikâyet sistemi sunmalıdır."
+heroImage: "/images/gdpr-veri-erisim-duzeltme-sikayet-rehberi.jpg"
+heroAlt: "Verilerin işlendiği bir sunucu odası"
+heroCredit: "Esquilo / Wikimedia Commons (CC BY-SA 3.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:PDC_server_room.jpg"
 ---
 
 AB Dijital Hizmetler Yasası, çevrim içi hizmetlerde yasa dışı içerik bildirmek ve platformun moderasyon kararına itiraz etmek için ortak usuller getirir. “Hoşuma gitmiyor” veya “kurallara aykırı” ifadesi tek başına yasa dışılık bildirimi değildir. İçeriğin AB veya ilgili ulusal hukukta neden yasa dışı olduğunu somutlaştırın.

@@ -15,6 +15,10 @@ faq:
     answer: "Employment Equality şikâyeti normal olarak olaydan itibaren altı ay içinde çevrim içi WRC complaint form ile yapılır. Makul neden gösterilirse süre en fazla 12 aya uzatılabilir."
   - question: "Hizmet ayrımcılığında önce işletmeye bildirim gerekir mi?"
     answer: "Equal Status dosyasında kişi normal olarak olaydan itibaren iki ay içinde hizmet sağlayıcıya iddiayı ve şikâyet niyetini yazılı bildirir, yanıt için bir ay bekler; sonra WRC'ye gider."
+heroImage: "/images/avrupa-kucuk-talepler-5000-avro-rehberi.jpg"
+heroAlt: "Lüksemburg’daki Avrupa Birliği Adalet Divanı yerleşkesi"
+heroCredit: "Luxofluxo / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Palais_de_la_Cour_de_Justice_CJEU_July_2021_Sign_to_the_Ancien_Palais.jpg"
 ---
 
 İrlanda'da işyerindeki ayrımcılık **Employment Equality Acts**, mal ve hizmet erişimindeki ayrımcılık ise **Equal Status Acts** kapsamında incelenebilir. Workplace Relations Commission (WRC) iki alanda da başvuru alır ancak süreçleri aynı değildir. Yanlış yolu kullanmak kısa sürelerin kaçmasına yol açabilir.

@@ -15,6 +15,10 @@ faq:
     answer: "Avrupa Standartlaştırılmış Bilgi Formu, konut kredisi tutarı, süre, faiz, yıllık maliyet, taksit, risk ve erken ödeme koşullarını ortak formatta göstererek teklifleri karşılaştırmayı sağlar."
   - question: "Konut kredisi teklifini düşünmek için kaç gün vardır?"
     answer: "Üye devlet, tüketiciye bağlayıcı teklifi karşılaştırıp değerlendirmesi için en az yedi günlük düşünme veya imza sonrası cayma süresi ya da ikisinin birleşimini sağlamalıdır."
+heroImage: "/images/ab-10000-avro-nakit-beyan-rehberi.jpg"
+heroCredit: "Avij (talk · contribs) / Wikimedia Commons (Public domain)"
+heroAlt: "Euro banknotları ve madeni avrolar"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Euro_coins_and_banknotes_(cropped).jpg"
 ---
 
 AB'de konutla teminatlandırılan kredi için banka veya kredi aracısı, bağlayıcı teklif sırasında Avrupa Standartlaştırılmış Bilgi Formunu (ESIS) vermelidir. ESIS farklı bankaların teklifini aynı başlıklarda karşılaştırmaya yarar; ekspertiz, tapu ve vergi incelemesinin yerine geçmez.

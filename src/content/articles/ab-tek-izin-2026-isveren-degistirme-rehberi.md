@@ -15,6 +15,10 @@ faq:
     answer: "Yeniden düzenlenen Direktif, eksiksiz başvuru hakkında işgücü piyasası testi dâhil genel olarak 90 gün içinde karar verilmesini öngörür; karmaşık dosyada sınırlı uzatma olabilir."
   - question: "Tek İzin sahibi işveren değiştirebilir mi?"
     answer: "Direktif işveren değiştirme hakkı tanır, ancak üye devlet ön bildirim veya yeni işveren koşullarının kontrolünü isteyebilir ve ilk çalışma döneminde sınırlama uygulayabilir."
+heroImage: "/images/ab-arastirmaci-oturum-izni-rehberi.jpg"
+heroAlt: "Avrupa'daki bir havalimanında pasaport kontrol noktası"
+heroCredit: "Subhashish Panigrahi / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Man_using_the_automatic_gate_in_Munich_airport_02.jpg"
 ---
 
 AB Tek İzin sistemi, üçüncü ülke vatandaşının bir üye devlette oturma ve çalışma hakkını tek idari karar ve tek belgede birleştirir. 2024/1233 sayılı yeniden düzenlenmiş Direktif, başvuru süresini kısaltır ve işverene bağımlılığı azaltan yeni güvenceler getirir. Üye devletlerin kuralları 21 Mayıs 2026'ya kadar ulusal hukuka aktarması gerektiğinden, başvuru sahibi hem Direktifi hem de yaşadığı ülkenin yürürlükteki uygulamasını kontrol etmelidir.

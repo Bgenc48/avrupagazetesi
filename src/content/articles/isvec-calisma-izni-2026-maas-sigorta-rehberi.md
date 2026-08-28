@@ -15,6 +15,10 @@ faq:
     answer: "Genel kural, başvuru tarihinde geçerli İsveç medyan maaşının en az yüzde 90'ıdır. 16 Haziran 2026'dan itibaren yayımlanan güncel tutar aylık 34.470 SEK'tir; toplu sözleşme veya sektör uygulaması daha yüksek ücret gerektirebilir."
   - question: "İsveç'te iki işin maaşı birleştirilerek çalışma izni alınabilir mi?"
     answer: "Hayır. İsveç Göçmenlik Dairesi, çalışma izni şartlarını karşılamak için iki veya daha fazla işin birleştirilemeyeceğini belirtiyor. İzne dayanak iş tek başına bütün koşulları sağlamalıdır."
+heroImage: "/images/ab-arastirmaci-oturum-izni-rehberi.jpg"
+heroAlt: "Avrupa'daki bir havalimanında pasaport kontrol noktası"
+heroCredit: "Subhashish Panigrahi / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Man_using_the_automatic_gate_in_Munich_airport_02.jpg"
 ---
 
 İsveç'te AB/AEA dışından gelen bir çalışanın izin dosyası yalnız maaş rakamından oluşmaz. Türk vatandaşı için imzalı iş sözleşmesi, işverenin işe alım süreci, sektör koşulları, sigortalar ve başvuru sırası birlikte incelenir. İlan başlığının uygun görünmesi, eksik sigorta veya düşük sektör ücreti sorununu gidermez.

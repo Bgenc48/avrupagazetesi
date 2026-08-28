@@ -15,6 +15,10 @@ faq:
     answer: "Ortak AB çerçevesinde sponsor, en az bir yıl geçerli üye devlet oturum iznine ve kalıcı kalmaya ilişkin makul beklentiye sahip üçüncü ülke vatandaşıdır."
   - question: "Aile üyesi çalışabilir mi?"
     answer: "Aile üyesi istihdam ve serbest çalışmaya erişebilir; üye devlet bu erişimi en fazla ilk bir yıl için sınırlayabilir. Kesin koşul ulusal izinden kontrol edilir."
+heroImage: "/images/fransa-aile-birlesimi-regroupement-familial-rehberi.jpg"
+heroAlt: "Ailelerin ve çocukların katıldığı açık hava etkinliği"
+heroCredit: "Cupofjoy / Wikimedia Commons (CC0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Family_festival_in_the_park_with_inflatables.jpg"
 ---
 
 AB aile birleşimi direktifi, bir üye devlette yasal yaşayan üçüncü ülke vatandaşının yakın aile üyelerini yanına getirmesine ortak taban kurallar getirir. Danimarka ve İrlanda bu çerçevenin dışındadır. Sponsor AB vatandaşıysa veya kendi vatandaşı olduğu ülkeden başka bir AB ülkesinde yaşıyorsa farklı serbest dolaşım kuralları uygulanabilir.

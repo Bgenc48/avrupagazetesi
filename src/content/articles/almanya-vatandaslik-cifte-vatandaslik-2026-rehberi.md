@@ -15,6 +15,10 @@ faq:
     answer: "Genel üç yıllık hızlı vatandaşlık yolu 30 Ekim 2025'te kaldırıldı. Güncel StAG §10, olağan hak temelli başvuru için beş yıllık yasal ve olağan ikamet öngörüyor."
   - question: "Alman vatandaşlığı alınırken Türk vatandaşlığından çıkmak gerekir mi?"
     answer: "Alman hukuku artık çoklu vatandaşlığa genel olarak izin veriyor. Yine de kişinin Türk vatandaşlık kaydını ve özel durumunu iki ülkenin yetkili makamlarıyla doğrulaması gerekir."
+heroImage: "/images/ab-arastirmaci-oturum-izni-rehberi.jpg"
+heroAlt: "Avrupa'daki bir havalimanında pasaport kontrol noktası"
+heroCredit: "Subhashish Panigrahi / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Man_using_the_automatic_gate_in_Munich_airport_02.jpg"
 ---
 
 Almanya'da **Einbürgerung**, yani vatandaşlığa kabul için 2026'da esas alınacak başlangıç noktası güncel Staatsangehörigkeitsgesetz, StAG metnidir. İnternette hâlâ üç yılda vatandaşlık anlatan çok sayıda içerik bulunuyor. Bu yol 30 Ekim 2025'te yürürlükten kaldırıldı. Güncel StAG §10, olağan hak temelli başvuruda en az beş yıl yasal ve olağan ikamet koşulu koyuyor.

@@ -15,6 +15,10 @@ faq:
     answer: "27 Eylül 2026'dan itibaren genel çevresel iddia, aynı iletişim aracında açık ve tanınmış üstün çevresel performansla kanıtlanmadıkça haksız uygulama sayılabilir."
   - question: "Karbon dengeleme ile ürün 'iklim nötr' olarak tanıtılabilir mi?"
     answer: "Ürünün sera gazı etkisinin dengeleme kredileriyle nötr, azaltılmış veya olumlu olduğu iddiaları yasaklanan uygulamalar arasındadır; gerçek ürün yaşam döngüsü azaltımı ayrı ve somut açıklanmalıdır."
+heroImage: "/images/ab-cevresel-iddia-etiket-2026-rehberi.jpg"
+heroAlt: "Güneş panelleri, rüzgâr türbini ve yenilenebilir enerji tesisi"
+heroCredit: "Florian Gerlach (Nawaro) / Wikimedia Commons (CC BY-SA 3.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Biogas_Photovoltaik_Wind.jpg"
 ---
 
 AB'nin 2024/825 sayılı “yeşil dönüşümde tüketiciyi güçlendirme” Direktifi, ulusal kuralların 27 Eylül 2026'dan itibaren uygulanmasını öngörür. Düzenleme, satın alma kararında çevresel ve dayanıklılık bilgisinin somut olmasını; doğrulanamayan genel ifadeler ve güven vermeyen özel etiketlerin azaltılmasını amaçlar.

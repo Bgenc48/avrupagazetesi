@@ -15,6 +15,10 @@ faq:
     answer: "Bankanız sınır ötesi euro çekimine eşdeğer yurt içi euro çekiminden daha yüksek işlem ücreti uygulayamaz; bağımsız ATM işletmecisi ve döviz dönüşümü bedelleri ayrıca çıkabilir."
   - question: "ATM ekranında TL seçmek daha güvenli midir?"
     answer: "TL seçimi çoğunlukla ATM sağlayıcısının DCC kurunu kullanır. Kur ve marjı bankanızın dönüşümüyle karşılaştırmadan seçmeyin; yerel para seçimi dönüşümü kart bankasına bırakır."
+heroImage: "/images/abden-turkiyeye-tax-free-kdv-iadesi-rehberi.jpg"
+heroAlt: "Türkiye ve Avrupa Birliği temsilcilerinin katıldığı uluslararası toplantı"
+heroCredit: "Christophe Licoppe, © European Union, 2025 / Wikimedia Commons (CC BY 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Securing_Our_Future_(EC_pic)_2025-03-02-15-19.jpg"
 ---
 
 Başka bir AB ülkesinde ATM'den euro çekerken bankanız, eşdeğer yurt içi euro işleminden daha yüksek sınır ötesi ücret uygulayamaz. Bu kural her çekimin ücretsiz olduğu anlamına gelmez. Kendi bankanızın nakit çekim ücreti, bağımsız ATM işletmecisinin sabit bedeli ve döviz dönüşüm maliyeti ayrı kalemlerdir.

@@ -15,6 +15,10 @@ faq:
     answer: "Bazı doğrudan posta yolları mümkün olsa da usul, ülke beyanı ve belge türüne bağlıdır. Güvenli yol, mahkeme veya yetkili ileten makam üzerinden 2020/1784 sistemini kullanmaktır."
   - question: "Anlamadığım dildeki tebligatı reddedebilir miyim?"
     answer: "Belge, anladığınız dilde veya tebliğ yerinin resmî dilinde değilse belirli koşullarla kabulden kaçınma hakkınız olabilir; standart bilgilendirme ve süreyi hemen inceleyin."
+heroImage: "/images/gdpr-veri-erisim-duzeltme-sikayet-rehberi.jpg"
+heroAlt: "Verilerin işlendiği bir sunucu odası"
+heroCredit: "Esquilo / Wikimedia Commons (CC BY-SA 3.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:PDC_server_room.jpg"
 ---
 
 Bir medeni veya ticari davaya ait belgenin başka AB ülkesindeki kişiye resmî olarak ulaştırılması, sıradan posta göndermekten farklıdır. 2020/1784 sayılı Tüzük, ileten ve alan makamlar ile ortak formlar üzerinden tebligatın izlenmesini sağlar. Danimarka dahil uygulama kapsamı ve ülke beyanları European e-Justice portalında kontrol edilmelidir.

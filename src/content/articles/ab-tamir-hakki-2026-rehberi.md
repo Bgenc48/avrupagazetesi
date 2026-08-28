@@ -15,6 +15,10 @@ faq:
     answer: "Hayır. Garanti dışındaki özel tamir yükümlülüğü, AB hukukunda tamir edilebilirlik şartı bulunan ve Direktifin ekinde kapsanan ürünlere uygulanır; tamir teknik olarak imkânsızsa yükümlülük doğmayabilir."
   - question: "Garanti içinde tamir seçilirse süre uzar mı?"
     answer: "Tüketici ayıplı üründe değiştirme yerine tamiri seçerse yasal sorumluluk süresi en az 12 ay uzatılır; ulusal hukuk daha uzun koruma sağlayabilir."
+heroImage: "/images/ab-online-alisveris-14-gun-cayma-rehberi.jpg"
+heroAlt: "Dizüstü bilgisayarla çevrim içi alışveriş yapan bir tüketici"
+heroCredit: "Artem Beliaikin from Moscow, Russia / Wikimedia Commons (CC BY 2.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Woman_online_shopping_concept._Woman_in_the_green_park_with_modern_laptop._Bali_island._(47798039732).jpg"
 ---
 
 AB'nin 2024/1799 sayılı Tamir Direktifi, üye devletlerin kuralları 31 Temmuz 2026'dan itibaren uygulamasını ister. Düzenleme, garanti içindeki seçimleri güçlendirirken garanti bittikten sonra da AB ürün kurallarında tamir edilebilir sayılan belirli mallar için üreticiye tamir yükümlülüğü getirir. Buzdolabı, çamaşır makinesi, elektrikli süpürge, akıllı telefon ve tablet gibi ek mevzuatta yer alan gruplar başlıca örneklerdir.

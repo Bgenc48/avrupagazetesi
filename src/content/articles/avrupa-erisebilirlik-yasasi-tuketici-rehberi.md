@@ -15,6 +15,10 @@ faq:
     answer: "28 Haziran 2025 sonrası piyasaya sunulan genel amaçlı bilgisayar ve işletim sistemleri, ödeme ve bazı öz hizmet terminalleri, akıllı telefonlar, e-okuyucular ve etkileşimli televizyon ekipmanları başlıca kapsamdadır."
   - question: "Erişilemeyen bir hizmet için nereye başvurulur?"
     answer: "Önce hizmet sağlayıcıdan erişilebilir çözüm ve yazılı kayıt istenir; sonuç alınamazsa ilgili ülkenin piyasa gözetimi veya hizmet uyumundan sorumlu ulusal makamına şikâyet edilir."
+heroImage: "/images/ab-online-alisveris-14-gun-cayma-rehberi.jpg"
+heroAlt: "Dizüstü bilgisayarla çevrim içi alışveriş yapan bir tüketici"
+heroCredit: "Artem Beliaikin from Moscow, Russia / Wikimedia Commons (CC BY 2.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Woman_online_shopping_concept._Woman_in_the_green_park_with_modern_laptop._Bali_island._(47798039732).jpg"
 ---
 
 Avrupa Erişilebilirlik Yasası olarak bilinen 2019/882 sayılı Direktifin ulusal uygulamaları 28 Haziran 2025'ten itibaren belirli ürün ve hizmetlere erişilebilirlik şartları getirir. Amaç, görme, işitme, hareket, konuşma veya bilişsel engeli bulunan kişilerin temel dijital ve fiziksel işlemleri başkasına bağımlı olmadan yapabilmesidir.

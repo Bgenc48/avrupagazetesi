@@ -15,6 +15,10 @@ faq:
     answer: "Yeni AB asgari standartları, eşitlik kurumlarının şikâyetçilere sunduğu hizmetlerin ücretsiz olmasını öngörür; avukatlık veya mahkeme giderleri ayrıca değerlendirilebilir."
   - question: "Eşitlik kurumu mahkeme yerine geçer mi?"
     answer: "Her zaman değil. Kurum destek, inceleme, uzlaşma, görüş veya bazı ülkelerde karar verebilir; bağlayıcı tazminat ve süre koruması için mahkeme ya da başka makam gerekebilir."
+heroImage: "/images/avrupa-kucuk-talepler-5000-avro-rehberi.jpg"
+heroAlt: "Lüksemburg’daki Avrupa Birliği Adalet Divanı yerleşkesi"
+heroCredit: "Luxofluxo / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Palais_de_la_Cour_de_Justice_CJEU_July_2021_Sign_to_the_Ancien_Palais.jpg"
 ---
 
 AB ülkelerindeki ulusal eşitlik kurumları, ayrımcılığa uğradığını düşünen kişilere bağımsız destek sağlamak, şikâyetleri almak, inceleme yapmak ve eşit muameleyi geliştirmek için görevlidir. Kurumun adı ve yetkisi ülkeden ülkeye değişir; birden fazla kurum cinsiyet, ırk veya etnik köken, engellilik, yaş, din veya inanç ve cinsel yönelim alanlarını paylaşabilir.

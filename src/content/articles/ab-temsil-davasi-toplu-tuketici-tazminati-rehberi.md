@@ -15,6 +15,10 @@ faq:
     answer: "Direktif kapsamındaki temsil davasını üye devletçe belirlenmiş nitelikli kuruluş açar. Tüketici davacı taraf değildir; ulusal opt-in veya opt-out kuralına göre sonuçtan yararlanır."
   - question: "Temsil davası yalnız para tazminatı için midir?"
     answer: "Hayır. Nitelikli kuruluş hukuka aykırı uygulamanın durdurulmasını ve para iadesi, onarım, değiştirme, fiyat indirimi veya sözleşmenin sona erdirilmesi gibi giderimleri isteyebilir."
+heroImage: "/images/ab-online-alisveris-14-gun-cayma-rehberi.jpg"
+heroAlt: "Dizüstü bilgisayarla çevrim içi alışveriş yapan bir tüketici"
+heroCredit: "Artem Beliaikin from Moscow, Russia / Wikimedia Commons (CC BY 2.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Woman_online_shopping_concept._Woman_in_the_green_park_with_modern_laptop._Bali_island._(47798039732).jpg"
 ---
 
 Aynı banka şartı, uçuş iptali, veri uygulaması, enerji sözleşmesi veya çevrim içi satış nedeniyle çok sayıda tüketici benzer zarar gördüğünde, herkesin ayrı dava açması maliyetli olabilir. 2020/1828 sayılı AB Direktifi, üye devletlerin tüketicilerin kolektif çıkarlarını koruyan temsil davası mekanizmasına sahip olmasını ister.

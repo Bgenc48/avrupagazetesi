@@ -15,6 +15,10 @@ faq:
     answer: "Sosyal güvenlik kaydı sağlık hakkının temelini oluşturabilir, ancak fiziksel veya dijital bölgesel tarjeta sanitaria için ikamet edilen özerk bölgenin sağlık hizmetine ayrıca kayıt gerekir."
   - question: "Avrupa Sağlık Sigortası Kartı İspanya'ya yerleşmede yeterli mi?"
     answer: "EHIC geçici kalışta gerekli sağlık hizmeti içindir; İspanya'ya yerleşen kişinin normal sağlık kapsamı yerine geçmez. Başka ülke sorumluysa S1 gibi taşınabilir belge gerekebilir."
+heroImage: "/images/almanya-saglik-sigortasi-yeni-calisan-rehberi.jpg"
+heroAlt: "Bir hastanede görev başındaki doktorlar ve sağlık çalışanları"
+heroCredit: "U.S. Army photo by Cpl. Clara Soria / Wikimedia Commons (Public domain)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:US,_Ghana_medical_staff_participate_in_medical_exercise_(8439482).jpg"
 ---
 
 İspanya'da kamu sağlık sistemine erişim iki katmanlıdır: sağlık hizmeti hakkının tanınması ve ikamet edilen özerk bölgeden **tarjeta sanitaria individual** alınması. Sosyal güvenlik numarası veya oturum kartı tek başına her hastane ekranında aktif sağlık hakkı anlamına gelmez.

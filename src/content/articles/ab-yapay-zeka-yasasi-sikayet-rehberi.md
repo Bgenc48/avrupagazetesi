@@ -15,6 +15,10 @@ faq:
     answer: "Hayır. Komisyonun aracı yalnız AI Office'in münhasır yetkisindeki sistemler ve AI Act ihlalleri içindir. Ulusal piyasa gözetimi, veri koruma, tüketici veya ayrımcılık makamı görevli olabilir."
   - question: "Şikâyet tazminat başvurusu sayılır mı?"
     answer: "Hayır. Denetim şikâyeti, mahkeme veya ulusal hukuk uyarınca tazminat talebinin yerine geçmez ve bu taleplerin sürelerini kendiliğinden durdurmaz."
+heroImage: "/images/gdpr-veri-erisim-duzeltme-sikayet-rehberi.jpg"
+heroAlt: "Verilerin işlendiği bir sunucu odası"
+heroCredit: "Esquilo / Wikimedia Commons (CC BY-SA 3.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:PDC_server_room.jpg"
 ---
 
 Bir işe alım puanı, kredi değerlendirmesi, kamu yardımı kontrolü, biyometrik tanıma veya genel amaçlı yapay zekâ hizmeti zarar verdiğinde ilk soru “algoritma yanlış mı?” değil, **hangi sistemin hangi kararda kullanıldığı ve hangi kurumun denetlediği** olmalıdır. AI Act görevleri sistem türüne, sağlayıcıya, kullanan kuruma ve ihlal edilen maddeye göre paylaşır.

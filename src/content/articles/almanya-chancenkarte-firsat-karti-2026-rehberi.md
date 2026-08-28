@@ -15,6 +15,10 @@ faq:
     answer: "Yeterliliği Almanya'da tam tanınmış nitelikli çalışan yolunu kullanmayan başvuru sahibi, temel eğitim ve dil şartlarına ek olarak puan sisteminde en az altı puan toplamalıdır."
   - question: "Fırsat kartıyla Almanya'da çalışılabilir mi?"
     answer: "İş arama fırsat kartı toplam haftada 20 saate kadar bir veya birden fazla yan işe ve işveren başına en fazla iki haftalık, nitelikli işe veya eğitime yönelik iş denemesine izin verir. Düzenli işe geçiş için uygun yeni oturum izni gerekir."
+heroImage: "/images/ab-arastirmaci-oturum-izni-rehberi.jpg"
+heroAlt: "Avrupa'daki bir havalimanında pasaport kontrol noktası"
+heroCredit: "Subhashish Panigrahi / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Man_using_the_automatic_gate_in_Munich_airport_02.jpg"
 ---
 
 Chancenkarte, AB/AEA/İsviçre dışı nitelikli kişilerin önceden iş sözleşmesi olmadan Almanya'da iş veya yeterlilik tanıma önlemi aramasına yönelik §20a oturum yoludur. Kart zorunlu bir iş bulma yöntemi değildir; aday kendi ülkesinden iş bulup doğrudan çalışma vizesine de başvurabilir. İlk kart, geçim kanıtıyla en fazla **12 ay** iş arama için verilir.

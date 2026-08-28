@@ -15,6 +15,10 @@ faq:
     answer: "Resmî rehber, iş ilişkisinin en az üç ay sürmesini, haftalık çalışmanın en az 15 saat olmasını ve aylık brüt ücretin ilgili asgari aylık ücretin altında kalmamasını ister."
   - question: "Employee Card başvurusunda ilan numarası neden önemlidir?"
     answer: "Kart, yabancılar için merkezî iş ilanı veri tabanındaki belirli bir pozisyonla ilişkilendirilir. Başvuru formu, sözleşme ve işveren beyanındaki pozisyon ve ilan referansı birbiriyle aynı olmalıdır."
+heroImage: "/images/ab-arastirmaci-oturum-izni-rehberi.jpg"
+heroAlt: "Avrupa'daki bir havalimanında pasaport kontrol noktası"
+heroCredit: "Subhashish Panigrahi / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Man_using_the_automatic_gate_in_Munich_airport_02.jpg"
 ---
 
 Çekya'da üç aydan uzun süre çalışacak birçok AB dışı ülke vatandaşı için Employee Card, hem ikamet hem istihdam amacını birleştiren temel belgedir. Ancak kart, herhangi bir iş teklifine dayanmaz. İşin yabancılara açık merkezî veri tabanında yer alması, başvurudaki referans ile sözleşmenin aynı pozisyonu göstermesi gerekir.

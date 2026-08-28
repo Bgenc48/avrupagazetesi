@@ -15,6 +15,10 @@ faq:
     answer: "İş sözleşmeli çalışan yalnız İspanya dışındaki şirketlere uzaktan çalışabilir. Serbest meslek sahibi ise İspanya'daki müşterilerden gelen faaliyeti toplam mesleki faaliyetinin yüzde 20'sini aşmayacak şekilde yürütebilir."
   - question: "Telework başvurusu için şirketle kaç aylık ilişki gerekir?"
     answer: "Resmî rehber, şirketin en az bir yıldır gerçek ve sürekli faaliyette olmasını; başvuru sahibinin yabancı şirketle iş veya ticari ilişkisinin başvurudan önce en az üç aydır sürmesini ister."
+heroImage: "/images/ab-arastirmaci-oturum-izni-rehberi.jpg"
+heroAlt: "Avrupa'daki bir havalimanında pasaport kontrol noktası"
+heroCredit: "Subhashish Panigrahi / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Man_using_the_automatic_gate_in_Munich_airport_02.jpg"
 ---
 
 İspanya'nın “teletrabajador de carácter internacional” izni, AB dışı ülke vatandaşının İspanya'dan dijital araçlarla yurt dışındaki şirketlere çalışması için tasarlanmıştır. Turist olarak uzaktan çalışmakla aynı değildir. Başvuru sahibi çalışan mı yoksa bağımsız profesyonel mi olduğunu en başta belirlemeli; gelir, müşteri ve sosyal güvenlik belgelerini buna göre kurmalıdır.

@@ -15,6 +15,10 @@ faq:
     answer: "Genellikle hayır. Satıcı faaliyetini tüketicinin mutad mesken ülkesine yöneltiyor ve sözleşme bu kapsamdaysa hukuk seçimi, tüketiciyi seçim olmasa uygulanacak zorunlu korumadan mahrum bırakamaz."
   - question: "Uygulanacak hukuk ile yetkili mahkeme aynı şey midir?"
     answer: "Hayır. Rome I uyuşmazlığın hangi ülke maddi hukukuna göre çözüleceğini; Brüksel I bis ise hangi ülke mahkemesinin davaya bakabileceğini belirler."
+heroImage: "/images/ab-online-alisveris-14-gun-cayma-rehberi.jpg"
+heroAlt: "Dizüstü bilgisayarla çevrim içi alışveriş yapan bir tüketici"
+heroCredit: "Artem Beliaikin from Moscow, Russia / Wikimedia Commons (CC BY 2.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Woman_online_shopping_concept._Woman_in_the_green_park_with_modern_laptop._Bali_island._(47798039732).jpg"
 ---
 
 Başka ülkedeki internet mağazasıyla yapılan sözleşmede “X ülkesi hukuku uygulanır” maddesi bulunabilir. 593/2008 sayılı Rome I Tüzüğü, AB'deki sınır ötesi sözleşmelerde hangi ülke maddi hukukunun uygulanacağını belirler. Taraflara hukuk seçme özgürlüğü verir, fakat tüketiciyi koruyan zorunlu kuralları tamamen sözleşmeyle kaldırmaya izin vermez.

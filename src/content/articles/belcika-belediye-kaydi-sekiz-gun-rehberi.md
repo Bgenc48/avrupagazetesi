@@ -15,6 +15,10 @@ faq:
     answer: "Belgium.be, üç aydan uzun kalmak isteyen yabancının gelişinden itibaren sekiz gün içinde fiilen kaldığı belediyeye başvurmasını belirtir. Yerel randevu sistemi ve belge listesi belediyeden doğrulanmalıdır."
   - question: "Belediyeye başvurmak oturum kartını hemen verir mi?"
     answer: "Hayır. Başvuru, dosya ve gerçek adres kontrolünü başlatır. Polis ikamet kontrolü ve göçmenlik statüsü değerlendirmesi sonrasında uygun sicil kaydı ve kart aşaması tamamlanır."
+heroImage: "/images/ab-hukuku-ihlalini-komisyona-bildirme-rehberi.jpg"
+heroAlt: "Brüksel'deki Avrupa Komisyonu Berlaymont binasının girişi"
+heroCredit: "Ank Kumar / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:European_Commission_headquarters,_The_Berlaymont_Building,_Brussels,_Belgium_(_Ank_Kumar,_Infosys_Limited_).jpg"
 ---
 
 Belçika'ya üç aydan uzun süre için taşınan yabancı, yalnız vize veya iş izniyle adres işlemini tamamlamış sayılmaz. Belgium.be, kişinin gelişinden itibaren **sekiz gün içinde** fiilen yaşadığı belediyeye başvurmasını ister. Kurumun adı bölgeye göre commune, gemeente veya Gemeindeverwaltung olabilir.

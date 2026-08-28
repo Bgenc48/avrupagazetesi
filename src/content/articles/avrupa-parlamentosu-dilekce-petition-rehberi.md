@@ -15,6 +15,10 @@ faq:
     answer: "Evet. Bir AB üye devletinde ikamet eden gerçek kişi, vatandaşlığı olmasa da AB faaliyet alanına giren ve kendisini doğrudan etkileyen konuda dilekçe verebilir."
   - question: "Avrupa Parlamentosu dilekçesi için kaç imza gerekir?"
     answer: "Asgari imza sayısı yoktur; tek kişi bireysel başvuru yapabilir. Başka kişiler mevcut bir dilekçeyi destekleyebilir veya birlikte başvurabilir."
+heroImage: "/images/avrupa-kucuk-talepler-5000-avro-rehberi.jpg"
+heroAlt: "Lüksemburg’daki Avrupa Birliği Adalet Divanı yerleşkesi"
+heroCredit: "Luxofluxo / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Palais_de_la_Cour_de_Justice_CJEU_July_2021_Sign_to_the_Ancien_Palais.jpg"
 ---
 
 Avrupa Parlamentosuna dilekçe, AB hukukunun uygulanması veya AB'nin faaliyet alanına giren bir sorunun başvurucuyu doğrudan etkilemesi halinde kullanılan resmî kanaldır. Bir şikâyet, talep, gözlem veya Parlamentonun belirli konuda tutum alması isteği olabilir; ulusal mahkemenin yerine geçen bireysel karar yolu değildir.

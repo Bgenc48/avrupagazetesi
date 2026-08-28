@@ -15,6 +15,10 @@ faq:
     answer: "Hayır. Ulusal kararı iptal etme ve kişiye tazminat hükmetme yetkisi ulusal mahkemelerdedir; Komisyon üye devletin AB hukukunu genel veya sistematik ihlalini inceleyebilir."
   - question: "Komisyona şikâyet dava süresini durdurur mu?"
     answer: "Hayır. Komisyon şikâyeti ulusal itiraz, dava veya zamanaşımı sürelerini durdurmaz; bireysel hakkı korumak için ulusal yollar paralel kullanılmalıdır."
+heroImage: "/images/avrupa-kucuk-talepler-5000-avro-rehberi.jpg"
+heroCredit: "Luxofluxo / Wikimedia Commons (CC BY-SA 4.0)"
+heroAlt: "Lüksemburg’daki Avrupa Birliği Adalet Divanı yerleşkesi"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Palais_de_la_Cour_de_Justice_CJEU_July_2021_Sign_to_the_Ancien_Palais.jpg"
 ---
 
 Bir AB üye devletinin makamı AB hukukunu yanlış uyguluyor veya gerekli ulusal düzenlemeyi yapmıyorsa kişi, işletme ya da kuruluş Avrupa Komisyonuna ihlal şikâyeti sunabilir. Bu mekanizma bireysel kararın temyizi değildir. Komisyon, üye devletin genel uygulamasını inceler ve gerekirse ihlal süreci başlatır.

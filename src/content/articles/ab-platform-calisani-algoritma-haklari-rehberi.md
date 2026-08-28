@@ -15,6 +15,10 @@ faq:
     answer: "Hayır. Ulusal hukukta kontrol ve yönlendirmeyi gösteren olgular bulunursa hukuki iş ilişkisi karinesi uygulanabilir; sözleşmedeki etiket tek başına belirleyici değildir."
   - question: "Hesap kapatma kararında insan incelemesi istenebilir mi?"
     answer: "Platform çalışanını önemli ölçüde etkileyen otomatik kararlar gerekçelendirilmeli ve insan tarafından yeniden incelenebilmelidir; inceleyenin kararı değiştirme yetkisi bulunmalıdır."
+heroImage: "/images/gdpr-veri-erisim-duzeltme-sikayet-rehberi.jpg"
+heroAlt: "Verilerin işlendiği bir sunucu odası"
+heroCredit: "Esquilo / Wikimedia Commons (CC BY-SA 3.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:PDC_server_room.jpg"
 ---
 
 Yemek teslimatı, yolcu taşıma, ev hizmeti veya çevrim içi görev platformlarında ücret ve işe erişim uygulama tarafından düzenlenebilir. 2024/2831 sayılı AB Platform Çalışması Direktifi, kişinin doğru istihdam statüsünü belirlemeyi ve algoritmik yönetimde asgari şeffaflık ile insan gözetimi sağlamayı amaçlar. Üye devletlerin ulusal uygulama kuralları ayrıca izlenmelidir.

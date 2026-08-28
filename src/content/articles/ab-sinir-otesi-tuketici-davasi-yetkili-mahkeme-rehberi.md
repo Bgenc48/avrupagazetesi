@@ -15,6 +15,10 @@ faq:
     answer: "Satıcı ticari faaliyetini tüketicinin ikamet ettiği üye devlete yöneltiyor ve sözleşme bu faaliyet kapsamındaysa tüketici, satıcının ülkesinde veya kendi ikamet yerindeki yetkili mahkemede dava açabilir."
   - question: "Satıcı tüketiciyi başka AB ülkesinde dava edebilir mi?"
     answer: "Korunan tüketici sözleşmesinde satıcı kural olarak tüketiciyi yalnız tüketicinin ikamet ettiği üye devlet mahkemelerinde dava edebilir; karşı dava ve sınırlı yetki anlaşması istisnaları vardır."
+heroImage: "/images/ab-online-alisveris-14-gun-cayma-rehberi.jpg"
+heroAlt: "Dizüstü bilgisayarla çevrim içi alışveriş yapan bir tüketici"
+heroCredit: "Artem Beliaikin from Moscow, Russia / Wikimedia Commons (CC BY 2.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Woman_online_shopping_concept._Woman_in_the_green_park_with_modern_laptop._Bali_island._(47798039732).jpg"
 ---
 
 Başka AB ülkesindeki internet mağazasıyla uyuşmazlık çıktığında ilk soru yalnız “haklı mıyım” değildir; hangi ülkenin hangi mahkemesinin davaya bakacağı da belirlenmelidir. 1215/2012 sayılı Brüksel I bis Tüzüğü, medeni ve ticari davalarda genel olarak davalının yerleşim yerini esas alır, fakat tüketiciyi koruyan özel yetki kuralları sağlar.

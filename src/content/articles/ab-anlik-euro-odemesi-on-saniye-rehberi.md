@@ -15,6 +15,10 @@ faq:
     answer: "Kural kapsamındaki anlık euro transferinde tutar, talimatın alınmasından sonra yaklaşık on saniye içinde alıcının hesabına erişilebilir hale gelmeli ve göndericiye sonuç teyidi verilmelidir."
   - question: "Banka anlık transfer için daha yüksek ücret alabilir mi?"
     answer: "Anlık euro transfer ücreti, aynı tür normal euro transferi için alınan ücretten yüksek olamaz; hesap paketindeki olağan ücret yine uygulanabilir."
+heroImage: "/images/ab-10000-avro-nakit-beyan-rehberi.jpg"
+heroAlt: "Euro banknotları ve madeni avrolar"
+heroCredit: "Avij (talk · contribs) / Wikimedia Commons (Public domain)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Euro_coins_and_banknotes_(cropped).jpg"
 ---
 
 AB Anlık Ödemeler Tüzüğü, euro cinsinden kredi transferlerinin günün her saati ve yılın her günü saniyeler içinde yapılmasını yaygınlaştırır. Kapsamdaki ödeme hizmeti sağlayıcıları, anlık transfer alma ve gönderme hizmetlerini aşamalı tarihlerde sunar. Uygulama takvimi euro bölgesi ile euro kullanmayan üye devletlerde farklıdır.

@@ -15,6 +15,10 @@ faq:
     answer: "Hayır. Avrupa Ombudsmanı AB kurum, organ, ofis ve ajanslarının kötü yönetimini inceler; ulusal, bölgesel veya yerel makam şikâyeti ilgili ülkenin ombudsmanına yöneltilir."
   - question: "Şikâyet için süre nedir?"
     answer: "Şikâyet, olayların öğrenilmesinden itibaren iki yıl içinde ve önce ilgili AB kurumuna düzeltme için başvurulduktan sonra yapılmalıdır."
+heroImage: "/images/avrupa-kucuk-talepler-5000-avro-rehberi.jpg"
+heroAlt: "Lüksemburg’daki Avrupa Birliği Adalet Divanı yerleşkesi"
+heroCredit: "Luxofluxo / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Palais_de_la_Cour_de_Justice_CJEU_July_2021_Sign_to_the_Ancien_Palais.jpg"
 ---
 
 Avrupa Ombudsmanı, Avrupa Komisyonu, Parlamento idaresi, AB ajansları ve diğer Birlik kurumlarının kötü yönetimine ilişkin şikâyetleri bağımsız olarak inceler. Gecikme, yanıtsız bırakma, ayrımcılık, yetki kötüye kullanımı, şeffaflık eksikliği veya bilgiye erişim reddi tipik konulardır.

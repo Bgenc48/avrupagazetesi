@@ -15,6 +15,10 @@ faq:
     answer: "AB vatandaşıyla ev sahibi ülkede 2004/38 koşullarına uygun biçimde beş yıl kesintisiz yasal ikamet eden aile üyesi kalıcı ikamet hakkını kazanır."
   - question: "Kalıcı oturum kartı kaç yıl geçerlidir?"
     answer: "Kart 10 yıl geçerli olmalı ve otomatik yenilenmelidir; kalıcı ikamet hakkı ev sahibi ülke dışında art arda iki yıldan uzun kalışta kaybedilebilir."
+heroImage: "/images/fransa-aile-birlesimi-regroupement-familial-rehberi.jpg"
+heroAlt: "Ailelerin ve çocukların katıldığı açık hava etkinliği"
+heroCredit: "Cupofjoy / Wikimedia Commons (CC0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Family_festival_in_the_park_with_inflatables.jpg"
 ---
 
 AB vatandaşı, kendi vatandaşı olmadığı başka bir üye devlette serbest dolaşım hakkını kullanırken AB dışı eşi veya belirli aile üyeleri onunla yaşayabilir. Bu aile üyesi, 2004/38 sayılı Direktif koşullarına uygun beş yıllık kesintisiz yasal ikametin sonunda kalıcı ikamet hakkı kazanır. Bu yol, yalnız ulusal aile birleşimi izniyle aynı değildir.

@@ -15,6 +15,10 @@ faq:
     answer: "2021/1883 sayılı Direktif kapsamında ilk üye devlette AB Mavi Kart sahibi olarak 12 ay yasal ikametten sonra, ikinci ülkede yüksek nitelikli iş amacıyla uzun dönem hareketlilik yolu açılır."
   - question: "İkinci ülkede aynı kartla süresiz çalışılabilir mi?"
     answer: "Hayır. İkinci ülkenin yetkili makamına o ülke için AB Mavi Kart başvurusu yapılmalı ve ulusal usul, belge ve çalışma başlangıcı koşulları izlenmelidir."
+heroImage: "/images/ab-arastirmaci-oturum-izni-rehberi.jpg"
+heroAlt: "Avrupa'daki bir havalimanında pasaport kontrol noktası"
+heroCredit: "Subhashish Panigrahi / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Man_using_the_automatic_gate_in_Munich_airport_02.jpg"
 ---
 
 Bir üye devletin verdiği AB Mavi Kart, bütün Avrupa Birliği'nde tek bir çalışma izni değildir. Buna karşılık 2021/1883 sayılı Direktif, ilk ülkede AB Mavi Kart sahibi olarak 12 ay yasal ikametten sonra başka bir katılımcı üye devlette yüksek nitelikli işe geçiş için özel bir hareketlilik yolu kurar. Danimarka ve İrlanda bu Direktife katılmaz.

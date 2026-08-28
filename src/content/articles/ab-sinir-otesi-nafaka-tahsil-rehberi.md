@@ -15,6 +15,10 @@ faq:
     answer: "Evet. 4/2009 sayılı Tüzük, katılımcı ülkeler arasında nafaka kararlarının tanınması ve icrası ile merkezî makamların adres, gelir ve başvuru desteğini düzenler."
   - question: "Sınır ötesi çocuk nafakası başvurusu ücretli midir?"
     answer: "21 yaş altındaki kişilerin ebeveyn-çocuk ilişkisinden doğan taleplerinde merkezî makam üzerinden ücretsiz adli yardım için güçlü koruma vardır; dosya ve ülke koşullarını makamdan teyit edin."
+heroImage: "/images/avrupa-kucuk-talepler-5000-avro-rehberi.jpg"
+heroAlt: "Lüksemburg’daki Avrupa Birliği Adalet Divanı yerleşkesi"
+heroCredit: "Luxofluxo / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Palais_de_la_Cour_de_Justice_CJEU_July_2021_Sign_to_the_Ancien_Palais.jpg"
 ---
 
 Bir AB ülkesinde verilen çocuk veya eş nafakası kararının borçlunun yaşadığı başka üye devlette tahsil edilmesi için 4/2009 sayılı Nafaka Tüzüğü ortak yetki, tanıma, icra ve merkezî makam işbirliği kuralları getirir. Danimarka bakımından bazı hükümler farklı uygulanır; Birleşik Krallık ve AB dışı ülkelerde başka sözleşmeler devreye girebilir.

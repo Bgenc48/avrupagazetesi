@@ -15,6 +15,10 @@ faq:
     answer: "Hayır. İş bağlamında bilgi edinen eski ve mevcut çalışanlar, adaylar, serbest çalışanlar, hissedarlar, yöneticiler, yükleniciler, tedarikçiler ve kolaylaştırıcılar da kapsama girebilir."
   - question: "Bildirimden sonra geri bildirim ne zaman gelmelidir?"
     answer: "Direktif çerçevesinde bildirim alındısı normalde yedi gün içinde, izleme hakkında geri bildirim ise çoğu durumda üç ay içinde verilir; ulusal uygulamayı kontrol edin."
+heroImage: "/images/avrupa-kucuk-talepler-5000-avro-rehberi.jpg"
+heroAlt: "Lüksemburg’daki Avrupa Birliği Adalet Divanı yerleşkesi"
+heroCredit: "Luxofluxo / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Palais_de_la_Cour_de_Justice_CJEU_July_2021_Sign_to_the_Ancien_Palais.jpg"
 ---
 
 AB ihbarcı koruması, iş bağlamında edinilen ve belirli AB hukuku alanlarındaki ihlallere ilişkin bilgiyi bildiren kişileri misillemeden korumayı amaçlar. Kamu ihalesi, finansal hizmetler, kara para aklama, ürün ve ulaşım güvenliği, çevre, gıda, halk sağlığı, tüketici ve kişisel veri koruması kapsanan alanlar arasındadır. Ulusal hukuk daha geniş konuları koruyabilir.

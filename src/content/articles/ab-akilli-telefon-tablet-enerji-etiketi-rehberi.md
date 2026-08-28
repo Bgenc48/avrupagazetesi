@@ -15,6 +15,10 @@ faq:
     answer: "Hayır. Etikette enerji sınıfının yanında şarj başına pil dayanımı, güvenilirlikte serbest düşme sınıfı, tamir edilebilirlik sınıfı, pil çevrim bilgisi ve IP koruma derecesi gibi göstergeler bulunur."
   - question: "Eski telefonların tamamına yeni etiket takılması gerekir mi?"
     answer: "Kurallar 20 Haziran 2025'ten itibaren AB pazarına sunulan kapsamdaki modellere uygulanır. Daha önce piyasaya sunulmuş ürün için yalnız rafta bulunması yeni etiketi otomatik zorunlu kılmaz."
+heroImage: "/images/ab-akilli-telefon-tablet-enerji-etiketi-rehberi.jpg"
+heroAlt: "Dokunmatik ekranlı bir akıllı telefon"
+heroCredit: "Jr223 / Wikimedia Commons (CC BY-SA 3.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:P-02E_front.jpg"
 ---
 
 AB'de akıllı telefonlar ve düz ekranlı “slate” tabletler için enerji etiketi ile yeni eko-tasarım şartları 20 Haziran 2025'ten itibaren uygulanıyor. Amaç yalnız elektrik tüketimini göstermek değil; alıcının pil ömrü, dayanıklılık ve tamir edilebilirlik hakkında aynı biçimde karşılaştırılabilir bilgi görmesini sağlamaktır.

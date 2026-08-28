@@ -15,6 +15,10 @@ faq:
     answer: "Her üye devlet, on iki aylık dönemde beş ile dokuz ay arasında bir azami süre belirler. Kesin süre, sektör ve izin türü hedef ülkenin mevzuatına göre kontrol edilmelidir."
   - question: "Mevsimlik işçi ailesini yanında götürebilir mi?"
     answer: "AB mevsimlik işçi çerçevesi bu izin üzerinden aile birleşimi hakkı vermez. Aile üyesinin varsa bağımsız vize veya oturum dayanağı ayrıca incelenir."
+heroImage: "/images/ab-gorevlendirilen-calisan-a1-haklari-rehberi.jpg"
+heroAlt: "Çalışma hayatı üzerine düzenlenen kalabalık bir toplantı"
+heroCredit: "Marjory Collins / Wikimedia Commons (Public domain)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:A_Sunday_afternoon_meeting_of_the_rubber_workers_union8d18608v.jpg"
 ---
 
 AB mevsimlik işçi yolu, ana ikameti AB dışında olan üçüncü ülke vatandaşının tarım, hasat veya turizm gibi mevsime bağlı bir sektörde geçici çalışması içindir. Danimarka ve İrlanda ortak direktifin dışında kalır; diğer ülkeler hangi faaliyetlerin mevsimlik sayılacağını kendi listelerinde belirler.

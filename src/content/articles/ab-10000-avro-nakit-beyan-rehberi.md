@@ -15,6 +15,10 @@ faq:
     answer: "Evet. AB topraklarına giren veya çıkan ve 10.000 avro ya da döviz karşılığını taşıyan kişi uyumlaştırılmış nakit beyan formunu giriş veya çıkış ülkesinin gümrüğüne vermelidir."
   - question: "10.000 avro sınırı aile toplamına mı uygulanır?"
     answer: "Eşik her kişi için ayrı uygulanır; ancak paranın gerçek sahibi ve amacı doğru açıklanmalıdır. Çocuk adına taşınan tutarın beyanını ebeveyn veya kanuni temsilci yapar."
+heroImage: "/images/ab-10000-avro-nakit-beyan-rehberi.jpg"
+heroCredit: "Avij (talk · contribs) / Wikimedia Commons (Public domain)"
+heroAlt: "Euro banknotları ve madeni avrolar"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Euro_coins_and_banknotes_(cropped).jpg"
 ---
 
 AB topraklarına girerken veya AB'den çıkarken **10.000 avro veya daha fazla** nakit ya da eşdeğer değer taşıyan yolcu gümrüğe beyanda bulunmalıdır. Bu bir vergi ödeme işlemi değildir; kara para aklama ve terör finansmanı kontrolleri için paranın sahibi, kaynağı ve kullanım amacı kaydedilir.

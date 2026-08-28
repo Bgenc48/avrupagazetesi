@@ -15,6 +15,10 @@ faq:
     answer: "S2 yolu genel olarak tedavi ülkesinin kamu sağlık sistemi kapsamındaki sağlayıcılar için kullanılır. Özel sağlayıcının kamu sistemine dahil olup olmadığını hem sigortanızdan hem hastaneden yazılı teyit edin."
   - question: "Uzun bekleme listesi S2 ön izni için gerekçe olabilir mi?"
     answer: "Evet. Tedavi kendi sigorta paketinizdeyse ve sağlık durumunuz ile hastalığın seyri dikkate alındığında tıbben gerekçeli süre içinde ülkenizde verilemiyorsa ön iznin reddedilmemesi gerekir."
+heroImage: "/images/ab-konut-kredisi-esis-rehberi.jpg"
+heroAlt: "Amsterdam'da konutların bulunduğu bir şehir sokağı"
+heroCredit: "Jorge Láscar from Australia / Wikimedia Commons (CC BY 2.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Street_and_canal_at_dusk,_Oudezijds_Voorburgwal_%27blue_hour%27,_7_januari_2011_(5821465439).jpg"
 ---
 
 Başka bir AB ülkesinde özellikle planlanmış muayene, ameliyat veya tedavi, tatilde ortaya çıkan acil sağlık ihtiyacından farklıdır. EHIC planlı tedavinin ödeme aracı değildir. Kamu sigortalısı için iki ana AB yolu bulunur: sigortadan önceden **S2 formu** alarak tedavi ülkesinin kamu sistemi koşullarında hizmet veya sınır ötesi sağlık kurallarıyla masrafı ödeyip sonradan kendi ülkesinden geri ödeme.

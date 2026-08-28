@@ -15,6 +15,10 @@ faq:
     answer: "Evet. Belçika'da yasal ikamet edenler için hastalık ve malullük sigortasına katılım genel olarak zorunludur; hak ve katkı durumu kişinin çalışma, ikamet ve aile statüsüne göre belirlenir."
   - question: "Mutualité yerine ücretsiz bir seçenek var mı?"
     answer: "Zorunlu sigorta kapsamını yönetmek için kamu yardımcı fonu CAAMI/HZIV seçilebilir. Özel mutualitélerin ek hizmetleri ve üyelik katkıları farklı olduğundan zorunlu ve tamamlayıcı kapsamı ayırarak karşılaştırın."
+heroImage: "/images/almanya-saglik-sigortasi-yeni-calisan-rehberi.jpg"
+heroAlt: "Bir hastanede görev başındaki doktorlar ve sağlık çalışanları"
+heroCredit: "U.S. Army photo by Cpl. Clara Soria / Wikimedia Commons (Public domain)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:US,_Ghana_medical_staff_participate_in_medical_exercise_(8439482).jpg"
 ---
 
 Belçika'da zorunlu sağlık ve malullük sigortası, doktor muayenesi ve hastane masrafının bir bölümünün geri ödenmesini, iş göremezlik ve analık gibi bazı ödemeleri yönetir. Bu haklara erişmek için bir **mutualité/ziekenfonds** veya kamu yardımcı fonuna kayıt gerekir. İşverenin sosyal güvenlik bildirimi tek başına seçtiğiniz fon üyeliğini her zaman tamamlamaz.

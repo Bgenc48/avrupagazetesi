@@ -15,6 +15,10 @@ faq:
     answer: "Yalnız Türk vatandaşıysa hayır; imza hakkı AB üyesi ülke vatandaşlarına aittir. Türk-AB çifte vatandaşı, AB vatandaşlığını kullanarak şartları karşılıyorsa imzalayabilir."
   - question: "Bir milyon imza Komisyonu yasa çıkarmaya zorlar mı?"
     answer: "Hayır. Geçerli imza ve ülke eşikleri sağlanınca Komisyon girişimi inceleyip gerekçeli resmî yanıt verir; yasa önerip önermemeye karar verir."
+heroImage: "/images/ab-arastirmaci-oturum-izni-rehberi.jpg"
+heroAlt: "Avrupa'daki bir havalimanında pasaport kontrol noktası"
+heroCredit: "Subhashish Panigrahi / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Man_using_the_automatic_gate_in_Munich_airport_02.jpg"
 ---
 
 Avrupa Vatandaş Girişimi, AB vatandaşlarının Avrupa Komisyonundan yetki alanında yeni bir AB yasası önermesini istemesine yarar. Parlamento dilekçesinden farklı olarak tek kişinin mevcut bir soruna şikâyeti değil, çok ülkeli ve doğrulanmış destekle mevzuat önerisi çağrısıdır.

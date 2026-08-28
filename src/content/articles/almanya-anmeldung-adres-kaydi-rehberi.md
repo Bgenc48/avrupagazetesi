@@ -15,6 +15,10 @@ faq:
     answer: "Bundesmeldegesetz §17 uyarınca konuta taşındıktan sonra iki hafta içinde yetkili Meldebehörde'ye kayıt yapılmalıdır. Randevu bulunamıyorsa zamanında girişimin kanıtı saklanmalıdır."
   - question: "Kira sözleşmesi Wohnungsgeberbestätigung yerine geçer mi?"
     answer: "Genellikle hayır. BMG §19, konutu sağlayanın taşınmayı belirli bilgilerle teyit etmesini öngörür. Belediye kira sözleşmesine ek olarak bu belgeyi ister."
+heroImage: "/images/ab-hukuku-ihlalini-komisyona-bildirme-rehberi.jpg"
+heroAlt: "Brüksel'deki Avrupa Komisyonu Berlaymont binasının girişi"
+heroCredit: "Ank Kumar / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:European_Commission_headquarters,_The_Berlaymont_Building,_Brussels,_Belgium_(_Ank_Kumar,_Infosys_Limited_).jpg"
 ---
 
 **Anmeldung**, Almanya'da bir konuta taşındıktan sonra adresin Meldebehörde veya Bürgeramt'a bildirilmesidir. Bundesmeldegesetz, BMG §17 uyarınca kayıt iki hafta içinde yapılmalıdır. Bu süre vize başvuru tarihinden, kira sözleşmesinin imzasından veya Almanya'ya girişten değil, konuta fiilen taşınma gününden başlar.

@@ -3,8 +3,15 @@ import { href } from '../data/site';
 const { article } = Astro.props;
 ---
 <article class="card">
+  <a href={href(`makale/${article.id}`)} aria-label={article.data.title}>
+    <img src={href(article.data.heroImage)} alt={article.data.heroAlt} loading="lazy" width="640" height="360" />
+  </a>
   <p class="eyebrow">{article.data.section.replaceAll('-', ' ')}</p>
   <h2><a href={href(`makale/${article.id}`)}>{article.data.title}</a></h2>
   <p>{article.data.excerpt}</p>
   <p class="meta">{article.data.pubDate.toLocaleDateString('tr-TR')} · {article.data.author}</p>
 </article>
+
+<style>
+  img { width:100%; aspect-ratio:16/9; object-fit:cover; display:block; margin-bottom:.9rem; }
+</style>

@@ -15,6 +15,10 @@ faq:
     answer: "Avusturya hükümet portalına göre konuta fiilen taşındıktan sonra üç gün içinde ana veya ikincil adres için kayıt yapılmalıdır. Taşınmadan önce sahte adres kaydı yapılamaz."
   - question: "Meldezettel oturum izni yerine geçer mi?"
     answer: "Hayır. Meldezettel ikamet adresinin Merkezi Nüfus Siciline kaydıdır. Türk vatandaşı için vize, çalışma veya oturum izni şartları ayrı makam ve süreçlere tabidir."
+heroImage: "/images/ab-hukuku-ihlalini-komisyona-bildirme-rehberi.jpg"
+heroAlt: "Brüksel'deki Avrupa Komisyonu Berlaymont binasının girişi"
+heroCredit: "Ank Kumar / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:European_Commission_headquarters,_The_Berlaymont_Building,_Brussels,_Belgium_(_Ank_Kumar,_Infosys_Limited_).jpg"
 ---
 
 Avusturya'da bir ev, oda veya alt kiraya fiilen taşınan kişi, ana ya da ikincil adresini **üç gün içinde** kayıt ettirmelidir. Bu işlem günlük dilde Meldezettel olarak anılır. Formun adı ile kayıt sonucunda verilen Bestätigung der Meldung belgesini karıştırmayın.

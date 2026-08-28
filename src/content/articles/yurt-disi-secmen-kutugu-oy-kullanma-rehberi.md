@@ -15,6 +15,10 @@ faq:
     answer: "Yurt dışı seçmen kütüğü adres kayıt sistemindeki yurt dışı yerleşim bilgisine dayanır. Adres beyanı yaptıktan sonra YSK veya e-Devlet sorgusundan kaydı doğrulamak ve askı dönemindeki yanlışlığa süresinde itiraz etmek gerekir."
   - question: "Mavi Kart sahibi Türkiye seçimlerinde oy kullanabilir mi?"
     answer: "Hayır. Mavi Kart, Türk vatandaşlığı değildir ve seçme-seçilme hakkı vermez. Oy verme gününde seçmen niteliğini taşıyan Türk vatandaşı ve yurt dışı seçmen kütüğünde kayıtlı olmak gerekir."
+heroImage: "/images/abden-turkiyeye-tax-free-kdv-iadesi-rehberi.jpg"
+heroAlt: "Türkiye ve Avrupa Birliği temsilcilerinin katıldığı uluslararası toplantı"
+heroCredit: "Christophe Licoppe, © European Union, 2025 / Wikimedia Commons (CC BY 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Securing_Our_Future_(EC_pic)_2025-03-02-15-19.jpg"
 ---
 
 Yurt dışında yaşayan Türk vatandaşlarının Cumhurbaşkanı seçimi, milletvekili genel seçimi ve halkoylamasında temsilciliklerde veya ilan edilen gümrük kapılarında oy kullanabilmesi için **Yurt Dışı Seçmen Kütüğü'nde** kayıtlı olması gerekir. Yerel seçimler bu yurt dışı oy verme düzeninin kapsamında değildir. Her seçim için gün, yer ve yöntem Yüksek Seçim Kurulunun güncel takvim ve kararlarıyla belirlenir.

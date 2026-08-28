@@ -15,6 +15,10 @@ faq:
     answer: "Genel olarak bir AB ülkesinde yetkili sağlık çalışanının düzenlediği ve gerekli hasta, hekim ve ilaç bilgilerini taşıyan reçete diğer AB ülkelerinde tanınır; ancak ilacın ruhsatı, bulunabilirliği ve kontrollü madde kuralları ulusaldır."
   - question: "E-reçete başka AB ülkesinde otomatik çalışır mı?"
     answer: "Hayır. Sınır ötesi e-reçete yalnız birbirine bağlı ülkeler ve hizmetler arasında çalışır. Seyahatten önce sistem kapsamını kontrol edin ve doktorunuzdan gerekli bilgileri içeren kâğıt kopya isteyin."
+heroImage: "/images/ab-konut-kredisi-esis-rehberi.jpg"
+heroAlt: "Amsterdam'da konutların bulunduğu bir şehir sokağı"
+heroCredit: "Jorge Láscar from Australia / Wikimedia Commons (CC BY 2.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Street_and_canal_at_dusk,_Oudezijds_Voorburgwal_%27blue_hour%27,_7_januari_2011_(5821465439).jpg"
 ---
 
 Bir AB ülkesinde yetkili sağlık çalışanının düzenlediği reçete, gerekli bilgileri taşıyorsa başka bir AB ülkesinde de kullanılabilir. Bu kural aynı marka, kutu büyüklüğü veya fiyatın bulunacağını garanti etmez. İlaç hedef ülkede ruhsatlı olmayabilir, farklı adla satılabilir veya ulusal mevzuat daha küçük miktar verilmesini gerektirebilir.

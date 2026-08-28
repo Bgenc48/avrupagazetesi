@@ -15,6 +15,10 @@ faq:
     answer: "Her zaman değil. Yayımlanan tek parça liste tarifesi; KDV, yakıt, uzak bölge, hacimsel ağırlık, sigorta, kapıdan alım veya aracı indirimi gibi unsurlarla nihai fiyattan ayrılabilir."
   - question: "Tüzük bütün kargo fiyatlarını ucuzlatır mı?"
     answer: "Hayır. 2018/644 sayılı Tüzük fiyat tavanı koymaz; düzenleyici gözetimi ve belirli tek parça sınır ötesi tarifelerin şeffaflığını artırır."
+heroImage: "/images/ab-kargo-teslim-edilmedi-hasarli-urun-rehberi.jpg"
+heroAlt: "Paketlerle bir evin kapısını çalan teslimat görevlisi"
+heroCredit: "Meanwell Packaging / Wikimedia Commons (CC BY 2.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:A_Delivery_Driver_Knocking_on_a_Door_to_Deliver_Packages.jpg"
 ---
 
 AB içinde başka ülkeye tek bir paket göndermek, aynı ülke içindeki benzer gönderiden belirgin ölçüde pahalı olabilir. 2018/644 sayılı AB Tüzüğü, belirli sınır ötesi tek parça tarifelerin yayımlanmasını ve ulusal düzenleyicilerin bazı tarifeleri değerlendirmesini sağlar. Düzenleme fiyat tavanı veya her gönderici için zorunlu en ucuz hizmet oluşturmaz.

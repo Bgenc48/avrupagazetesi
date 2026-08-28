@@ -15,6 +15,10 @@ faq:
     answer: "Hayır. Kesinleşmiş karar için dış temsilcilik veya yetkili nüfus müdürlüğünde idari tescil başvurusu yapılır; şartlar sağlanmazsa Türkiye'de tanıma davası gerekebilir."
   - question: "Eski eşlerin aynı gün başvurması zorunlu mu?"
     answer: "Paris Başkonsolosluğu, tarafların birlikte veya ilk başvurudan sonra 90 gün içinde ayrı ayrı başvurabileceğini belirtiyor. Taraf, kanuni temsilci ya da özel yetkili vekil başvurabilir."
+heroImage: "/images/fransa-aile-birlesimi-regroupement-familial-rehberi.jpg"
+heroAlt: "Ailelerin ve çocukların katıldığı açık hava etkinliği"
+heroCredit: "Cupofjoy / Wikimedia Commons (CC0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Family_festival_in_the_park_with_inflatables.jpg"
 ---
 
 Fransa'da boşanmış olmak, Türkiye'deki aile kütüğünde medeni halin kendiliğinden değiştiği anlamına gelmez. Kesinleşmiş Fransız adli veya idari kararı, şartları varsa Türk dış temsilciliği ya da yetkili nüfus müdürlüğü üzerinden idari yolla tescil edilebilir. Dosya kabul edilmezse mahkemede tanıma yolu ayrıca gündeme gelir.

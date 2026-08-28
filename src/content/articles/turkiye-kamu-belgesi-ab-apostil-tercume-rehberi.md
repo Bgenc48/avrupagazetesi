@@ -15,6 +15,10 @@ faq:
     answer: "Hayır. 2016/1191 sayılı AB düzenlemesi üye devlet makamlarının düzenlediği belirli belgeler arasında işler; Türkiye'de düzenlenen belgeler için genel olarak Apostil Sözleşmesi veya özel anlaşma kontrol edilir."
   - question: "Apostil belgenin içeriğinin kabulünü garanti eder mi?"
     answer: "Hayır. Apostil imzanın, sıfatın ve mühür ya da damganın kaynağını doğrular; belgenin hukuki sonucunu, güncelliğini veya hedef işlem için yeterliliğini hedef ülke makamı değerlendirir."
+heroImage: "/images/ab-kamu-belgesi-apostil-muafiyeti-rehberi.jpg"
+heroAlt: "Damga ve giriş çıkış kayıtları bulunan resmî seyahat belgeleri"
+heroCredit: "The government of the United States of America. / Wikimedia Commons (Public domain)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:United_States_official_passport_of_a_naval_officer_during_the_early_Vietnam_War_(1956)_14.png"
 ---
 
 Türkiye'de düzenlenen nüfus kaydı, doğum, evlilik, adli sicil, diploma, noter veya mahkeme belgesini bir AB ülkesinde kullanmak için belgenin kaynağının doğrulanması gerekebilir. Türkiye ve AB ülkeleri 1961 Lahey Apostil Sözleşmesine tarafsa, konsolosluk tasdiki yerine yetkili makamın apostili genel doğrulama yoludur. Belge türü ve özel uluslararası anlaşma sonucu değiştirebilir.

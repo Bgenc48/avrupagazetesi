@@ -15,6 +15,10 @@ faq:
     answer: "Kayıp veya hırsızlık kaydı oluşturup ANEF üzerinden duplicata talep edilir. Pasaport, adres kanıtı, e-photo ve kayıp/çalınma belgesi gibi ekler istenir; kart türüne göre vergi ödenir."
   - question: "Kart yurtdışında kaybolursa Fransa'ya doğrudan dönülebilir mi?"
     answer: "Her zaman değil. Yerel polise bildirimden sonra Fransa konsolosluğundan visa de retour veya uygun dönüş belgesi gerekebilir. Yalnız kart fotoğrafı sınır geçiş belgesi değildir."
+heroImage: "/images/ab-arastirmaci-oturum-izni-rehberi.jpg"
+heroAlt: "Avrupa'daki bir havalimanında pasaport kontrol noktası"
+heroCredit: "Subhashish Panigrahi / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Man_using_the_automatic_gate_in_Munich_airport_02.jpg"
 ---
 
 Fransa oturum kartı kaybolduğunda veya çalındığında çözüm, olayın Fransa içinde mi yurtdışında mı gerçekleştiğine göre değişir. Her durumda kartın **duplicata** yani yeni örneği istenir. Yalnız kartın telefon fotoğrafı, düzenli ikamet veya sınır geçiş belgesi olarak kabul edilmez.

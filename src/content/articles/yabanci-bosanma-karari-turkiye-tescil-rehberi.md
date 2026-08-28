@@ -15,6 +15,10 @@ faq:
     answer: "Yabancı kararın Türk aile kütüğüne işlenmesi için kanundaki şartlarla idari tescil başvurusu veya uygun durumda Türk mahkemesinde tanıma-tenfiz işlemi gerekir."
   - question: "Boşanma tarihi olarak hangi tarih yazılır?"
     answer: "Yabancı karar Türkiye'de tanındığında veya tescil edildiğinde, yabancı makam kararının kesinleşme tarihi boşanma tarihi olarak esas alınır."
+heroImage: "/images/fransa-aile-birlesimi-regroupement-familial-rehberi.jpg"
+heroAlt: "Ailelerin ve çocukların katıldığı açık hava etkinliği"
+heroCredit: "Cupofjoy / Wikimedia Commons (CC0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Family_festival_in_the_park_with_inflatables.jpg"
 ---
 
 Yabancı adli veya idari makamın verdiği boşanma kararı, yabancı ülkede evliliği bitirse de Türk aile kütüğüne her zaman kendiliğinden işlemez. Türkiye'deki medeni hâlin güncellenmesi için 5490 sayılı Kanun kapsamındaki idari tescil veya şartları sağlanmıyorsa Türk mahkemesinde tanıma-tenfiz yolu değerlendirilir.

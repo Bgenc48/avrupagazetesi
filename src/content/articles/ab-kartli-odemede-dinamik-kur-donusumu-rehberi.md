@@ -15,6 +15,10 @@ faq:
     answer: "TL seçimi çoğu zaman işyerinin veya ATM sağlayıcısının DCC kur dönüşümünü kullanır. İki kur ve ücret karşılaştırılmadan karar verilmemeli; yerel para seçimi dönüşümü kart bankasına bırakır."
   - question: "DCC müşterinin onayı olmadan uygulanabilir mi?"
     answer: "Kur dönüşümü seçeneği, uygulanacak kur ve maliyet bilgisi ödeme öncesinde açıkça gösterilmeli ve müşteri seçim yapabilmelidir; seçiminiz dışında dönüşüm varsa yazılı itiraz edin."
+heroImage: "/images/ab-10000-avro-nakit-beyan-rehberi.jpg"
+heroAlt: "Euro banknotları ve madeni avrolar"
+heroCredit: "Avij (talk · contribs) / Wikimedia Commons (Public domain)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Euro_coins_and_banknotes_(cropped).jpg"
 ---
 
 Yurt dışında kart terminali veya ATM, ödemeyi kartınızın para biriminde göstermeyi teklif edebilir. DCC olarak bilinen işyeri kur dönüşümü, tutarı işyeri ya da ATM sağlayıcısının kuru ile çevirir. Ekranda tanıdık para birimini görmek maliyetin düşük olduğu anlamına gelmez; kur marjı kart bankanızın uygulayacağı dönüşümden yüksek olabilir.

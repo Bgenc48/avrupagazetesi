@@ -15,6 +15,10 @@ faq:
     answer: "Genellikle hayır. Taşınabilirlik çıktısı yeniden kullanılabilecek yapılandırılmış, yaygın ve makinece okunabilir formatta olmalıdır; CSV, JSON veya XML ve gerekli metadata uygun örneklerdir."
   - question: "Kurum veriyi doğrudan yeni hizmete göndermek zorunda mı?"
     answer: "Veri sahibi doğrudan aktarım isteyebilir; kurumlar arası aktarım teknik olarak mümkünse yapılmalıdır, fakat birlikte çalışabilir olmayan sistemler arasında yeni bir altyapı kurma zorunluluğu doğmaz."
+heroImage: "/images/gdpr-veri-erisim-duzeltme-sikayet-rehberi.jpg"
+heroAlt: "Verilerin işlendiği bir sunucu odası"
+heroCredit: "Esquilo / Wikimedia Commons (CC BY-SA 3.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:PDC_server_room.jpg"
 ---
 
 GDPR'ın 20. maddesindeki veri taşınabilirliği, kişinin bir çevrim içi hizmete sağladığı belirli kişisel veriyi yeniden kullanılabilir dijital biçimde almasına ve mümkünse başka hizmete aktarmasına yarar. Erişim hakkından farklı olarak hedef yalnız veriyi görmek değil, başka sistemde kullanabilecek teknik yapıda teslim almaktır.

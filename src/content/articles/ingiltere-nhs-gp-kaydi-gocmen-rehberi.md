@@ -15,6 +15,10 @@ faq:
     answer: "Hayır. NHS, İngiltere'de GP kaydı için kimlik, adres kanıtı, immigration status veya NHS number gerekmediğini belirtiyor. Belgeler kayıt eşleştirmesine yardım edebilir ama yokluğu ret gerekçesi olamaz."
   - question: "GP surgery kayıt başvurusunu reddederse ne olur?"
     answer: "Muayenehane yeni hasta almıyorsa, alan dışında yaşıyorsanız veya başka makul neden varsa reddedebilir; 14 gün içinde yazılı gerekçe vermelidir. ICB, Healthwatch veya Citizens Advice desteği istenebilir."
+heroImage: "/images/ab-arastirmaci-oturum-izni-rehberi.jpg"
+heroAlt: "Avrupa'daki bir havalimanında pasaport kontrol noktası"
+heroCredit: "Subhashish Panigrahi / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Man_using_the_automatic_gate_in_Munich_airport_02.jpg"
 ---
 
 İngiltere'de herkes bir **GP surgery** kaydına ücretsiz başvurabilir. NHS açıkça kimlik, proof of address, immigration status veya NHS number belgesinin kayıt için zorunlu olmadığını söyler. Bu kural GP yani birinci basamak kaydı içindir; hastane tedavisinin ücretlendirilmesi ve immigration health surcharge ayrı konulardır.

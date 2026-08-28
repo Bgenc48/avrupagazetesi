@@ -15,6 +15,10 @@ faq:
     answer: "Yerel yetkili makamın ölüm belgesi Türk dış temsilciliğine sunulur ve belgeye dayanılarak ölüm aile kütüğüne tescil edilir."
   - question: "Ölüm dış temsilciliğe bildirilemediyse Türkiye'de işlem yapılabilir mi?"
     answer: "Evet. Yabancı resmî makam belgesi Türkçeye çevrilip usulüne göre onaylandıktan sonra başvurulan ilçe nüfus müdürlüğü ölüm tutanağı düzenleyebilir."
+heroImage: "/images/ab-kamu-belgesi-apostil-muafiyeti-rehberi.jpg"
+heroAlt: "Damga ve giriş çıkış kayıtları bulunan resmî seyahat belgeleri"
+heroCredit: "The government of the United States of America. / Wikimedia Commons (Public domain)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:United_States_official_passport_of_a_naval_officer_during_the_early_Vietnam_War_(1956)_14.png"
 ---
 
 Yurt dışında vefat eden Türk vatandaşının yerel ölüm kaydı ile Türk aile kütüğündeki ölüm tescili farklı işlemlerdir. İlgili ülkedeki yetkili makamdan alınan resmî ölüm belgesi Türk dış temsilciliğine verilir; temsilcilik bu belgeye dayanarak ölümü aile kütüğüne işler.

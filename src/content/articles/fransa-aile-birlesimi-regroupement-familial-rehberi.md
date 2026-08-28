@@ -15,6 +15,10 @@ faq:
     answer: "Fransa'da düzenli ikamet eden yabancı sponsor, eş ve küçük çocukları için OFII'ye başvurur. Fransız vatandaşının eşi, AB vatandaşı ailesi ve mülteci aile birleşimi başka usullere tabidir."
   - question: "Aile birleşiminde konut büyüklüğü her yerde aynı mı?"
     answer: "Hayır. Asgari yüzölçümü hanedeki kişi sayısına ve konutun bulunduğu A, Abis, B1, B2 veya C bölgesine göre değişir; ayrıca konutun sağlık ve yaşanabilirlik şartlarını karşılaması gerekir."
+heroImage: "/images/fransa-aile-birlesimi-regroupement-familial-rehberi.jpg"
+heroAlt: "Ailelerin ve çocukların katıldığı açık hava etkinliği"
+heroCredit: "Cupofjoy / Wikimedia Commons (CC0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Family_festival_in_the_park_with_inflatables.jpg"
 ---
 
 Fransa'daki `regroupement familial`, AB dışı bir yabancının yurt dışında yaşayan eşi ve reşit olmayan çocuklarını belirli şartlarla yanına getirmesi usulüdür. Fransız vatandaşının eşi, AB vatandaşı ailesi, koruma statüsü sahibinin aile birleşimi veya “famille accompagnante” aynı dosya değildir. İlk adım sponsorun ve aile bireylerinin doğru hukuki yola ait olduğunu belirlemektir.

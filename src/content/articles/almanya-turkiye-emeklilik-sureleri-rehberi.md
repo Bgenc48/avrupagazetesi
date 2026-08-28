@@ -15,6 +15,10 @@ faq:
     answer: "Süreler hak kazanma koşulunu incelemek için birlikte dikkate alınabilir; fakat Almanya ve Türkiye kural olarak kendi mevzuatına göre, kendi sigorta dönemleri üzerinden ayrı aylık hesaplar."
   - question: "Almanya'da yaşayan kişi Türkiye aylığı için ayrıca Türkiye'ye gitmeli mi?"
     answer: "Genellikle ikamet ülkesindeki yetkili kuruma verilen başvuru diğer ülke için de başvuru sayılabilir. Yine de iki ülkedeki tüm süreleri ve kurum numaralarını dosyada bildirmek gerekir."
+heroImage: "/images/abden-turkiyeye-tax-free-kdv-iadesi-rehberi.jpg"
+heroAlt: "Türkiye ve Avrupa Birliği temsilcilerinin katıldığı uluslararası toplantı"
+heroCredit: "Christophe Licoppe, © European Union, 2025 / Wikimedia Commons (CC BY 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Securing_Our_Future_(EC_pic)_2025-03-02-15-19.jpg"
 ---
 
 Almanya ile Türkiye arasındaki Sosyal Güvenlik Sözleşmesi, iki ülkede çalışmış kişilerin sigorta dönemleri yüzünden hak kaybetmesini azaltır. En önemli ayrım şudur: Dönemlerin **birlikte dikkate alınması**, bütün primlerin tek kasaya aktarılması demek değildir. Her ülke kendi mevzuatına göre hak ve aylık hesabı yapar; sonuçta iki ayrı kurumdan ayrı karar ve ödeme doğabilir.

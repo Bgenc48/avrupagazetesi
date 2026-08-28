@@ -15,6 +15,10 @@ faq:
     answer: "Zamanında ve uygun başvuru §81 uyarınca belirli hukuki etki doğurabilir; kartın üzerindeki tarih değişmez. Bu statünün kanıtı için yabancılar dairesinden Fiktionsbescheinigung istenir."
   - question: "Her Fiktionsbescheinigung ile Almanya'ya yeniden girilebilir mi?"
     answer: "Hayır. Berlin'in resmî açıklaması, §81(4) belgesinde geçerli pasaportla seyahat ve yeniden girişin mümkün olabileceğini; §81(3) belgesinin yeniden giriş sağlamadığını belirtir."
+heroImage: "/images/ab-hukuku-ihlalini-komisyona-bildirme-rehberi.jpg"
+heroAlt: "Brüksel'deki Avrupa Komisyonu Berlaymont binasının girişi"
+heroCredit: "Ank Kumar / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:European_Commission_headquarters,_The_Berlaymont_Building,_Brussels,_Belgium_(_Ank_Kumar,_Infosys_Limited_).jpg"
 ---
 
 Almanya'da oturum kartı bitmek üzereyken Ausländerbehörde henüz karar vermediyse **Fiktionsbescheinigung**, geçici hukuki statüyü gösteren belgedir. Yeni bir oturum türü değildir ve her başvurana aynı hakları vermez. Belgenin dayandığı Aufenthaltsgesetz §81 fıkrası, çalışma ve yurt dışı seyahat sonucunu değiştirir.

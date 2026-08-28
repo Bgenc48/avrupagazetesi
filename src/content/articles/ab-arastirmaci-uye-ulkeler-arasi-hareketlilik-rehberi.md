@@ -15,6 +15,10 @@ faq:
     answer: "Kısa dönem hareketlilik, ikinci ülkede herhangi bir 360 günlük dönemde 180 güne kadar araştırma yapılmasını sağlayabilir; daha uzun kalış için ikinci ülkenin uzun dönem prosedürü uygulanır."
   - question: "Araştırmacının ailesi hareketlilikten yararlanabilir mi?"
     answer: "Direktif kapsamındaki aile üyeleri araştırmacıya eşlik edebilir; kendi geçerli izinleri, sigorta ve kaynak belgeleri ile ikinci ülkenin bildirim koşulları ayrıca karşılanmalıdır."
+heroImage: "/images/ab-ogrenci-baska-uye-ulkede-hareketlilik-rehberi.jpg"
+heroAlt: "Avrupa'da bir üniversiteyi ziyaret eden öğrenci grubu"
+heroCredit: "Ввласенко / Wikimedia Commons (CC BY-SA 3.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:A_group_of_Chinese_students_at_Oxford._UK.jpg"
 ---
 
 AB dışı bir araştırmacı, ilk katılımcı üye devlette 2016/801 kapsamındaki geçerli araştırmacı izniyle başka bir katılımcı ülkede araştırma projesinin bir bölümünü yürütebilir. Kısa dönem hareketlilik ikinci ülkede herhangi bir 360 günlük dönemde 180 güne kadar sürebilir. Daha uzun çalışma için ikinci ülkenin uzun dönem hareketlilik izni veya bildirimi gerekir.

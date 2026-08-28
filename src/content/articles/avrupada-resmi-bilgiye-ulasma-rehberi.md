@@ -18,6 +18,10 @@ faq:
     answer: "Her zaman değil. Reklamlar, danışmanlık siteleri ve eski içerikler üst sıralarda görünebilir. Alan adını, kurumu, güncelleme tarihini ve sayfanın resmî hizmete bağlantısını kontrol edin."
   - question: "Türkçe bilgi yoksa ne yapmalıyım?"
     answer: "Kurumun ülke dilindeki sayfasını esas alın; tarayıcı çevirisini yalnızca anlamaya yardımcı araç olarak kullanın. Kritik belge adlarını özgün dilde kaydedin ve belirsizliği doğrudan kuruma sorun."
+heroImage: "/images/ab-hukuku-ihlalini-komisyona-bildirme-rehberi.jpg"
+heroAlt: "Brüksel'deki Avrupa Komisyonu Berlaymont binasının girişi"
+heroCredit: "Ank Kumar / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:European_Commission_headquarters,_The_Berlaymont_Building,_Brussels,_Belgium_(_Ank_Kumar,_Infosys_Limited_).jpg"
 ---
 
 Avrupa’da oturum, adres kaydı, çalışma, diploma tanıma veya uyum kursu hakkında arama yapan biri, aynı konu için birbirinden farklı onlarca yanıtla karşılaşabilir. Farkın nedeni yalnızca yanlış bilgi değildir: Kişinin vatandaşlığı, aile bağı, çalışma durumu, bulunduğu ülke ve hatta belediyesi uygulanacak adımı değiştirebilir. Bu nedenle iyi araştırma, tek bir “belge listesi” bulmaktan önce doğru hukuki ve idari kategoriyi belirlemekle başlar.

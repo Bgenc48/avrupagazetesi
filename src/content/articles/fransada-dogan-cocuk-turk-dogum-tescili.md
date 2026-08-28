@@ -15,6 +15,10 @@ faq:
     answer: "Önce Fransız makamındaki doğum kaydı ve belge alınır; ardından yetkili Türk dış temsilciliğine, evlilik ve soybağı durumuna uygun doğum tescili dosyası sunulur. Güncel belge listesi başvurulan temsilcilikten kontrol edilmelidir."
   - question: "Doğum tescili yapılmadan Türk kimlik kartı alınabilir mi?"
     answer: "Hayır. Konsolosluk SSS'si, çocuk adına kimlik kartı başvurusundan önce doğum tescilinin tamamlanması gerektiğini belirtiyor. Pasaport da çocuk adına ayrı düzenlenir."
+heroImage: "/images/fransa-aile-birlesimi-regroupement-familial-rehberi.jpg"
+heroAlt: "Ailelerin ve çocukların katıldığı açık hava etkinliği"
+heroCredit: "Cupofjoy / Wikimedia Commons (CC0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Family_festival_in_the_park_with_inflatables.jpg"
 ---
 
 Fransa'da doğan ve anne veya babasından biri Türk vatandaşı olan çocuk için Fransız doğum işlemi ile Türk nüfus tescili iki ayrı süreçtir. Hastane veya mairie kaydı çocuğu Türk aile kütüğüne otomatik olarak eklemez. Türk kimlik kartı ve pasaport başvurusu öncesinde doğumun Türk nüfusuna tescil edilmesi gerekir.

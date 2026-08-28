@@ -15,6 +15,10 @@ faq:
     answer: "Hayır. Taşınabilir bataryalarda genel hedef son kullanıcının değişimidir; güvenlik, suya dayanıklı kullanım, tıbbi cihaz veya veri bütünlüğü gibi sınırlı istisnalarda bağımsız profesyonel gerekebilir."
   - question: "Yedek batarya ne kadar süre bulunmalıdır?"
     answer: "Kapsamdaki taşınabilir ve hafif ulaşım bataryaları, modelin son birimi piyasaya sunulduktan sonra en az beş yıl makul ve ayrımcı olmayan fiyatla yedek parça olarak bulunmalıdır."
+heroImage: "/images/ab-akilli-telefon-tablet-enerji-etiketi-rehberi.jpg"
+heroAlt: "Dokunmatik ekranlı bir akıllı telefon"
+heroCredit: "Jr223 / Wikimedia Commons (CC BY-SA 3.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:P-02E_front.jpg"
 ---
 
 AB Batarya Tüzüğünün çıkarılabilirlik ve değiştirilebilirlik hükümleri 18 Şubat 2027'den itibaren uygulanır. Amaç, batarya ömrü biten telefon, küçük elektronik veya başka cihazın tamamının atılmasını önlemek ve hafif ulaşım araçlarında bağımsız onarımı kolaylaştırmaktır. Kural, uygulama tarihinden önce piyasaya sunulan bütün eski ürünleri geriye dönük dönüştürmez.

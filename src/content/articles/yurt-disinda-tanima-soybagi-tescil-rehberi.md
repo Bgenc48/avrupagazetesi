@@ -15,6 +15,10 @@ faq:
     answer: "Babanın usulüne uygun tanıması, anneyle evlenme veya mahkemenin babalık hükmüyle soybağı kurulabilir; doğum ve medeni hâl belgeleriyle dış temsilciliğe tescil başvurusu yapılır."
   - question: "Yabancı doğum belgesinde baba adının yazması tanıma için yeterli midir?"
     answer: "Her zaman değil. Türk hukukunun kabul ettiği tanıma senedi, mahkeme hükmü veya evlenmeyle soybağı kurulması gerekebilir; belgenin hukuki niteliğini temsilcilikten doğrulayın."
+heroImage: "/images/fransa-aile-birlesimi-regroupement-familial-rehberi.jpg"
+heroAlt: "Ailelerin ve çocukların katıldığı açık hava etkinliği"
+heroCredit: "Cupofjoy / Wikimedia Commons (CC0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Family_festival_in_the_park_with_inflatables.jpg"
 ---
 
 Evlilik dışında doğan çocuk ile Türk baba arasında soybağı, anne ile evlenme, babanın tanıması veya hâkimin babalığa hükmetmesiyle kurulabilir. Yabancı doğum belgesinde baba adının bulunması Türk nüfusuna otomatik tescil için her zaman yeterli değildir; yabancı işlemin Türk hukukunda hangi sonuca karşılık geldiği incelenir.

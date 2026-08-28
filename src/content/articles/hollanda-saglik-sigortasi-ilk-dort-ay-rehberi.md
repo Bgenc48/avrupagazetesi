@@ -15,6 +15,10 @@ faq:
     answer: "Hollanda'da yaşama veya çalışma nedeniyle zorunlu sigorta kapsamına giren kişi en geç dört ay içinde Hollandalı sigortacıdan poliçe almalıdır; kapsam kural olarak geliş veya yükümlülüğün başladığı tarihten başlar."
   - question: "Dört ay geçtikten sonra poliçe geriye yürür mü?"
     answer: "Government.nl, dört aydan sonra alınan poliçenin geriye dönük başlamadığını ve aradaki sağlık giderlerinin karşılanmadığını belirtiyor. CAK ayrıca mektup ve para cezası sürecini başlatabilir."
+heroImage: "/images/almanya-saglik-sigortasi-yeni-calisan-rehberi.jpg"
+heroAlt: "Bir hastanede görev başındaki doktorlar ve sağlık çalışanları"
+heroCredit: "U.S. Army photo by Cpl. Clara Soria / Wikimedia Commons (Public domain)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:US,_Ghana_medical_staff_participate_in_medical_exercise_(8439482).jpg"
 ---
 
 Hollanda'da yaşamaya veya çalışmaya başlayan birçok kişi için yabancı seyahat poliçesi yeterli değildir. Zorunlu Hollanda sağlık sigortası **basisverzekering**, sağlık gideri ortaya çıktıktan sonra değil, yükümlülüğün başladığı tarihten itibaren kurulmalıdır. Government.nl, poliçenin mümkün olan en kısa sürede ve en geç dört ay içinde alınmasını ister.

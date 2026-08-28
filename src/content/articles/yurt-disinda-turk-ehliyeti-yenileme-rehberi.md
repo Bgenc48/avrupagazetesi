@@ -15,6 +15,10 @@ faq:
     answer: "Konsolosluk portalında yeni sürücü belgesi başvurusu yer alsa da hizmetin sunulduğu temsilcilik, adres kaydı süresi, sağlık raporu tasdiki ve ödeme yöntemi ülkeye göre değişebilir. Randevudan önce seçilen temsilcilikten teyit gerekir."
   - question: "Yenilenen Türk ehliyeti yaşanılan Avrupa ülkesinde süresiz kullanılabilir mi?"
     answer: "Hayır. Türk belgesinin yenilenmesi, ikamet edilen ülkenin yabancı ehliyet kullanım ve değiştirme sürelerini ortadan kaldırmaz. Yerel trafik makamının kuralları ayrıca uygulanır."
+heroImage: "/images/ab-arac-kiralama-hasar-sigorta-rehberi.jpg"
+heroAlt: "Prag Havalimanı araç kiralama ve otopark binası"
+heroCredit: "Pavel Hrdlička (Czech Wikipedia user Packa) / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:House_parking_and_car_rental,_Prague_Airport.jpg"
 ---
 
 Yurt dışında yaşayan Türk vatandaşları, hizmet sunulan dış temsilciliklerde Türkiye sürücü belgelerinin yenilenmesi için başvurabilir. Ancak “konsoloslukta yenilendi” bilgisi, belgenin ikamet edilen ülkede süresiz kullanılabileceği anlamına gelmez. Türkiye'deki belgenin yenilenmesi ile yabancı ülkenin ehliyet değiştirme zorunluluğu ayrı süreçlerdir.

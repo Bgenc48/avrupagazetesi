@@ -15,6 +15,10 @@ faq:
     answer: "İkamet ülkesinin AB standart modeline uygun kartı diğer AB ülkelerinde tanınmalıdır; ancak sağladığı park kolaylıkları, ücret ve süre kuralları ziyaret edilen ülke ve belediyeye göre değişir."
   - question: "Engelli park kartı belirli bir araca mı bağlıdır?"
     answer: "Kart hak sahibi kişiye yöneliktir ve kişi araçta seyahat ederken kullanılmalıdır. Araç sahibi veya sürücü kart sahibi olmadan kartı kullanamaz; ulusal uygulamadaki araç kaydı ayrıca kontrol edilir."
+heroImage: "/images/ab-engelli-park-karti-yurt-disi-kullanim-rehberi.jpg"
+heroAlt: "Tekerlekli sandalyesiyle erişilebilir trene binen bir yolcu"
+heroCredit: "John Robert McPherson / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Electric_wheelchair_boarding_Queensland_Rail_SMU260_Platform_3_Sunnybank_Railway_Station_DSCF7806.jpg"
 ---
 
 Hareket kısıtlılığına yol açan engeli bulunan kişi, ikamet ülkesinin şartlarını karşılıyorsa AB standart modeline uygun engelli park kartı alabilir. Kart diğer AB ülkelerinde tanınmalıdır; fakat sağladığı kolaylıklar tek tip değildir. Ücretsiz park, süre uzatımı, yaya bölgesine giriş veya özel alan kullanımı ülke ve belediye kuralına bağlıdır.

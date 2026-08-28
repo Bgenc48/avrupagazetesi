@@ -15,6 +15,10 @@ faq:
     answer: "Ev sahibi kuruluşla görevleri, çalışma saatlerini, gözetimi, eğitimi ve seyahat, yaşam ile konaklama masraflarının nasıl karşılanacağını gösteren yazılı anlaşma gerekir."
   - question: "Gönüllü izniyle ücretli işe girilebilir mi?"
     answer: "İzin gönüllü program amacıyla verilir. Ayrı ücretli çalışma hakkı ülkenin ulusal kurallarına ve karttaki koşullara bağlıdır; işe başlamadan yetkili makamdan doğrulanmalıdır."
+heroImage: "/images/ab-arastirmaci-oturum-izni-rehberi.jpg"
+heroAlt: "Avrupa'daki bir havalimanında pasaport kontrol noktası"
+heroCredit: "Subhashish Panigrahi / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Man_using_the_automatic_gate_in_Munich_airport_02.jpg"
 ---
 
 AB dışı bir ülke vatandaşı olarak Avrupa'daki gönüllü programa kabul edilmek, tek başına ülkeye giriş ve kalış hakkı vermez. Program 90 günü aşıyorsa veya ulusal düzenleme gerektiriyorsa uzun süreli vize ya da gönüllü oturum izni gerekir. Başvuru kategorisi, yaş sınırı ve yetkili makam ülkeye göre değişir.

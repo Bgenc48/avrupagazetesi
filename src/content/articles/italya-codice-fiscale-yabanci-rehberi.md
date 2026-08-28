@@ -15,6 +15,10 @@ faq:
     answer: "Hayır. Kod yapısı kişisel verilerden tahmin edilebilir ancak resmî codice fiscale yalnız Agenzia delle Entrate tarafından atanır. Eş adlı kişilerde farklılaştırılmış kod bulunabileceği için sertifikayı kullanın."
   - question: "İtalya'ya çalışmak veya aile birleşimi için gelen yabancı ayrıca AA4/8 vermeli mi?"
     answer: "Bu kategorilerde kod genellikle Sportello Unico per l'Immigrazione tarafından atanır; diğer oturum türlerinde Questura atayabilir. Kod oluşmadıysa Agenzia delle Entrate ile dosya düzeltilmelidir."
+heroImage: "/images/ab-hukuku-ihlalini-komisyona-bildirme-rehberi.jpg"
+heroAlt: "Brüksel'deki Avrupa Komisyonu Berlaymont binasının girişi"
+heroCredit: "Ank Kumar / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:European_Commission_headquarters,_The_Berlaymont_Building,_Brussels,_Belgium_(_Ank_Kumar,_Infosys_Limited_).jpg"
 ---
 
 İtalya'nın **codice fiscale** numarası, kişi ile kamu idaresi, banka, ev sahibi, işveren ve başka kurumlar arasındaki işlemlerde kullanılan vergi kimliğidir. On altı karakterli yapısı ad, doğum ve cinsiyet verilerinden türetilse de internet hesaplayıcısının ürettiği dizi resmî atama değildir. Yalnız Agenzia delle Entrate sistemindeki kodu kullanın.

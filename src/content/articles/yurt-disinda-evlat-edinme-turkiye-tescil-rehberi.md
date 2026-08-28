@@ -15,6 +15,10 @@ faq:
     answer: "Hayır. Kararın kesinleşmesi, Türkiye'de tanınması veya uygulanabilirliği ve nüfus makamının belge incelemesi gerekir; ülke ve karar türüne göre mahkeme süreci doğabilir."
   - question: "Evlat edinilen çocuk otomatik Türk vatandaşı olur mu?"
     answer: "Her dosyada otomatik sonuç yoktur. Çocuğun yaşı, evlat edinenin vatandaşlığı, karar tarihi ve vatandaşlık mevzuatı Bakanlık tarafından ayrıca değerlendirilebilir."
+heroImage: "/images/fransa-aile-birlesimi-regroupement-familial-rehberi.jpg"
+heroAlt: "Ailelerin ve çocukların katıldığı açık hava etkinliği"
+heroCredit: "Cupofjoy / Wikimedia Commons (CC0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Family_festival_in_the_park_with_inflatables.jpg"
 ---
 
 Yabancı ülkede verilen evlat edinme kararı, Türk nüfus kaydına kendiliğinden geçmez. Kararın kesinleşmiş olması, Türkiye'de hukuki sonuç doğurması ve nüfus makamına usulüne uygun belgelerle bildirilmesi gerekir. Çocuğun yüksek yararı, rızalar, soyadı, ana-baba kaydı ve vatandaşlık ayrı inceleme başlıklarıdır.

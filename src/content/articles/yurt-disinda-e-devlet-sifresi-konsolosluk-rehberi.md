@@ -15,6 +15,10 @@ faq:
     answer: "Birçok dış temsilcilik e-Devlet şifresi başvurusu hizmeti sunar. Hizmet, randevu ve belge uygulaması temsilciliğe göre değişebileceğinden konsolosluk portalından seçilen temsilcilik teyit edilmelidir."
   - question: "e-Devlet şifresi vekâletle alınabilir mi?"
     answer: "Şifre kişiye özel kimlik doğrulama aracıdır; başvurunun şahsen yapılacağını varsayarak temsilcilikten doğrulayın. Şifreyi vekile, danışmana veya konsolosluk görevlisi olduğunu söyleyen kişiye paylaşmayın."
+heroImage: "/images/abden-turkiyeye-tax-free-kdv-iadesi-rehberi.jpg"
+heroAlt: "Türkiye ve Avrupa Birliği temsilcilerinin katıldığı uluslararası toplantı"
+heroCredit: "Christophe Licoppe, © European Union, 2025 / Wikimedia Commons (CC BY 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Securing_Our_Future_(EC_pic)_2025-03-02-15-19.jpg"
 ---
 
 e-Devlet Kapısı, nüfus kaydı, adli sicil, SGK, askerlik ve birçok kamu belgesine erişim sağlar. Yurt dışında mobil imza, elektronik imza, internet bankacılığı veya yeni kimlik kartıyla giriş imkânı olmayan vatandaşlar, hizmet sunan Türk dış temsilciliğinden e-Devlet şifresi alabilir.

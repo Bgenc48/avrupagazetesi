@@ -15,6 +15,10 @@ faq:
     answer: "Hayır. Önce Assurance Maladie hakkı ve sosyal güvenlik numarası oluşturulur. Yurt dışında doğan kişiye belge incelemesi sırasında geçici numara verilebilir; kalıcı numara ve kart daha sonra tamamlanır."
   - question: "Carte Vitale gelmeden sağlık gideri geri alınabilir mi?"
     answer: "Hak açıldıysa attestation de droits ve gerektiğinde feuille de soins ile işlem yapılabilir. Kartın yokluğu her durumda hakkın olmadığı anlamına gelmez; CPAM dosyanızdaki başlangıç tarihini doğrulayın."
+heroImage: "/images/ab-gorevlendirilen-calisan-a1-haklari-rehberi.jpg"
+heroAlt: "Çalışma hayatı üzerine düzenlenen kalabalık bir toplantı"
+heroCredit: "Marjory Collins / Wikimedia Commons (Public domain)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:A_Sunday_afternoon_meeting_of_the_rubber_workers_union8d18608v.jpg"
 ---
 
 Fransa'da **Carte Vitale**, sağlık sigortası hakkının kendisi değil, hakkın elektronik olarak kullanılmasını kolaylaştıran karttır. Yeni çalışan için önce Assurance Maladie kaydı ve sosyal güvenlik numarası oluşturulur. Kart gecikse bile açılmış haklar, attestation de droits ve uygun geri ödeme belgeleriyle kanıtlanabilir.

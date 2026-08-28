@@ -15,6 +15,10 @@ faq:
     answer: "Hayır. UK Parliament seçimleri için British, Irish veya qualifying Commonwealth vatandaşlığı gerekir. Türkiye Commonwealth ülkesi değildir; yalnız oturum izni ya da süresiz oturum bu seçme hakkını oluşturmaz."
   - question: "Türk vatandaşları İskoçya veya Galler yerel seçimlerinde oy kullanabilir mi?"
     answer: "Uygun yasal kalış izni bulunan qualifying foreign citizen, İskoçya'da Scottish Parliament ve council; Galler'de Senedd ve yerel seçimler için kayıt hakkına sahip olabilir. Yaş, ikamet ve kayıt koşulları ayrıca aranır."
+heroImage: "/images/ab-arastirmaci-oturum-izni-rehberi.jpg"
+heroAlt: "Avrupa'daki bir havalimanında pasaport kontrol noktası"
+heroCredit: "Subhashish Panigrahi / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Man_using_the_automatic_gate_in_Munich_airport_02.jpg"
 ---
 
 Birleşik Krallık'ta oy hakkı yalnız “UK'de oturumum var mı?” sorusuyla belirlenmez. Vatandaşlık, yaşadığınız ülke ve seçim türü birlikte değerlendirilir. Yalnız Türk vatandaşı olan kişinin İngiltere'deki hakkı ile aynı kişinin İskoçya veya Galler'deki devolved seçim hakkı farklı olabilir.

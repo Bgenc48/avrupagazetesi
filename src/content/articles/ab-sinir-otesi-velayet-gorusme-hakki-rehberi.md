@@ -15,6 +15,10 @@ faq:
     answer: "Genel kural, dava açıldığı sırada çocuğun mutat meskeninin bulunduğu üye devlet mahkemesidir. Kaçırma, anlaşma veya acil koruma gibi durumlarda özel yetki kuralları uygulanabilir."
   - question: "Bir AB ülkesindeki velayet kararı diğerinde geçerli olur mu?"
     answer: "Brussels IIb kapsamındaki kararlar üye devletler arasında kural olarak özel bir tanıma usulü olmadan tanınır; icra için karar örneği, ilgili sertifika ve gerekirse çeviri sunulur."
+heroImage: "/images/avrupa-kucuk-talepler-5000-avro-rehberi.jpg"
+heroAlt: "Lüksemburg’daki Avrupa Birliği Adalet Divanı yerleşkesi"
+heroCredit: "Luxofluxo / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Palais_de_la_Cour_de_Justice_CJEU_July_2021_Sign_to_the_Ancien_Palais.jpg"
 ---
 
 Çocuk bir ülkede, ebeveynler başka ülkelerde yaşadığında velayet, çocuğun nerede yaşayacağı ve kişisel ilişki düzeni birden fazla hukuk sistemine dokunur. AB'de 1 Ağustos 2022 ve sonrasında başlatılan işlemler için Brussels IIb olarak bilinen 2019/1111 sayılı Tüzük, mahkeme yetkisi ile kararların tanınması ve icrasını düzenler.

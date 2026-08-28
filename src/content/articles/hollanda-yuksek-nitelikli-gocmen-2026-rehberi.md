@@ -15,6 +15,10 @@ faq:
     answer: "Kural olarak başvuruyu IND tarafından tanınmış sponsor olan Hollandalı işveren veya araştırma kurumu yapar. Türk vatandaşları için sponsor tanınmasına ilişkin istisna bulunabildiğinden işveren dosyası IND'nin güncel talimatıyla ayrıca kontrol edilmelidir."
   - question: "2026 kennismigrant maaş eşiği nedir?"
     answer: "IND, tatil ödeneği hariç aylık brüt tutarı 30 yaş ve üzeri için 5.942 avro, 30 yaş altı için 4.357 avro ve uygun indirimli ölçüt için 3.122 avro olarak yayımlıyor."
+heroImage: "/images/ab-arastirmaci-oturum-izni-rehberi.jpg"
+heroAlt: "Avrupa'daki bir havalimanında pasaport kontrol noktası"
+heroCredit: "Subhashish Panigrahi / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Man_using_the_automatic_gate_in_Munich_airport_02.jpg"
 ---
 
 Hollanda'nın **kennismigrant** izni, üçüncü ülke vatandaşının yüksek nitelikli bir işte çalışması için kullanılan iş ve oturum yoludur. Dosya yalnız maaştan ibaret değildir: Hollanda'da bir iş sözleşmesi, uygun sponsor, yaş veya mezuniyet durumuna göre doğru 2026 gelir ölçütü ve piyasaya uygun ücret birlikte aranır. EU Blue Card ayrı bir izin türüdür; iki yolun şartlarını birbirine karıştırmayın.

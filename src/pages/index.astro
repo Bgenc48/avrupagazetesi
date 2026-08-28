@@ -10,6 +10,7 @@ const rest = articles.filter((a) => a !== lead).slice(0, 12);
 <Base>
   {lead ? <>
     <section>
+      <a href={href(`makale/${lead.id}`)} aria-label={lead.data.title}><img class="lead-image" src={href(lead.data.heroImage)} alt={lead.data.heroAlt} width="1120" height="630" fetchpriority="high" /></a>
       <p class="eyebrow">{lead.data.section.replaceAll('-', ' ')}</p>
       <h1><a href={href(`makale/${lead.id}`)}>{lead.data.title}</a></h1>
       <p class="deck">{lead.data.deck}</p>
@@ -17,3 +18,7 @@ const rest = articles.filter((a) => a !== lead).slice(0, 12);
     <section aria-labelledby="son-haberler"><h2 id="son-haberler">Son Haberler ve Rehberler</h2><div class="grid">{rest.map((article) => <ArticleCard article={article} />)}</div></section>
   </> : <section><p class="eyebrow">Yeni yayın</p><h1>Avrupa’daki Türk toplumunun bilgi gazetesi</h1><p class="deck">{site.description} İlk dosyalarımız editoryal incelemenin ardından yayımlanacak.</p></section>}
 </Base>
+
+<style>
+  .lead-image { width:100%; aspect-ratio:16/9; object-fit:cover; display:block; margin-bottom:1.25rem; }
+</style>

@@ -15,6 +15,10 @@ faq:
     answer: "Şartları karşılayan kesinleşmiş Hollanda mahkeme kararı Rotterdam Başkonsolosluğu üzerinden idari yolla Türk nüfusuna tescil edilebilir. Şartlar eksikse Türkiye'de tanıma davası gerekebilir."
   - question: "Taraflar konsolosluğa birlikte mi gitmelidir?"
     answer: "Taraflar birlikte veya ilk başvurudan itibaren 90 gün içinde ayrı ayrı başvurabilir. Yabancı eş, vekâlet veya tek taraflı başvuru durumunda güncel temsilcilik talimatı ayrıca uygulanır."
+heroImage: "/images/fransa-aile-birlesimi-regroupement-familial-rehberi.jpg"
+heroAlt: "Ailelerin ve çocukların katıldığı açık hava etkinliği"
+heroCredit: "Cupofjoy / Wikimedia Commons (CC0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Family_festival_in_the_park_with_inflatables.jpg"
 ---
 
 Hollanda mahkemesinin boşanma kararı, Hollanda kayıtlarında medeni halinizi değiştirebilir; fakat Türk aile kütüğünü otomatik güncellemez. Rotterdam Başkonsolosluğu, şartları karşılayan kesinleşmiş kararın Türkiye'de mahkeme açmadan idari yolla tescilini kabul ediyor. Bu işlem boşanma kaydını hedefler; kararın bütün mali ve velayet hükümlerini otomatik icra etmez.

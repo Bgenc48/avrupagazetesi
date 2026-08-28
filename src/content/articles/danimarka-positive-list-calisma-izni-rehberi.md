@@ -15,6 +15,10 @@ faq:
     answer: "SIRI listeleri düzenli olarak 1 Ocak ve 1 Temmuz'da günceller; bölgesel işgücü kurullarıyla ara eklemeler de olabilir. Başvuruda iş unvanının o gün geçerli satırını kontrol edin."
   - question: "Positive List izniyle iş değiştirilebilir mi?"
     answer: "İzin belirli işe bağlıdır. Yeni iş için yeni oturum ve çalışma izni başvurusu gerekir. Geçerli işe dayalı izni olan kişi, iş değişikliği kuralının şartlarını sağlarsa yeni başvuruyu verdiği gün başlayabilir."
+heroImage: "/images/ab-arastirmaci-oturum-izni-rehberi.jpg"
+heroAlt: "Avrupa'daki bir havalimanında pasaport kontrol noktası"
+heroCredit: "Subhashish Panigrahi / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Man_using_the_automatic_gate_in_Munich_airport_02.jpg"
 ---
 
 Danimarka'nın **Positive List** sistemi, nitelikli eleman açığı bulunan işlerde üçüncü ülke vatandaşlarına oturum ve çalışma izni yolu sunar. Yükseköğrenim gerektiren meslekler ile skilled work listesi ayrıdır. Türk başvuran, yalnız benzer unvana sahip olduğu için uygun sayılmaz; teklif, eğitim ve resmî sınıflandırma aynı satırla eşleşmelidir.

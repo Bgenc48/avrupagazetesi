@@ -15,6 +15,10 @@ faq:
     answer: "Talebi davaya bakan mahkeme yapar. Mahkeme, hedef ülkedeki mahkemeden delil almasını isteyebilir veya izinle doğrudan, gönüllülük esasına dayalı delil toplayabilir."
   - question: "Video konferans kullanılabilir mi?"
     answer: "Evet. Mahkemeler uygun ve mevcut olduğunda video konferans veya başka uzaktan iletişim teknolojisini kullanabilir; kimlik, tercüman ve usul koşulları önceden belirlenir."
+heroImage: "/images/avrupa-kucuk-talepler-5000-avro-rehberi.jpg"
+heroAlt: "Lüksemburg’daki Avrupa Birliği Adalet Divanı yerleşkesi"
+heroCredit: "Luxofluxo / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Palais_de_la_Cour_de_Justice_CJEU_July_2021_Sign_to_the_Ancien_Palais.jpg"
 ---
 
 AB'deki medeni veya ticari davada tanık, uzman, belge ya da inceleme başka bir üye devlette bulunuyorsa 2020/1783 sayılı Tüzük mahkemeler arası delil toplama yolunu düzenler. Danimarka kapsam dışındadır. Talebi taraf değil, davaya bakan mahkeme veya yetkili yargı makamı resmî formla iletir.

@@ -15,6 +15,10 @@ faq:
     answer: "Adalet Bakanlığına göre yurt dışında yaşayan Türk vatandaşları belgeyi e-Devlet üzerinden veya bulundukları ülkedeki Türk dış temsilciliğinden alabilir. Türkiye'de bulunmuş yabancılar dış temsilcilik üzerinden başvurabilir."
   - question: "Barkodlu adli sicil belgesi apostil yerine geçer mi?"
     answer: "Hayır. Barkod belgenin e-Devlet kaynağından doğrulanmasını sağlar; apostil ise Lahey Sözleşmesine taraf ülkeler arasındaki resmî belge tasdikidir. Alıcı kurum apostil ve tercümeyi ayrıca isteyebilir."
+heroImage: "/images/avrupa-kucuk-talepler-5000-avro-rehberi.jpg"
+heroAlt: "Lüksemburg’daki Avrupa Birliği Adalet Divanı yerleşkesi"
+heroCredit: "Luxofluxo / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Palais_de_la_Cour_de_Justice_CJEU_July_2021_Sign_to_the_Ancien_Palais.jpg"
 ---
 
 Yurt dışında iş, oturum, vatandaşlık veya meslek kaydı için Türkiye'den adli sicil belgesi istendiğinde üç soru ayrı cevaplanmalıdır: kurum hangi kayıt kapsamını, hangi dili ve hangi tasdiki istiyor? **Barkodlu belge**, yabancı dilde sonuç ve **apostil** aynı işlevi görmez. Yanlış seçim, güncel bir belgenin dahi kabul edilmemesine yol açabilir.

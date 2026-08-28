@@ -15,6 +15,10 @@ faq:
     answer: "AB'nin hızlı uyarı sistemi gıda ve ilaç dışındaki tehlikeli tüketici ürünleri için ulusal makamların yayımladığı uyarıları toplar. Gıda, ilaç ve bazı özel kategoriler ayrı sistemlere tabidir."
   - question: "Ürün geri çağrıldıysa fiş olmadan işlem yapılabilir mi?"
     answer: "Satın alma ve ürün eşleşmesi yine kanıtlanmalıdır. Fiş yoksa banka hareketi, sipariş e-postası, hesap geçmişi, seri veya lot numarası ve satıcı yazışması gibi kayıtları birlikte sunun."
+heroImage: "/images/ab-online-alisveris-14-gun-cayma-rehberi.jpg"
+heroAlt: "Dizüstü bilgisayarla çevrim içi alışveriş yapan bir tüketici"
+heroCredit: "Artem Beliaikin from Moscow, Russia / Wikimedia Commons (CC BY 2.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Woman_online_shopping_concept._Woman_in_the_green_park_with_modern_laptop._Bali_island._(47798039732).jpg"
 ---
 
 Bir oyuncak, şarj cihazı, kozmetik veya ev ürünü güvenlik riski taşıyorsa AB ulusal makamları satış yasağı, piyasadan çekme veya tüketiciden geri çağırma önlemi alabilir. Safety Gate, gıda ve ilaç dışındaki tehlikeli ürün uyarılarını AB genelinde aramaya yarayan resmî portaldır.

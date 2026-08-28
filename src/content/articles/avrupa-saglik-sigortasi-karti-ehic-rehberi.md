@@ -15,6 +15,10 @@ faq:
     answer: "Hayır. Kart, geçici kalışta tıbben gerekli kamu hizmetine yerel sigortalılarla aynı koşul ve maliyetle erişim sağlar. Yerel katkı payı varsa siz de ödeyebilirsiniz."
   - question: "EHIC seyahat sigortasının yerine geçer mi?"
     answer: "Hayır. Özel sağlık, ülkeye tıbbi dönüş, kayıp eşya ve seyahatin özellikle tedavi için yapılması EHIC kapsamında değildir; ayrı seyahat sigortası gerekebilir."
+heroImage: "/images/almanya-saglik-sigortasi-yeni-calisan-rehberi.jpg"
+heroAlt: "Bir hastanede görev başındaki doktorlar ve sağlık çalışanları"
+heroCredit: "U.S. Army photo by Cpl. Clara Soria / Wikimedia Commons (Public domain)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:US,_Ghana_medical_staff_participate_in_medical_exercise_(8439482).jpg"
 ---
 
 Avrupa Sağlık Sigortası Kartı, bir AB ülkesinin kamu sosyal güvenlik sisteminde sigortalı kişinin başka katılımcı ülkedeki geçici kalışında tıbben gerekli kamu tedavisine erişmesini kolaylaştırır. Kart ücretsizdir ve ulusal sağlık sigortası kurumu tarafından verilir. Vatandaşlık tek başına yeterli değildir; sigortalılık esas alınır.

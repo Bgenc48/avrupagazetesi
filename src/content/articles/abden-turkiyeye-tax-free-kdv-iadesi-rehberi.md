@@ -15,6 +15,10 @@ faq:
     answer: "Hayır. Temel ölçüt vatandaşlıktan çok daimi adres veya olağan ikametin AB dışında olmasıdır. AB vatandaşı da AB dışında yaşadığını uygun belgeyle kanıtlarsa yararlanabilir."
   - question: "Gümrük onayı alınca KDV otomatik hesaba geçer mi?"
     answer: "Hayır. Gümrük, malın AB'den çıktığını doğrular; iadeyi satıcı veya aracı işletir. Formun ayrıca teslimi, uygulama işlemi veya posta gönderimi gerekebilir ve hizmet bedeli kesilebilir."
+heroImage: "/images/ab-10000-avro-nakit-beyan-rehberi.jpg"
+heroCredit: "Avij (talk · contribs) / Wikimedia Commons (Public domain)"
+heroAlt: "Euro banknotları ve madeni avrolar"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Euro_coins_and_banknotes_(cropped).jpg"
 ---
 
 Türkiye'de olağan ikamet eden bir yolcu, AB ziyareti sırasında satın aldığı ve kişisel bagajıyla AB dışına çıkardığı uygun mallar için KDV iadesi isteyebilir. Hak vatandaşlıktan çok **AB dışındaki daimi adres veya olağan ikamete** bağlıdır. Türk pasaportlu fakat AB'de yaşayan kişi otomatik uygun değildir; AB vatandaşı olup Türkiye'de yaşayan kişi ise ikametini kanıtlayabilir.

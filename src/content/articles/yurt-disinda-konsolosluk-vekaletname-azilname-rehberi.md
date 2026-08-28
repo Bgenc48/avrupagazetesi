@@ -15,6 +15,10 @@ faq:
     answer: "İşlem vekâlet verenin irade beyanına dayanır; vekilin genellikle randevuda bulunması gerekmez. Vekilin kimlik ve adres bilgileri ile işleme özgü bilgiler eksiksiz sunulmalıdır."
   - question: "Vekâletnameyi iptal etmek için ne yapılır?"
     answer: "Konsolosluk sisteminde işlem azilname olarak yürütülür. Önceki belgenin noter veya temsilcilik bilgisi, tarihi ve numarası ile vekilin güncel adresi hazırlanmalı; azlin ilgili kişilere bildirilmesi ayrıca izlenmelidir."
+heroImage: "/images/ab-kamu-belgesi-apostil-muafiyeti-rehberi.jpg"
+heroAlt: "Damga ve giriş çıkış kayıtları bulunan resmî seyahat belgeleri"
+heroCredit: "The government of the United States of America. / Wikimedia Commons (Public domain)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:United_States_official_passport_of_a_naval_officer_during_the_early_Vietnam_War_(1956)_14.png"
 ---
 
 Yurt dışında yaşayan bir Türk vatandaşı, Türkiye'deki avukatına veya güvendiği kişiye konsoloslukta noterlik belgesi düzenletebilir. En önemli karar, yetkinin genişliği ve süresidir. “Her türlü işlem” ifadesi kolay görünse de satış, para tahsilatı, sulh, feragat veya banka işlemleri gibi sonuçları ağır yetkiler gereksiz risk yaratabilir. Taslağı, kullanılacağı kurum veya avukatla randevudan önce netleştirin.

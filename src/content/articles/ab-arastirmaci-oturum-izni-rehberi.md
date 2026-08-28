@@ -15,6 +15,10 @@ faq:
     answer: "Araştırmacının onaylı bir araştırma kuruluşuyla geçerli projeyi ve koşulları gösteren ev sahipliği anlaşması veya sözleşmesi bulunmalıdır; ilişkinin hukuki biçimi hedef ülkeye göre değişebilir."
   - question: "Araştırma bittikten sonra AB'de iş aranabilir mi?"
     answer: "Direktif kapsamındaki araştırmacı, şartları karşılayıp ayrı oturum başvurusu yaparak araştırmanın tamamlandığı ülkede en az dokuz ay iş arama veya iş kurma amacıyla kalabilir."
+heroImage: "/images/ab-ogrenci-baska-uye-ulkede-hareketlilik-rehberi.jpg"
+heroCredit: "Ввласенко / Wikimedia Commons (CC BY-SA 3.0)"
+heroAlt: "Avrupa'da bir üniversiteyi ziyaret eden öğrenci grubu"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:A_group_of_Chinese_students_at_Oxford._UK.jpg"
 ---
 
 AB araştırmacı oturum yolu, üçüncü ülke vatandaşının bir araştırma kuruluşuyla anlaşarak 90 günden uzun süre bilimsel proje yürütmesi içindir. Üniversite adı veya davet mektubu tek başına yeterli değildir; kurumun ulusal sistemde kabul edilmesi ve projenin gerçekliğini gösteren ev sahipliği anlaşması ya da sözleşme gerekir.

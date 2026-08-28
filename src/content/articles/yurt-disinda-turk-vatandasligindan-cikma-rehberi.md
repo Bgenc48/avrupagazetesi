@@ -15,6 +15,10 @@ faq:
     answer: "Kişinin yabancı bir devlet vatandaşlığını kazanmış olması veya kazanacağına ilişkin inandırıcı belirti, uygulamada kabul teminatı belgesi, gerekir; vatansız kalma riskiyle işlem tamamlanmaz."
   - question: "Başvuru yapılınca Türk vatandaşlığı hemen sona erer mi?"
     answer: "Hayır. Başvuru veya çıkma izin belgesi tek başına kayıp tarihi değildir; vatandaşlık, çıkma belgesinin imza karşılığı teslimiyle kaybedilir."
+heroImage: "/images/ab-arastirmaci-oturum-izni-rehberi.jpg"
+heroAlt: "Avrupa'daki bir havalimanında pasaport kontrol noktası"
+heroCredit: "Subhashish Panigrahi / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Man_using_the_automatic_gate_in_Munich_airport_02.jpg"
 ---
 
 Türk vatandaşlığından izinle çıkma, yalnız dilekçe vererek anında sonuçlanan bir işlem değildir. Başvuranın ergin ve ayırt etme gücüne sahip olması, başka bir devlet vatandaşlığını kazanmış bulunması veya kazanacağına ilişkin inandırıcı belirti sunması, suç ya da askerlik nedeniyle aranan kişi olmaması ve hakkında mali veya cezai tahdit bulunmaması gerekir.

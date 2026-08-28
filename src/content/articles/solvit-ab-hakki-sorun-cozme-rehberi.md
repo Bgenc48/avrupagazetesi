@@ -15,6 +15,10 @@ faq:
     answer: "Kural olarak hayır. SOLVIT, başka bir AB ülkesindeki kamu makamının AB iç pazar hukukunu yanlış uygulamasından doğan sınır ötesi sorunlar içindir."
   - question: "SOLVIT başvurusu dava süresini durdurur mu?"
     answer: "Hayır. SOLVIT gayriresmî ve ücretsiz bir çözüm ağıdır; idari itiraz, mahkeme ve zamanaşımı sürelerini durdurmaz."
+heroImage: "/images/almanya-olum-tescili-turkiye-rehberi.jpg"
+heroAlt: "Berlin'deki bir Türk kültür etkinliğinden katılımcı"
+heroCredit: "Siebbi / Wikimedia Commons (CC BY 3.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Fatih_Akin_(Berlin_Film_Festival_2011).jpg"
 ---
 
 SOLVIT, vatandaş veya işletmenin başka bir AB ülkesinde kamu makamının AB iç pazar kurallarını yanlış uygulaması nedeniyle yaşadığı soruna ücretsiz ve gayriresmî çözüm arar. Mesleki yeterlilik, sosyal güvenlik, araç kaydı, oturum hakkı veya diploma gibi sınır ötesi idari engeller buna örnek olabilir.

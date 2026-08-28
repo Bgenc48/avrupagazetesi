@@ -15,6 +15,10 @@ faq:
     answer: "Evet. Konsolosluk portalı, yeni, kayıp, hususi, hizmet ve geçici pasaport başvurularında randevu sonrasında şahsen başvuru gerektiğini belirtir; biyometrik veriler başvuru sırasında alınır."
   - question: "Yurt dışı pasaport başvurusunda kaç biyometrik fotoğraf gerekir?"
     answer: "Dışişleri Bakanlığının genel SSS sayfası, son altı ay içinde çekilmiş biyometrik fotoğraftan yurt dışı başvuruları için bir adedin yeterli olduğunu belirtir. Temsilciliğin randevu bildirimini ayrıca kontrol edin."
+heroImage: "/images/ab-kamu-belgesi-apostil-muafiyeti-rehberi.jpg"
+heroAlt: "Damga ve giriş çıkış kayıtları bulunan resmî seyahat belgeleri"
+heroCredit: "The government of the United States of America. / Wikimedia Commons (Public domain)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:United_States_official_passport_of_a_naval_officer_during_the_early_Vietnam_War_(1956)_14.png"
 ---
 
 Yurt dışında Türk pasaportunu yenilemek için yaşadığınız ülkeye hizmet veren büyükelçilik konsolosluk şubesi veya başkonsolosluk üzerinden işlem yapılır. Başvurunun seyahat gününe çok yakın bırakılması, yalnız baskı süresi değil teslimat ve yerel tatiller nedeniyle de risklidir. Pasaportunuz hâlâ geçerliyken hedef ülke ve transit ülkenin istediği kalan geçerlilik süresini kontrol ederek randevu alın.

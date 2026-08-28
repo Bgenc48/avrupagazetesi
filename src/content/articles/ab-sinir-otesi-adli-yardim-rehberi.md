@@ -15,6 +15,10 @@ faq:
     answer: "Bir AB ülkesinde yerleşik gerçek kişi, başka bir katılımcı AB ülkesindeki medeni veya ticari uyuşmazlıkta yetersiz mali kaynak koşullarını karşılıyorsa başvurabilir; Danimarka kapsam dışıdır."
   - question: "Adli yardım bütün dava masraflarını öder mi?"
     answer: "Kapsam ve gelir ölçütü davanın görüleceği ülke hukukuna bağlıdır; avukat, mahkeme, tercüme, belge çevirisi ve zorunlu seyahat giderlerinin tamamı veya bir bölümü karşılanabilir."
+heroImage: "/images/avrupa-kucuk-talepler-5000-avro-rehberi.jpg"
+heroAlt: "Lüksemburg’daki Avrupa Birliği Adalet Divanı yerleşkesi"
+heroCredit: "Luxofluxo / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Palais_de_la_Cour_de_Justice_CJEU_July_2021_Sign_to_the_Ancien_Palais.jpg"
 ---
 
 AB sınır ötesi adli yardım kuralları, bir üye devlette yerleşik gerçek kişinin başka bir üye devlette görülecek medeni veya ticari uyuşmazlıkta mahkemeye etkili erişimini kolaylaştırır. Danimarka bu düzenlemeye katılmaz. Ceza davası, idari işlem veya vergi uyuşmazlığı aynı mekanizmaya girmeyebilir; davanın türünü önce sınıflandırın.

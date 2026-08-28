@@ -15,6 +15,10 @@ faq:
     answer: "Her dosyada otomatik işlenmez. Yabancı vatandaşlık kazanım belgesi ibraz edilir ve kişinin Türk kaydıyla aynı kişi olduğu tespit edilirse aile kütüğüne çok vatandaşlık açıklaması eklenir."
   - question: "Çok vatandaşlık bildirimi Türk vatandaşlığı başvurusu mudur?"
     answer: "Hayır. Bu işlem, zaten Türk vatandaşı olan kişinin kazandığı başka vatandaşlığı mevcut aile kütüğüne açıklama olarak kaydeder; Türk vatandaşlığını kazanma veya yeniden kazanma işlemi değildir."
+heroImage: "/images/ab-kamu-belgesi-apostil-muafiyeti-rehberi.jpg"
+heroAlt: "Damga ve giriş çıkış kayıtları bulunan resmî seyahat belgeleri"
+heroCredit: "The government of the United States of America. / Wikimedia Commons (Public domain)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:United_States_official_passport_of_a_naval_officer_during_the_early_Vietnam_War_(1956)_14.png"
 ---
 
 Bir Türk vatandaşının Almanya, Hollanda, Fransa veya başka bir devlet vatandaşlığını kazanması, bu bilginin Türkiye aile kütüğüne her dosyada otomatik işlendiği anlamına gelmez. **Çok vatandaşlık bildirimi**, yabancı vatandaşlık kazanımını Türk nüfus kaydına açıklama olarak ekletme işlemidir.

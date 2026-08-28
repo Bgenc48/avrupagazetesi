@@ -15,6 +15,10 @@ faq:
     answer: "Vatandaşlığın hangi hukuki yolla kaybedildiğine göre değişir. Bazı eski vatandaşlar ikamet şartı aranmadan, bazıları ise Türkiye'de üç yıl ikamet şartıyla başvurabilir."
   - question: "Başvuru vatandaşlığı otomatik geri getirir mi?"
     answer: "Hayır. Şartların bulunması kişiye mutlak hak vermez; dosya güvenlik ve mevzuat incelemesinden sonra yetkili makamın kararıyla sonuçlanır."
+heroImage: "/images/ab-arastirmaci-oturum-izni-rehberi.jpg"
+heroAlt: "Avrupa'daki bir havalimanında pasaport kontrol noktası"
+heroCredit: "Subhashish Panigrahi / Wikimedia Commons (CC BY-SA 4.0)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Man_using_the_automatic_gate_in_Munich_airport_02.jpg"
 ---
 
 Türk vatandaşlığını daha önce kaybetmiş bir kişinin yeniden kazanma yolu, vatandaşlığın hangi tarihte ve hangi hukuki nedenle kaybedildiğine bağlıdır. İzinle çıkanlar, anne veya babaya bağlı kaybedenler, seçme hakkını kullananlar ya da vatandaşlığı kaybettirilenler aynı maddeden başvurmaz. İlk adım eski nüfus kaydı ve kayıp kararının hukuki dayanağını Nüfus ve Vatandaşlık İşleri makamından doğrulamaktır.

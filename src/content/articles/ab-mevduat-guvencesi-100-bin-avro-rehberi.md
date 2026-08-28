@@ -15,6 +15,10 @@ faq:
     answer: "Hayır. Genel sınır kişi başına ve aynı bankadaki tüm uygun hesapların toplamı için uygulanır; aynı lisans altındaki farklı markalar tek banka sayılabilir."
   - question: "Ortak hesapta koruma ne kadardır?"
     answer: "Genel olarak her hesap sahibinin payı ayrı değerlendirilir; iki kişinin eşit paylı ortak hesabında toplam koruma 200 bin avroya ulaşabilir. Ulusal kaydı kontrol edin."
+heroImage: "/images/ab-10000-avro-nakit-beyan-rehberi.jpg"
+heroAlt: "Euro banknotları ve madeni avrolar"
+heroCredit: "Avij (talk · contribs) / Wikimedia Commons (Public domain)"
+heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Euro_coins_and_banknotes_(cropped).jpg"
 ---
 
 AB mevduat garanti sistemleri, bir banka iflas ettiğinde uygun mevduatları kişi başına ve banka başına 100 bin avroya veya eşdeğer yerel para tutarına kadar korur. Bu sınır her hesap için ayrı değildir. Aynı bankadaki cari, tasarruf ve vadeli hesapların uygun bakiyeleri toplanır, kişinin bankaya olan borçları ve ulusal mahsup kuralları ayrıca değerlendirilebilir.
