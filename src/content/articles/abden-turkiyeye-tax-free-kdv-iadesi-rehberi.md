@@ -39,7 +39,7 @@ Paris–Frankfurt–İstanbul gibi aktarmada kural olarak AB'den son çıkış F
 
 Gümrük onayı dijital veya fiziksel olabilir. Onay, malın AB'den çıkarıldığını doğrular; parayı gümrük ödemez. İadeyi satıcı ya da tax free operatörü karta, hesaba veya nakit olarak yapabilir. Hizmet bedeli ve kur farkı nedeniyle alınan tutar faturadaki KDV'nin tamamından düşük olabilir. İade para birimini ve kesintileri onaydan önce okuyun.
 
-[AB kartlı ödemede dinamik kur dönüşümü rehberimiz](/avrupagazetesi/makale/ab-kartli-odemede-dinamik-kur-donusumu-rehberi/) kartınıza farklı para biriminde iade yapılırken kur seçiminin etkisini açıklar. İlk kart kapanmışsa, kart yenilenmişse veya ödeme nakitse alternatif yöntemi operatörden yazılı sorun.
+[AB kartlı ödemede kur dönüşümü rehberimiz](/avrupagazetesi/makale/ab-kartli-odemede-dinamik-kur-donusumu-rehberi/) kartınıza farklı para biriminde iade yapılırken kur seçiminin etkisini açıklar. İlk kart kapanmışsa, kart yenilenmişse veya ödeme nakitse alternatif yöntemi operatörden yazılı sorun.
 
 Türkiye'ye girişteki gümrük muafiyeti, AB'deki KDV iadesinden ayrıdır. AB'den tax free alınması malın Türkiye'ye vergisiz sokulacağını göstermez. Türkiye'nin yolcu beraberindeki eşya limiti, beyan ve vergi kurallarını ayrıca kontrol edin; faturayı Türkiye gümrüğünde de erişilebilir tutun.
 
