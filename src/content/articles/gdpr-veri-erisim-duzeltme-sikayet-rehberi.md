@@ -15,10 +15,10 @@ faq:
     answer: "Veri sorumlusu gecikmeksizin ve ilke olarak talebin alınmasından itibaren bir ay içinde işlem yapmalıdır. Karmaşıklık veya talep sayısı nedeniyle uzatma uygulanırsa kişi ilk ay içinde bilgilendirilmelidir."
   - question: "Şirket GDPR erişim kopyası için ücret isteyebilir mi?"
     answer: "İlk kopya kural olarak ücretsizdir. Açıkça dayanaksız veya aşırı taleplerde ya da ek kopyalarda makul ücret gündeme gelebilir; ret veya ücret gerekçesi açıklanmalıdır."
-heroImage: "/images/gdpr-veri-erisim-duzeltme-sikayet-rehberi.jpg"
-heroAlt: "Verilerin işlendiği bir sunucu odası"
-heroCredit: "Esquilo / Wikimedia Commons (CC BY-SA 3.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:PDC_server_room.jpg"
+heroImage: "/images/editorial/community-hands.jpg"
+heroAlt: "Dayanışmayı simgeleyen birleşmiş eller"
+heroCredit: "Ivan Samkov / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/9630217/"
 ---
 
 Avrupa Birliği'nde bir şirket, platform, işveren veya kurum hakkınızda veri işliyorsa, Genel Veri Koruma Tüzüğü çeşitli denetim hakları tanır. En sık kullanılan erişim hakkı yalnız “verilerimi gönderin” talebi değildir: veri işlenip işlenmediğinin teyidini, verinin kopyasını, amaçları, kategorileri, alıcıları, saklama süresini ve bazı kaynak bilgilerini kapsayabilir.

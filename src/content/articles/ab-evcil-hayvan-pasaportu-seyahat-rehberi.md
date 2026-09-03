@@ -15,10 +15,10 @@ faq:
     answer: "Hayvan ilk aşı tarihinde en az 12 haftalık olmalı, mikroçip aşıdan önce takılmış veya okunmuş olmalı ve ilk aşılama protokolünden sonra en az 21 gün beklenmelidir."
   - question: "Türkiye'den AB'ye girişte AB pet passport yeterli mi?"
     answer: "Üçüncü ülkeden girişte genel olarak resmî devlet veterinerinin varıştan en fazla 10 gün önce düzenlediği AB hayvan sağlık sertifikası gerekir. Kuduz antikor titrasyon testi ve belirlenmiş giriş noktası şartı çıkış ülkesine göre ayrıca kontrol edilir."
-heroImage: "/images/ab-evcil-hayvan-pasaportu-seyahat-rehberi.jpg"
-heroAlt: "Otomobilde emniyetli biçimde seyahat eden bir köpek"
-heroCredit: "Jernej Furman from Slovenia / Wikimedia Commons (CC BY 2.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Dog_traveling_in_a_car_(50011304793).jpg"
+heroImage: "/images/editorial/pet-air-travel.jpg"
+heroAlt: "Havalimanı terminalinde bekleyen eğitimli yardımcı köpek"
+heroCredit: "Jeswin Thomas / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/18723811/"
 ---
 
 AB evcil hayvan seyahat kuralları, sahip değişimi veya satış amacı taşımayan kedi, köpek ve gelincik hareketlerini düzenler. Kuş, tavşan, sürüngen ve kemirgenler için ortak pet passport sistemi uygulanmaz; hedef ülkenin ulusal kuralı kontrol edilir.

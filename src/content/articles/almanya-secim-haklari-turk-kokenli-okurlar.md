@@ -15,10 +15,10 @@ faq:
     answer: "Hayır. Bundestag seçiminde oy hakkı Alman vatandaşlığına bağlıdır. Süresiz oturum veya Almanya'da uzun süre yaşamış olmak tek başına federal oy hakkı vermez."
   - question: "Başka bir AB ülkesi vatandaşı Almanya'da hangi seçimlere katılabilir?"
     answer: "Koşulları karşılayan AB vatandaşları Almanya'da Avrupa Parlamentosu ve belediye seçimlerinde oy kullanabilir; Bundestag seçiminde Alman vatandaşlığı gerekir."
-heroImage: "/images/almanya-olum-tescili-turkiye-rehberi.jpg"
-heroAlt: "Berlin'deki bir Türk kültür etkinliğinden katılımcı"
-heroCredit: "Siebbi / Wikimedia Commons (CC BY 3.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Fatih_Akin_(Berlin_Film_Festival_2011).jpg"
+heroImage: "/images/editorial/community-gathering-dinner.jpg"
+heroAlt: "Birlikte yemek yiyen topluluk üyeleri"
+heroCredit: "fauxels / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/5774929/"
 ---
 
 Almanya'da seçim hakkı, kişinin Türk kökenli olmasına değil **vatandaşlık statüsüne ve seçim türüne** bağlıdır. Alman vatandaşlığı bulunan 18 yaşını doldurmuş kişiler, diğer yasal koşulları karşıladıklarında Bundestag seçiminde oy kullanabilir. Türk ve Alman çifte vatandaşı olmak bu hakkı azaltmaz. Yalnız Türk vatandaşlığına ve uzun süreli oturuma sahip kişi ise federal seçimde oy kullanamaz.

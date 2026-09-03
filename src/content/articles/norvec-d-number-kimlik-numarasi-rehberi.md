@@ -15,10 +15,10 @@ faq:
     answer: "Hayır. D-number'ı ihtiyaç duyan yetkili kurum veya işletme talep eder. Vergi için Skatteetaten, bazı banka işlemlerinde banka ve göç dosyasında ilgili göç makamı gibi farklı talep sahipleri bulunabilir."
   - question: "D-number beş yıl sonra silinir mi?"
     answer: "Hayır. Tahsisten beş yıl sonra statüsü pasif olabilir; numara geçersizleşmez veya silinmez. Bazı kurumlar aktif statü isteyebilir ve yeniden etkinleştirmede onaylı kimlik kopyası ya da ID kontrolü gerekebilir."
-heroImage: "/images/ab-hukuku-ihlalini-komisyona-bildirme-rehberi.jpg"
-heroAlt: "Brüksel'deki Avrupa Komisyonu Berlaymont binasının girişi"
-heroCredit: "Ank Kumar / Wikimedia Commons (CC BY-SA 4.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:European_Commission_headquarters,_The_Berlaymont_Building,_Brussels,_Belgium_(_Ank_Kumar,_Infosys_Limited_).jpg"
+heroImage: "/images/editorial/remote-work.jpg"
+heroAlt: "Dizüstü bilgisayarla çalışan bir profesyonel"
+heroCredit: "Andrea Piacquadio / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/3791130/"
 ---
 
 Norveç'te kamu ve özel hizmetler kişiyi **fødselsnummer** veya **D-number** ile tanır. Fødselsnummer, nüfusa yerleşik kaydı yapılan kişiler için kullanılan ulusal kimlik numarasıdır. D-number ise bu numaranın şartlarını taşımayan fakat vergi, banka, mülk, sosyal güvenlik veya göç işlemi nedeniyle Norveç kimlik numarasına ihtiyaç duyan kişiye verilebilir.

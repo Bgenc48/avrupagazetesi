@@ -15,10 +15,10 @@ faq:
     answer: "Hayır. Temel ölçüt vatandaşlıktan çok daimi adres veya olağan ikametin AB dışında olmasıdır. AB vatandaşı da AB dışında yaşadığını uygun belgeyle kanıtlarsa yararlanabilir."
   - question: "Gümrük onayı alınca KDV otomatik hesaba geçer mi?"
     answer: "Hayır. Gümrük, malın AB'den çıktığını doğrular; iadeyi satıcı veya aracı işletir. Formun ayrıca teslimi, uygulama işlemi veya posta gönderimi gerekebilir ve hizmet bedeli kesilebilir."
-heroImage: "/images/ab-10000-avro-nakit-beyan-rehberi.jpg"
-heroCredit: "Avij (talk · contribs) / Wikimedia Commons (Public domain)"
-heroAlt: "Euro banknotları ve madeni avrolar"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Euro_coins_and_banknotes_(cropped).jpg"
+heroImage: "/images/editorial/cargo-containers.jpg"
+heroCredit: "Chanaka E / Pexels"
+heroAlt: "Liman sahasında üst üste dizilmiş yük konteynerleri"
+heroCreditUrl: "https://www.pexels.com/photo/906494/"
 ---
 
 Türkiye'de olağan ikamet eden bir yolcu, AB ziyareti sırasında satın aldığı ve kişisel bagajıyla AB dışına çıkardığı uygun mallar için KDV iadesi isteyebilir. Hak vatandaşlıktan çok **AB dışındaki daimi adres veya olağan ikamete** bağlıdır. Türk pasaportlu fakat AB'de yaşayan kişi otomatik uygun değildir; AB vatandaşı olup Türkiye'de yaşayan kişi ise ikametini kanıtlayabilir.
@@ -39,7 +39,7 @@ Paris–Frankfurt–İstanbul gibi aktarmada kural olarak AB'den son çıkış F
 
 Gümrük onayı dijital veya fiziksel olabilir. Onay, malın AB'den çıkarıldığını doğrular; parayı gümrük ödemez. İadeyi satıcı ya da tax free operatörü karta, hesaba veya nakit olarak yapabilir. Hizmet bedeli ve kur farkı nedeniyle alınan tutar faturadaki KDV'nin tamamından düşük olabilir. İade para birimini ve kesintileri onaydan önce okuyun.
 
-[AB kartlı ödemede işyeri kur dönüşümü rehberimiz](/avrupagazetesi/makale/ab-kartli-odemede-isyeri-kur-donusumu-rehberi/) kartınıza farklı para biriminde iade yapılırken kur seçiminin etkisini açıklar. İlk kart kapanmışsa, kart yenilenmişse veya ödeme nakitse alternatif yöntemi operatörden yazılı sorun.
+[AB kartlı ödemede dinamik kur dönüşümü rehberimiz](/avrupagazetesi/makale/ab-kartli-odemede-dinamik-kur-donusumu-rehberi/) kartınıza farklı para biriminde iade yapılırken kur seçiminin etkisini açıklar. İlk kart kapanmışsa, kart yenilenmişse veya ödeme nakitse alternatif yöntemi operatörden yazılı sorun.
 
 Türkiye'ye girişteki gümrük muafiyeti, AB'deki KDV iadesinden ayrıdır. AB'den tax free alınması malın Türkiye'ye vergisiz sokulacağını göstermez. Türkiye'nin yolcu beraberindeki eşya limiti, beyan ve vergi kurallarını ayrıca kontrol edin; faturayı Türkiye gümrüğünde de erişilebilir tutun.
 

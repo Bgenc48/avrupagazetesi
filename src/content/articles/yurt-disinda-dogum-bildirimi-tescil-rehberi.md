@@ -15,10 +15,10 @@ faq:
     answer: "Sağ doğum, yurt dışında doğum tarihinden itibaren 60 gün içinde dış temsilciliğe bildirilmelidir. Süre geçirilmişse de tescil için temsilcilik veya şartlarına göre Türkiye'deki nüfus müdürlüğüyle işlem yapılır."
   - question: "Doğum bildirimi posta ile yapılabilir mi?"
     answer: "Dış temsilciliğe şahsen başvuru yapılamıyorsa resmî doğum belgesi, tercüme, kimlik ve aile kütüğü bilgileri ile çocuğun adını belirten dilekçe posta yoluyla gönderilebilir; görevli temsilciliğin güncel belge listesini doğrulayın."
-heroImage: "/images/ab-kamu-belgesi-apostil-muafiyeti-rehberi.jpg"
-heroAlt: "Damga ve giriş çıkış kayıtları bulunan resmî seyahat belgeleri"
-heroCredit: "The government of the United States of America. / Wikimedia Commons (Public domain)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:United_States_official_passport_of_a_naval_officer_during_the_early_Vietnam_War_(1956)_14.png"
+heroImage: "/images/editorial/policy-document.jpg"
+heroAlt: "Resmî bir belgeyi imzalayan kişi"
+heroCredit: "Pixabay / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/48148/"
 ---
 
 Yurt dışında sağ doğan bir çocuğun Türk aile kütüğüne kaydı, yabancı ülkedeki doğum kaydından ayrı bir işlemdir. Nüfus ve Vatandaşlık İşleri Genel Müdürlüğüne göre bildirim, doğum tarihinden itibaren **60 gün** içinde en yakın veya görevli dış temsilciliğe yapılmalıdır. Yerel doğum belgesi çocuğa tek başına Türk kimliği veya pasaportu kazandırmaz; Türk nüfus tescili tamamlanmalıdır.

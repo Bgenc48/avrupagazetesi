@@ -15,10 +15,10 @@ faq:
     answer: "Kural olarak sözleşmenin imzalanmasından itibaren 14 takvim günü içinde gerekçe göstermeden cayılabilir; alınan ana para, işlemiş faiz ve geri alınamayan kamu masrafı süresinde ödenir."
   - question: "APR veya yıllık maliyet oranı neyi gösterir?"
     answer: "APR, faiz, komisyon, vergi ve zorunlu bazı ücretleri tek yıllık yüzdeye dönüştürerek kredi tekliflerinin toplam maliyetini karşılaştırmayı kolaylaştırır."
-heroImage: "/images/ab-10000-avro-nakit-beyan-rehberi.jpg"
-heroAlt: "Euro banknotları ve madeni avrolar"
-heroCredit: "Avij (talk · contribs) / Wikimedia Commons (Public domain)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Euro_coins_and_banknotes_(cropped).jpg"
+heroImage: "/images/editorial/retirement-planning.jpg"
+heroAlt: "Kumbaraya para atarak birikim yapan kişi"
+heroCredit: "Joslyn Pickens / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/3943715/"
 ---
 
 AB tüketici kredisi kuralları, kredi kartı borcu, kişisel kredi veya mal finansmanı gibi sözleşmelerde imzadan önce standart bilgi ve sözleşmeden çıkış hakları sağlar. Konut ipoteği ve bazı çok küçük ya da özel krediler farklı kurallara tabidir; ürünün hukuki türünü başlıktan değil sözleşmeden doğrulayın.

@@ -15,10 +15,10 @@ faq:
     answer: "Yeni standart başvuruda kural olarak yıllık 41.700 sterlin ile mesleğin going rate tutarından hangisi yüksekse o aranır. Sağlık, eğitim, eski CoS ve indirimli puan seçeneklerinde farklı tablolar olabilir."
   - question: "Certificate of Sponsorship fiziksel bir belge midir?"
     answer: "Hayır. CoS elektronik bir kayıttır; işveren referans numarası verir. Başvuru bu numara verildikten sonra üç ay içinde yapılmalıdır ve iş, ücret ile sponsor bilgileri kayıtla aynı olmalıdır."
-heroImage: "/images/ab-gorevlendirilen-calisan-a1-haklari-rehberi.jpg"
-heroAlt: "Çalışma hayatı üzerine düzenlenen kalabalık bir toplantı"
-heroCredit: "Marjory Collins / Wikimedia Commons (Public domain)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:A_Sunday_afternoon_meeting_of_the_rubber_workers_union8d18608v.jpg"
+heroImage: "/images/editorial/passport-visa.jpg"
+heroAlt: "Elinde farklı ülkelere ait pasaportlar tutan kişi"
+heroCredit: "RDNE Stock project / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/7009478/"
 ---
 
 Birleşik Krallık **Skilled Worker** vizesi için iş teklifi tek başına yeterli değildir. Görev uygun meslek kodunda olmalı, işveren Home Office onaylı sponsor olmalı, elektronik Certificate of Sponsorship düzenlenmeli ve ücret hem genel tabanı hem mesleğe özgü going rate ölçütünü karşılamalıdır. İş ilanındaki “visa sponsorship” sözü yerine resmî sponsor sicilini kullanın.
@@ -47,3 +47,7 @@ Kontrol dosyanızda sponsor sicil çıktısı, occupation code tablosu, going ra
 - [GOV.UK: Skilled Worker documents](https://www.gov.uk/skilled-worker-visa/documents-you-must-provide)
 - [GOV.UK: register of licensed sponsors](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers)
 - [GOV.UK: Skilled Worker overview](https://www.gov.uk/skilled-worker-visa)
+
+## İlgili okuma
+
+Göç ve uyum dosyanızdaki bağlantılı adımları tamamlamak için, [Birleşik Krallık ACAS Early Conciliation 2026 rehberi](/avrupagazetesi/makale/birlesik-krallik-acas-early-conciliation-2026-rehberi/) yazısındaki kontrol sırasını da inceleyin. İki rehberi tek dosyada izlemek, tekrar belge toplama ve çelişen işlem adımları riskini azaltır.

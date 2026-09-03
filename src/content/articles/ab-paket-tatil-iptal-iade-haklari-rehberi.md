@@ -15,10 +15,10 @@ faq:
     answer: "Artış yalnız sözleşmede açıkça izin verilen yakıt/enerji, vergi-harç veya kur değişimi gibi belirli maliyetlere dayanabilir ve başlangıçtan en geç 20 gün önce bildirilmelidir. Artış yüzde 8'i aşarsa yolcu sözleşmeyi ücret ödemeden sona erdirebilir."
   - question: "Paket tatilde organizatör iflas ederse para korunur mu?"
     answer: "AB'de organizatörün, yaptığı ödemelerin iadesi ve paket taşımayı içeriyorsa gerektiğinde yolcunun ülkesine dönüşü için iflas koruması sağlaması gerekir. Sözleşmede korumayı veren kurumun iletişim bilgisini kontrol edin."
-heroImage: "/images/ab-online-alisveris-14-gun-cayma-rehberi.jpg"
-heroAlt: "Dizüstü bilgisayarla çevrim içi alışveriş yapan bir tüketici"
-heroCredit: "Artem Beliaikin from Moscow, Russia / Wikimedia Commons (CC BY 2.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Woman_online_shopping_concept._Woman_in_the_green_park_with_modern_laptop._Bali_island._(47798039732).jpg"
+heroImage: "/images/editorial/professional-networking.jpg"
+heroAlt: "Konferans salonunda fikir alışverişi yapan profesyoneller"
+heroCredit: "Christina Morillo / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/1181406/"
 ---
 
 Paket tatil, aynı gezi için ulaşım, konaklama, araç kiralama veya belirli başka turizm hizmetlerinden en az ikisinin mevzuattaki biçimlerden biriyle birlikte satılmasıdır. Tek sözleşme ve toplam fiyat açık örnektir; tek satış noktasında ödeme kabul edilmeden önce seçilen ayrı hizmetler veya yolcu verisinin ikinci sağlayıcıya aktarıldığı bağlantılı rezervasyonlar da koşullara göre paket olabilir.

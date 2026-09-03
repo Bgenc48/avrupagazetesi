@@ -15,10 +15,10 @@ faq:
     answer: "Evet. İşveren sosyal sigorta kaydını yaptıktan sonra sigortalı kişi Versicherungsnummer ile doktora gidebilir. Gerekirse sigorta kurumu süreli e-card Ersatzbeleg düzenleyebilir."
   - question: "Yabancı çalışan e-card için fotoğraf vermeli mi?"
     answer: "Avusturya makamlarındaki uygun kimlik veya yabancılar sicilinden fotoğraf alınamıyorsa, 14 yaş üzerindeki ve istisna kapsamında olmayan kişi yetkili kayıt noktasına fotoğraf vermelidir."
-heroImage: "/images/ab-gorevlendirilen-calisan-a1-haklari-rehberi.jpg"
-heroAlt: "Çalışma hayatı üzerine düzenlenen kalabalık bir toplantı"
-heroCredit: "Marjory Collins / Wikimedia Commons (Public domain)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:A_Sunday_afternoon_meeting_of_the_rubber_workers_union8d18608v.jpg"
+heroImage: "/images/editorial/hospital-doctor.jpg"
+heroAlt: "Stetoskoplu bir hastane doktoru"
+heroCredit: "MART PRODUCTION / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/5998477/"
 ---
 
 Avusturya'da çalışanı işe başladığında sosyal sigortaya bildirme yükümlülüğü işverene aittir. Bu kayıtla sağlık sigortası hakkı oluşur ve bir **Versicherungsnummer** verilir. e-card fiziksel kartı bu hakkın elektronik anahtarıdır; kartın henüz postayla gelmemesi, doğru yapılmış sigorta kaydının bulunmadığı anlamına gelmez.

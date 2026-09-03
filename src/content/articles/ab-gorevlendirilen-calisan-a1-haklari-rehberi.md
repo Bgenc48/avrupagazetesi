@@ -15,10 +15,10 @@ faq:
     answer: "Hayır. Toplantı, konferans, fuar veya eğitim için gidip ev sahibi ülkede hizmet sunmayan kişi kural olarak posted worker değildir; fakat sosyal güvenlik bildirimi ve PD A1 yine gerekebilir."
   - question: "PD A1 çalışma izninin yerine geçer mi?"
     answer: "Hayır. PD A1 yalnız hangi ülkenin sosyal güvenlik mevzuatının uygulandığını gösterir. Özellikle AB vatandaşı olmayan çalışan için çalışma ve oturum hakkı ayrıca doğrulanmalıdır."
-heroImage: "/images/ab-gorevlendirilen-calisan-a1-haklari-rehberi.jpg"
-heroAlt: "Çalışma hayatı üzerine düzenlenen kalabalık bir toplantı"
-heroCredit: "Marjory Collins / Wikimedia Commons (Public domain)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:A_Sunday_afternoon_meeting_of_the_rubber_workers_union8d18608v.jpg"
+heroImage: "/images/editorial/business-meeting.jpg"
+heroAlt: "Toplantı masasında çalışan profesyoneller"
+heroCredit: "Christina Morillo / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/1181406/"
 ---
 
 Bir işverenin çalışanını sözleşme kapsamında hizmet vermek, aynı grubun başka kuruluşunda geçici çalıştırmak veya geçici iş ajansı üzerinden görevlendirmek üzere başka bir AB ülkesine göndermesi “posted worker” kurallarını doğurabilir. İşverenle çalışan arasındaki iş ilişkisi görevlendirme boyunca sürmelidir. Çalışanın kısa süre sınır ötesine gitmesi tek başına doğru sınıflandırmayı göstermez; gidilen yerde fiilen hangi işi yaptığı belirleyicidir.

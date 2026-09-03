@@ -15,10 +15,10 @@ faq:
     answer: "Genel olarak hayır. Türkiye'de alınan yeterlilik, çalışılacak üye devletin ulusal kurallarına göre yetkili makam tarafından tanınır; mesleğin düzenlenmiş olup olmadığı ilk adımdır."
   - question: "Bir AB ülkesi tanıdıysa diğerinde de geçerli olur mu?"
     answer: "İlk tanıma otomatik aktarılmaz; ancak ilk AB ülkesinde mesleği en az üç yıl icra eden kişi, koşulları varsa sonraki ülkede AB yeterliliği sahiplerine uygulanan genel sistemden yararlanabilir."
-heroImage: "/images/ab-gorevlendirilen-calisan-a1-haklari-rehberi.jpg"
-heroAlt: "Çalışma hayatı üzerine düzenlenen kalabalık bir toplantı"
-heroCredit: "Marjory Collins / Wikimedia Commons (Public domain)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:A_Sunday_afternoon_meeting_of_the_rubber_workers_union8d18608v.jpg"
+heroImage: "/images/editorial/professional-networking.jpg"
+heroAlt: "Konferans salonunda fikir alışverişi yapan profesyoneller"
+heroCredit: "Christina Morillo / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/1181406/"
 ---
 
 Türkiye'de alınan diploma, ustalık belgesi veya meslek ruhsatıyla bir AB ülkesinde çalışmak için önce hedef ülkede mesleğin düzenlenmiş olup olmadığı belirlenmelidir. Düzenlenmiş meslek, faaliyete girişin kanunen belirli yeterlilik, sınav veya meslek kuruluşu üyeliğine bağlandığı iştir. Aynı meslek bir ülkede düzenlenmiş, diğerinde serbest olabilir.

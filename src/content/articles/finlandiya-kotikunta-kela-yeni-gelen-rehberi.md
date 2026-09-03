@@ -15,10 +15,10 @@ faq:
     answer: "Hayır. Migri veya vergi dairesinden Finnish personal identity code almak, belirli bir belediyede sürekli ikamet kaydı yapıldığı anlamına gelmez. Adres ve kotikunta için DVV işlemi ayrıca gerekebilir."
   - question: "Finlandiya'da çalışan yeni gelen Kela hakkı kazanabilir mi?"
     answer: "Kela'nın güncel sayfasına göre aylık ücret 800,02 avro veya üzerindeyse çalışma başlangıcından itibaren bazı yardımlar ve Kela kartı mümkün olabilir. Diğer haklar ikamet, ülke ve kişisel duruma göre ayrıca değerlendirilir."
-heroImage: "/images/ab-konut-kredisi-esis-rehberi.jpg"
-heroAlt: "Amsterdam'da konutların bulunduğu bir şehir sokağı"
-heroCredit: "Jorge Láscar from Australia / Wikimedia Commons (CC BY 2.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Street_and_canal_at_dusk,_Oudezijds_Voorburgwal_%27blue_hour%27,_7_januari_2011_(5821465439).jpg"
+heroImage: "/images/editorial/remote-work.jpg"
+heroAlt: "Dizüstü bilgisayarla çalışan bir profesyonel"
+heroCredit: "Andrea Piacquadio / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/3791130/"
 ---
 
 Finlandiya'ya taşınan yeni gelenlerin karşısına üç ayrı kayıt çıkar: Finnish personal identity code, nüfus sistemindeki adres ve **kotikunta**, yani ikamet belediyesi. Bunlardan birini almak diğerlerinin kendiliğinden tamamlandığı anlamına gelmez. Oturum izni kararında kimlik kodu verilmiş olsa bile DVV'de adres ve belediye kaydı gerekebilir.

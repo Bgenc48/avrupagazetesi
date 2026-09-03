@@ -15,10 +15,10 @@ faq:
     answer: "Yol, kararın ceza veya hukuk tedbiri olmasına göre değişir. Ceza tedbirinde Avrupa Koruma Emri istenir; hukuk tedbirinde kararı veren makamın sertifikasıyla doğrudan tanıma mekanizması kullanılabilir."
   - question: "Koruma kararı varken acil tehlikede ne yapılmalı?"
     answer: "Acil tehlikede 112 veya bulunulan ülkenin polisine başvurulmalıdır. AB tanıma belgeleri güvenliği güçlendirir ancak acil müdahale çağrısının veya yerel geçici koruma talebinin yerine geçmez."
-heroImage: "/images/avrupa-kucuk-talepler-5000-avro-rehberi.jpg"
-heroAlt: "Lüksemburg’daki Avrupa Birliği Adalet Divanı yerleşkesi"
-heroCredit: "Luxofluxo / Wikimedia Commons (CC BY-SA 4.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Palais_de_la_Cour_de_Justice_CJEU_July_2021_Sign_to_the_Ancien_Palais.jpg"
+heroImage: "/images/editorial/community-hands.jpg"
+heroAlt: "Dayanışmayı simgeleyen birleşmiş eller"
+heroCredit: "Ivan Samkov / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/9630217/"
 ---
 
 Bir AB ülkesinde aile içi şiddet, ısrarlı takip veya tehdit nedeniyle verilen yaklaşmama, iletişim kurmama ya da belirli yerlere girmeme kararı, mağdur başka bir AB ülkesine taşındığında veya seyahat ettiğinde korunmaya devam edebilir. Fakat tek bir “AB koruma kartı” yoktur; kararın **ceza** veya **hukuk** tedbiri olmasına göre iki farklı mekanizma işler.

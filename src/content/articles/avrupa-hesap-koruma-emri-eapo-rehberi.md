@@ -15,10 +15,10 @@ faq:
     answer: "Hayır. Avrupa Hesap Koruma Emri uygun tutarı geçici olarak dondurur; alacağın tahsili için ayrıca icra edilebilir karar ve uygulama ülkesinin icra süreci gerekir."
   - question: "Borçluya EAPO başvurusundan önce haber verilir mi?"
     answer: "Usul sürpriz etkisini korumak için kural olarak borçlu dinlenmeden yürür. Emir uygulandıktan sonra borçluya bildirim yapılır ve borçlu Form VII gibi uygun yolla itiraz veya düzeltme isteyebilir."
-heroImage: "/images/almanya-olum-tescili-turkiye-rehberi.jpg"
-heroAlt: "Berlin'deki bir Türk kültür etkinliğinden katılımcı"
-heroCredit: "Siebbi / Wikimedia Commons (CC BY 3.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Fatih_Akin_(Berlin_Film_Festival_2011).jpg"
+heroImage: "/images/editorial/community-hands.jpg"
+heroAlt: "Dayanışmayı simgeleyen birleşmiş eller"
+heroCredit: "Ivan Samkov / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/9630217/"
 ---
 
 Avrupa Hesap Koruma Emri (EAPO), medeni veya ticari sınır ötesi alacakta bir AB ülkesindeki mahkemenin, borçlunun başka bir katılımcı AB ülkesindeki banka hesabında bulunan parayı geçici olarak dondurmasını sağlar. Amaç, borçlunun tahsilattan önce parayı taşıması veya harcaması riskini azaltmaktır. Danimarka rejime katılmaz.

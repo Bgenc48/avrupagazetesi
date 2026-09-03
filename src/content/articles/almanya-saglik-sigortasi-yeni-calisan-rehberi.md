@@ -15,10 +15,10 @@ faq:
     answer: "Federal Sağlık Bakanlığı, genel yıllık zorunlu sigorta sınırını 2026 için 77.400 avro olarak yayımlıyor. Gelirin yanı sıra iş ve önceki sigorta statüsü de değerlendirilir."
   - question: "Geliri sınırı aşan çalışan özel sigortaya geçmek zorunda mı?"
     answer: "Hayır. Zorunlu GKV kapsamı dışına çıkan uygun çalışan gönüllü GKV üyeliğini sürdürebilir veya koşulları karşılıyorsa PKV seçebilir. Uzun vadeli sonuçlar karşılaştırılmalıdır."
-heroImage: "/images/almanya-saglik-sigortasi-yeni-calisan-rehberi.jpg"
-heroCredit: "U.S. Army photo by Cpl. Clara Soria / Wikimedia Commons (Public domain)"
-heroAlt: "Bir hastanede görev başındaki doktorlar ve sağlık çalışanları"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:US,_Ghana_medical_staff_participate_in_medical_exercise_(8439482).jpg"
+heroImage: "/images/editorial/hospital-doctor.jpg"
+heroCredit: "MART PRODUCTION / Pexels"
+heroAlt: "Stetoskoplu bir hastane doktoru"
+heroCreditUrl: "https://www.pexels.com/photo/5998477/"
 ---
 
 Almanya'da ikamet eden herkesin sağlık güvencesi bulunmalıdır. Çalışanların çoğu **gesetzliche Krankenversicherung, GKV**, yani yasal sağlık sigortasına iş üzerinden zorunlu üye olur. İş sözleşmesi imzalamak sigortayı tek başına tamamlamaz; bir Krankenkasse seçip üyelik teyidinin işverene elektronik olarak ulaşmasını sağlamak gerekir.

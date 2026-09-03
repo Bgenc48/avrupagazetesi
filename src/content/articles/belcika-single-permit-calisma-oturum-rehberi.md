@@ -15,10 +15,10 @@ faq:
     answer: "Doksan günden uzun süreli ücretli çalışma için başvuruyu genellikle Belçikalı işveren veya temsilcisi, işyerinin bağlı olduğu bölgesel ekonomik göç makamına yapar."
   - question: "Single permit kararı çıkınca doğrudan çalışmaya başlanabilir mi?"
     answer: "Yurt dışındaki başvuranın ayrıca Annex 46 veya 47 ile D vizesi alması, Belçika'ya giriş yapması ve belediye kaydını tamamlaması gerekir. Çalışma başlangıcı karardaki koşul ve belgelerle doğrulanmalıdır."
-heroImage: "/images/ab-arastirmaci-oturum-izni-rehberi.jpg"
-heroAlt: "Avrupa'daki bir havalimanında pasaport kontrol noktası"
-heroCredit: "Subhashish Panigrahi / Wikimedia Commons (CC BY-SA 4.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Man_using_the_automatic_gate_in_Munich_airport_02.jpg"
+heroImage: "/images/editorial/identity-culture.jpg"
+heroAlt: "Dünya haritası üzerinde farklı ülkelerin bayrakları"
+heroCredit: "Lara Jameson / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/8828605/"
 ---
 
 Belçika'da Avrupa Ekonomik Alanı veya İsviçre vatandaşı olmayan bir kişinin ücretli işte **90 günden uzun** çalışması çoğunlukla single permit sürecine girer. Bu tek prosedürde çalışma yetkisini bölgesel makam, oturum hakkını federal Immigration Office değerlendirir. İş teklifi tek başına çalışma hakkı yaratmaz.

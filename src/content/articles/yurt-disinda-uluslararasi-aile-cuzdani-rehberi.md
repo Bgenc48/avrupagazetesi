@@ -15,10 +15,10 @@ faq:
     answer: "Evlilik nüfusa tescil edilmişse, evlenme sırasında alınmamış uluslararası aile cüzdanı başvuru üzerine Türk dış temsilciliği tarafından düzenlenebilir."
   - question: "Yıpranmış aile cüzdanı yenilenirken eski belge alınır mı?"
     answer: "Evet. Yıpranma nedeniyle yeni uluslararası aile cüzdanı düzenlenirken eski cüzdan geri alınır; kayıp başvurusunda ise talep belgesi ve fotoğraf gibi kanıtlar istenir."
-heroImage: "/images/fransa-aile-birlesimi-regroupement-familial-rehberi.jpg"
-heroAlt: "Ailelerin ve çocukların katıldığı açık hava etkinliği"
-heroCredit: "Cupofjoy / Wikimedia Commons (CC0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Family_festival_in_the_park_with_inflatables.jpg"
+heroImage: "/images/editorial/baby-travel.jpg"
+heroAlt: "Havalimanında valiziyle seyahat eden anne ve çocuğu"
+heroCredit: "Gustavo Fring / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/4173222/"
 ---
 
 Uluslararası aile cüzdanı, eş ve çocukların kimlik bilgilerini içeren ve uyruğu gösteren çok dilli resmî belgedir. Pasaport, tek başına evlilik tescili veya her ülkede sınırsız medeni hâl kanıtı değildir. Yabancı makamın ayrıca güncel evlenme kayıt örneği istemesi mümkündür.

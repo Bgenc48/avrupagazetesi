@@ -15,10 +15,10 @@ faq:
     answer: "Türkiye, 2026/636 sayılı düzenlemenin titrasyon muafiyeti listelerinde yer almadığından kedi, köpek ve gelincik için yetkili laboratuvarda en az 0,5 IU/ml sonuçlu test gerekir."
   - question: "Titrasyon sonrası kaç gün beklenmelidir?"
     answer: "Kan örneği geçerli kuduz aşısından en az 30 gün sonra alınır ve ilk uygun testte örnek alma tarihinden AB'ye girişe kadar en az üç ay beklenir; kesintisiz rapel aşı varsa test genellikle tekrarlanmaz."
-heroImage: "/images/ab-evcil-hayvan-pasaportu-seyahat-rehberi.jpg"
-heroAlt: "Otomobilde emniyetli biçimde seyahat eden bir köpek"
-heroCredit: "Jernej Furman from Slovenia / Wikimedia Commons (CC BY 2.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Dog_traveling_in_a_car_(50011304793).jpg"
+heroImage: "/images/editorial/pet-air-travel.jpg"
+heroAlt: "Havalimanı terminalinde bekleyen eğitimli yardımcı köpek"
+heroCredit: "Jeswin Thomas / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/18723811/"
 ---
 
 Türkiye'den AB'ye sahibiyle seyahat eden kedi, köpek veya gelincik için ticari olmayan evcil hayvan kuralları uygulanır. Hayvanın satışı veya sahibinin değişmesi amaçlanmamalı; sahibi ya da yazılı yetkilendirdiği kişiyle seyahat arasındaki zaman bağlantısı korunmalıdır. Beşten fazla hayvanda yarışma veya etkinlik istisnası yoksa ticari giriş kuralları doğabilir.

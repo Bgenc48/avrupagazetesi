@@ -15,10 +15,10 @@ faq:
     answer: "Hayır. AB kuralları kapsamındaki engelli veya hareket kabiliyeti kısıtlı yolcunun terminalde ve taşıtta gerekli yardımı ücretsiz alması esastır."
   - question: "Yardım talebi kaç saat önce bildirilmelidir?"
     answer: "Uçak ve gemide genellikle 48, trende 24 saat ancak bazı ülkelerde 36 saat, 250 km ve üzeri otobüs hizmetinde 36 saat önce bildirim yapılır. Bildirim olmasa da makul yardım çabası gerekir."
-heroImage: "/images/ab-engelli-park-karti-yurt-disi-kullanim-rehberi.jpg"
-heroCredit: "John Robert McPherson / Wikimedia Commons (CC BY-SA 4.0)"
-heroAlt: "Tekerlekli sandalyesiyle erişilebilir trene binen bir yolcu"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Electric_wheelchair_boarding_Queensland_Rail_SMU260_Platform_3_Sunnybank_Railway_Station_DSCF7806.jpg"
+heroImage: "/images/editorial/passport-visa.jpg"
+heroCredit: "RDNE Stock project / Pexels"
+heroAlt: "Elinde farklı ülkelere ait pasaportlar tutan kişi"
+heroCreditUrl: "https://www.pexels.com/photo/7009478/"
 ---
 
 Engelli veya hareket kabiliyeti kısıtlı yolcu, AB'de uçak, tren, uzun mesafe otobüs ve gemiyle diğer yolcular gibi seyahat etme ve terminal ile araçta ücretsiz yardım alma hakkına sahiptir. Engel görünür olmak zorunda değildir; yaş, geçici yaralanma veya başka hareket kısıtı da yardım ihtiyacı yaratabilir.

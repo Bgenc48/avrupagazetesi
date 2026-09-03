@@ -15,10 +15,10 @@ faq:
     answer: "Hayır. Koruma özellikle yalnız otomatik işlemeye dayanan ve kişi hakkında hukuki sonuç veya benzer derecede önemli etki doğuran kararlara yöneliktir; anlamlı insan değerlendirmesi varsa kapsam analizi değişebilir."
   - question: "İnsan incelemesi talep edildiğinde ne istenmelidir?"
     answer: "Yetkili kişinin dosyadaki verileri ve kişinin açıklamasını gerçekten değerlendirip kararı değiştirme yetkisiyle yeniden karar vermesi istenmelidir; otomatik sonucu yalnız onaylayan sembolik kontrol yeterli değildir."
-heroImage: "/images/gdpr-veri-erisim-duzeltme-sikayet-rehberi.jpg"
-heroAlt: "Verilerin işlendiği bir sunucu odası"
-heroCredit: "Esquilo / Wikimedia Commons (CC BY-SA 3.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:PDC_server_room.jpg"
+heroImage: "/images/editorial/courthouse-justice.jpg"
+heroAlt: "Adliye binası ve adalet sütunları"
+heroCredit: "Sora Shimazaki / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/5668882/"
 ---
 
 Kredi reddi, sigorta primi, işe alım elemesi, dolandırıcılık engeli veya platform hesabının kapatılması bir model ya da puanlama sistemiyle verilebilir. GDPR'ın 22. maddesi, yalnız otomatik işlemeye dayanan ve kişi hakkında hukuki sonuç ya da benzer ölçüde önemli etki doğuran kararlara karşı özel koruma sağlar. Her yazılım kullanımı bu kapsama girmez; kararın nasıl verildiği ve etkisinin ağırlığı birlikte değerlendirilir.

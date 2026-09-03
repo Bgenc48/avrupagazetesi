@@ -15,10 +15,10 @@ faq:
     answer: "Hayır. Gleichbehandlungsanwaltschaft bağımsız, ücretsiz ve gizli hukuki danışmanlık sunar; gerektiğinde ücretsiz tercüman sağlayabilir ve kişinin onayı olmadan sonraki adımı atmaz."
   - question: "Equal Treatment Commission tazminat verebilir mi?"
     answer: "Komisyon ücretsiz ve gizli incelemede ayrımcılık olup olmadığını değerlendirip tavsiye verir; tazminatı zorla hükmedemez. Bağlayıcı tazminat için mahkeme gerekir."
-heroImage: "/images/almanya-olum-tescili-turkiye-rehberi.jpg"
-heroAlt: "Berlin'deki bir Türk kültür etkinliğinden katılımcı"
-heroCredit: "Siebbi / Wikimedia Commons (CC BY 3.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Fatih_Akin_(Berlin_Film_Festival_2011).jpg"
+heroImage: "/images/editorial/family-multicultural.jpg"
+heroAlt: "Evde birlikte vakit geçiren çok kültürlü aile"
+heroCredit: "William Fortunato / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/6393334/"
 ---
 
 Avusturya'da ayrımcılık veya cinsel taciz yaşayan kişi, federal **Gleichbehandlungsanwaltschaft** kurumundan bağımsız, ücretsiz ve gizli destek alabilir. Kurum olayın Equal Treatment Act kapsamına girip girmediğini değerlendirir, seçenekleri açıklar ve başvuranın onayıyla hareket eder.

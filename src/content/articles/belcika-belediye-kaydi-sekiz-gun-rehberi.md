@@ -15,10 +15,10 @@ faq:
     answer: "Belgium.be, üç aydan uzun kalmak isteyen yabancının gelişinden itibaren sekiz gün içinde fiilen kaldığı belediyeye başvurmasını belirtir. Yerel randevu sistemi ve belge listesi belediyeden doğrulanmalıdır."
   - question: "Belediyeye başvurmak oturum kartını hemen verir mi?"
     answer: "Hayır. Başvuru, dosya ve gerçek adres kontrolünü başlatır. Polis ikamet kontrolü ve göçmenlik statüsü değerlendirmesi sonrasında uygun sicil kaydı ve kart aşaması tamamlanır."
-heroImage: "/images/ab-hukuku-ihlalini-komisyona-bildirme-rehberi.jpg"
-heroAlt: "Brüksel'deki Avrupa Komisyonu Berlaymont binasının girişi"
-heroCredit: "Ank Kumar / Wikimedia Commons (CC BY-SA 4.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:European_Commission_headquarters,_The_Berlaymont_Building,_Brussels,_Belgium_(_Ank_Kumar,_Infosys_Limited_).jpg"
+heroImage: "/images/editorial/remote-work.jpg"
+heroAlt: "Dizüstü bilgisayarla çalışan bir profesyonel"
+heroCredit: "Andrea Piacquadio / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/3791130/"
 ---
 
 Belçika'ya üç aydan uzun süre için taşınan yabancı, yalnız vize veya iş izniyle adres işlemini tamamlamış sayılmaz. Belgium.be, kişinin gelişinden itibaren **sekiz gün içinde** fiilen yaşadığı belediyeye başvurmasını ister. Kurumun adı bölgeye göre commune, gemeente veya Gemeindeverwaltung olabilir.
@@ -49,3 +49,7 @@ Kişisel dosyada geliş kanıtı, ilk randevu talebi, teslim edilen belge listes
 - [Belgium.be: residence documents for Belgium](https://www.belgium.be/en/family/residence_documents_for_belgium)
 - [Belgian Immigration Office](https://dofi.ibz.be/en)
 - [Belgium.be: civil status and population registers](https://www.belgium.be/en/familie/identiteit/akten_en_registers)
+
+## İlgili okuma
+
+Bu işlemin bağlantılı belge ve doğrulama adımlarını görmek için, [Belçika'da mutualité sağlık sigortasına kayıt rehberi](/avrupagazetesi/makale/belcika-mutualite-saglik-sigortasi-rehberi/) yazısındaki kontrol sırasını da inceleyin. İki rehberi tek dosyada izlemek, tekrar belge toplama ve çelişen işlem adımları riskini azaltır.

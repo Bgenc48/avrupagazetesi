@@ -15,10 +15,10 @@ faq:
     answer: "Taraflar başka süre kararlaştırmadıysa satıcı malı sözleşmenin kurulmasından itibaren en geç 30 gün içinde teslim etmelidir."
   - question: "Kargo şirketi ürünü kaybettiğinde satıcı sorumlu mudur?"
     answer: "Taşıyıcıyı tüketici bağımsız olarak seçmediyse, ürün tüketicinin fiilî zilyetliğine geçene kadar risk satıcıdadır; satıcı teslimi kanıtlamalı, yenisini göndermeli veya bedeli iade etmelidir."
-heroImage: "/images/ab-kargo-teslim-edilmedi-hasarli-urun-rehberi.jpg"
-heroAlt: "Paketlerle bir evin kapısını çalan teslimat görevlisi"
-heroCredit: "Meanwell Packaging / Wikimedia Commons (CC BY 2.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:A_Delivery_Driver_Knocking_on_a_Door_to_Deliver_Packages.jpg"
+heroImage: "/images/editorial/business-meeting.jpg"
+heroAlt: "Toplantı masasında çalışan profesyoneller"
+heroCredit: "Christina Morillo / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/1181406/"
 ---
 
 Çevrim içi siparişte teslim tarihi sözleşmede yazıyorsa satıcı o tarihe uymalıdır. Tarih kararlaştırılmamışsa AB tüketici kurallarında malın kural olarak sözleşmeden itibaren en geç **30 gün** içinde teslim edilmesi beklenir. “Kargoya verildi” bildirimi, tüketiciye teslim edildiğinin kanıtı değildir.

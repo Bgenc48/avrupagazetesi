@@ -15,10 +15,10 @@ faq:
     answer: "Eşik yolcunun bindiği kısa bölümden değil, tarifeli düzenli hizmetin planlanan toplam güzergâhından hesaplanır. Hattın başlangıç-bitiş noktalarını bilet ve tarife üzerinden doğrulayın."
   - question: "Otobüs iki saat gecikirse ne istenebilir?"
     answer: "250 km veya üzeri düzenli hizmette kalkış iki saatten fazla gecikirse bilet iadesi ve gerekiyorsa başlangıç noktasına dönüş ile ek ücretsizz devam/alternatif rota arasında seçim sunulmalıdır. Seçim sunulmazsa bilet iadesine ek yüzde 50 tazminat istenebilir."
-heroImage: "/images/ab-engelli-yolcu-ucretsiz-yardim-rehberi.jpg"
-heroAlt: "Berlin Hauptbahnhof tren istasyonu"
-heroCredit: "Ansgar Koreng / Wikimedia Commons (CC BY 3.0 de)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Berlin_Hauptbahnhof_Ostseite_HDR.jpg"
+heroImage: "/images/editorial/passport-visa.jpg"
+heroAlt: "Elinde farklı ülkelere ait pasaportlar tutan kişi"
+heroCredit: "RDNE Stock project / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/7009478/"
 ---
 
 AB otobüs ve yolcu otobüsü hakları, başlangıcı veya bitişi AB ülkesinde olan tarifeli hizmetlerde uygulanır. Gecikme ve iptal için güçlü hakların çoğu, belirlenmiş durak ve tarifeyle işletilen hattın planlanan toplam mesafesi **250 kilometre veya üzerindeyse** geçerlidir. Sizin yalnız 80 kilometre gitmeniz, hattın toplamı 250 kilometreyi aşıyorsa kapsamı kaldırmaz.

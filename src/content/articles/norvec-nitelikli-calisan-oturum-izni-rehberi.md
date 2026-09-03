@@ -15,10 +15,10 @@ faq:
     answer: "İş normalde tam zamanlı olmalıdır; UDI en az yüzde 80 oranındaki bir pozisyonu kabul edebilir. Teklif edilen görevin nitelikli çalışan yeterliliği gerektirmesi ve başvuranın bu yeterliliğe sahip olması gerekir."
   - question: "2026'da Norveç iş teklifi nasıl doğrulanır?"
     answer: "Başvuran dosyayı yurt dışından kendisi veriyorsa, kapsamdaki izinlerde Norveçli işveren önce teklifi UDI sisteminde doğrular ve başvurana dört İngilizce kelimeden oluşan kod gönderir. Doğru kod olmadan form gönderilemez."
-heroImage: "/images/ab-gorevlendirilen-calisan-a1-haklari-rehberi.jpg"
-heroAlt: "Çalışma hayatı üzerine düzenlenen kalabalık bir toplantı"
-heroCredit: "Marjory Collins / Wikimedia Commons (Public domain)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:A_Sunday_afternoon_meeting_of_the_rubber_workers_union8d18608v.jpg"
+heroImage: "/images/editorial/identity-culture.jpg"
+heroAlt: "Dünya haritası üzerinde farklı ülkelerin bayrakları"
+heroCredit: "Lara Jameson / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/8828605/"
 ---
 
 Norveç'in **skilled worker** oturum izni, yalnız Norveç'te iş bulmuş olmakla alınmaz. Görevin nitelikli çalışan düzeyi gerektirmesi, başvuranın eğitim veya mesleki yeterliliğinin bu görevle örtüşmesi ve ücret ile çalışma koşullarının Norveç'teki olağan düzeyden düşük olmaması gerekir. Türk vatandaşının iş ilanı, sözleşme ve diploma arasında tutarlı bir dosya kurması önemlidir.

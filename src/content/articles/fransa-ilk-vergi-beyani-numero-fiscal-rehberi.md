@@ -15,10 +15,10 @@ faq:
     answer: "Hayır. Prélèvement à la source tahsilat yöntemidir; Fransa'da beyan yükümlülüğü bulunan kişi önceki yıl gelirlerini yıllık beyanda yine bildirmelidir."
   - question: "İlk Fransa vergi beyanı çevrim içi yapılabilir mi?"
     answer: "Çevrim içi kimlik unsurları olmayan ilk beyan sahibi genellikle 2042 kâğıt formunu ilgili vergi dairesine verir. 2026 resmî rehberi, numéro d'accès en ligne ve revenu fiscal de référence yoksa kâğıt beyan gerektiğini belirtiyor."
-heroImage: "/images/ab-10000-avro-nakit-beyan-rehberi.jpg"
-heroAlt: "Euro banknotları ve madeni avrolar"
-heroCredit: "Avij (talk · contribs) / Wikimedia Commons (Public domain)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Euro_coins_and_banknotes_(cropped).jpg"
+heroImage: "/images/editorial/retirement-planning.jpg"
+heroAlt: "Kumbaraya para atarak birikim yapan kişi"
+heroCredit: "Joslyn Pickens / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/3943715/"
 ---
 
 Fransa'da gelir vergisi yükümlülüğü yalnız vatandaşlığa veya oturum kartına göre belirlenmez. Hane, ana kalış yeri, mesleki faaliyet ve ekonomik menfaat merkezi gibi ölçütler vergi mukimliğinde rol oynar. Yeni gelen kişi taşındığı yılın tarihlerini ve Fransa ile Türkiye'deki gelir dönemlerini tek takvimde göstermelidir.

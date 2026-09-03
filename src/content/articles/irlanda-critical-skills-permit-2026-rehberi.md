@@ -15,10 +15,10 @@ faq:
     answer: "1 Mart 2026'dan itibaren güncel Critical Skills listesinde yer alan belirli stratejik meslekler için genel alt eşik 40.904 avrodur. Son 12 ayda ilgili diplomayı alanlar için 36.848 avroluk mezun eşiği uygulanabilir; diğer yüksek ücretli işler ayrı eşiğe tabidir."
   - question: "Critical Skills başvurusu işe başladıktan sonra yapılabilir mi?"
     answer: "Başvurunun önerilen iş başlangıcından en az 12 hafta önce Employment Permits Online sistemine ulaşması gerekir. İzin ve göçmenlik koşulları tamamlanmadan çalışma hakkı varsayılmamalıdır."
-heroImage: "/images/ab-arastirmaci-oturum-izni-rehberi.jpg"
-heroAlt: "Avrupa'daki bir havalimanında pasaport kontrol noktası"
-heroCredit: "Subhashish Panigrahi / Wikimedia Commons (CC BY-SA 4.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Man_using_the_automatic_gate_in_Munich_airport_02.jpg"
+heroImage: "/images/editorial/policy-document.jpg"
+heroAlt: "Resmî bir belgeyi imzalayan kişi"
+heroCredit: "Pixabay / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/48148/"
 ---
 
 İrlanda **Critical Skills Employment Permit**, işgücü açığı bulunan yüksek nitelikli rollerde Avrupa Ekonomik Alanı dışından çalışan istihdamına yönelik izindir. Türk vatandaşının yalnız iş teklifi alması yetmez; işveren, görev kodu, ücret, eğitim ve sözleşme süresi birlikte uygun olmalıdır.

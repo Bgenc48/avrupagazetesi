@@ -15,10 +15,10 @@ faq:
     answer: "Çevrim içi form İsveççedir ancak DO, açıklamanın herhangi bir dilde yazılabileceğini belirtiyor. Yine de tarih, taraf, olay ve ayrımcılık bağlantısını açık ve düzenli vermek gerekir."
   - question: "DO başvurusu gizli kalır mı?"
     answer: "Başvuru ve ekleri kamu belgesine dönüşür; kişiler erişim isteyebilir. DO açıklamadan önce gizlilik mevzuatını değerlendirir, ancak başvuran gereksiz hassas veriyi eklememelidir."
-heroImage: "/images/avrupa-kucuk-talepler-5000-avro-rehberi.jpg"
-heroAlt: "Lüksemburg’daki Avrupa Birliği Adalet Divanı yerleşkesi"
-heroCredit: "Luxofluxo / Wikimedia Commons (CC BY-SA 4.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Palais_de_la_Cour_de_Justice_CJEU_July_2021_Sign_to_the_Ancien_Palais.jpg"
+heroImage: "/images/editorial/community-hands.jpg"
+heroAlt: "Dayanışmayı simgeleyen birleşmiş eller"
+heroCredit: "Ivan Samkov / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/9630217/"
 ---
 
 İsveç'te ayrımcılık yaşadığınızı düşünüyorsanız **Diskrimineringsombudsmannen (DO)** kurumuna bildirim yapabilirsiniz. DO, olayın Discrimination Act veya Parental Leave Act kapsamında olup olmadığını değerlendirir; uygun dosyada tazminat talebi veya hukuki süreç başlatabilir. Her haksız veya kaba davranış otomatik olarak yasal ayrımcılık değildir.
@@ -49,3 +49,7 @@ Göndermeden önce dosyayı ikinci kez okuyun: olayın nerede gerçekleştiği, 
 - [DO: what is discrimination?](https://www.do.se/choose-language/english/what-is-discrimination)
 - [DO: prohibition of reprisals](https://www.do.se/choose-language/english/prohibition-of-reprisals)
 - [DO: contact](https://www.do.se/choose-language/english/contact-us)
+
+## İlgili okuma
+
+Topluluk ve aile planınızdaki bağlantılı adımları tamamlamak için, [Belçika'da Unia ayrımcılık bildirimi hazırlama rehberi](/avrupagazetesi/makale/belcika-unia-ayrimcilik-bildirimi-rehberi/) yazısındaki kontrol sırasını da inceleyin. İki rehberi tek dosyada izlemek, tekrar belge toplama ve çelişen işlem adımları riskini azaltır.

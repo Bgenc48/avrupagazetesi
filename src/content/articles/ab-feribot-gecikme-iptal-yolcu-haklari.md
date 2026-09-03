@@ -15,10 +15,10 @@ faq:
     answer: "Kapsamdaki seferde yolcu, biletin yedi gün içinde iadesi ve gerekiyorsa başlangıç noktasına ücretsiz dönüş ile en erken fırsatta ek ücretsizz alternatif ulaşım arasında seçim yapabilir; bekleme yardım hakları ayrıca doğabilir."
   - question: "Feribot gecikmesinde otel masrafının sınırı nedir?"
     answer: "Geceleme zorunluysa taşıyıcı karadaki konaklamayı yolcu başına gecelik 80 avro ve en fazla üç geceyle sınırlayabilir. İptal veya gecikme ağır hava koşulundan kaynaklanıyorsa konaklama hakkı uygulanmayabilir."
-heroImage: "/images/ab-engelli-yolcu-ucretsiz-yardim-rehberi.jpg"
-heroAlt: "Berlin Hauptbahnhof tren istasyonu"
-heroCredit: "Ansgar Koreng / Wikimedia Commons (CC BY 3.0 de)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Berlin_Hauptbahnhof_Ostseite_HDR.jpg"
+heroImage: "/images/editorial/airplane-flight.jpg"
+heroAlt: "Uçak penceresinden görünen bulutlar ve dağlar"
+heroCredit: "Dan Gold / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/1660194/"
 ---
 
 AB gemi yolcu hakları; deniz, nehir, göl ve kanallardaki birçok feribot ile belirli kruvaziyer seferini kapsar. Genel olarak AB limanından kalkan seferler ve AB dışından bir AB limanına gelen, AB taşıyıcısının işlettiği seferler dahildir. Biletteki taşıyıcı, kalkış-varış limanı ve gemi türü kapsam kontrolünün başlangıcıdır.

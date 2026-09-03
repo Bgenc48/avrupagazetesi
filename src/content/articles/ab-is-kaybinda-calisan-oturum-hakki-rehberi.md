@@ -15,10 +15,10 @@ faq:
     answer: "Hayır. Geçici iş göremezlik, usulüne uygun kaydedilmiş istem dışı işsizlik veya önceki işle bağlantılı mesleki eğitim gibi durumlarda işçi statüsü ve oturum hakkı koşullarla korunabilir."
   - question: "Bir yıldan kısa çalıştıysam koruma ne kadar sürer?"
     answer: "İstem dışı işsiz kalıp yetkili iş bulma kurumuna kaydolduysanız işçi statüsü en az altı ay korunur. Sonraki değerlendirme, iş aramaya devam ettiğinizi ve gerçek işe girme şansınız bulunduğunu göstermenize bağlı olabilir."
-heroImage: "/images/ab-gorevlendirilen-calisan-a1-haklari-rehberi.jpg"
-heroAlt: "Çalışma hayatı üzerine düzenlenen kalabalık bir toplantı"
-heroCredit: "Marjory Collins / Wikimedia Commons (Public domain)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:A_Sunday_afternoon_meeting_of_the_rubber_workers_union8d18608v.jpg"
+heroImage: "/images/editorial/identity-culture.jpg"
+heroAlt: "Dünya haritası üzerinde farklı ülkelerin bayrakları"
+heroCredit: "Lara Jameson / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/8828605/"
 ---
 
 Bu rehber, kendi vatandaşlığı dışında bir AB ülkesinde serbest dolaşım hakkıyla çalışan **AB vatandaşları** içindir. Türk vatandaşı yalnız ulusal çalışma izniyle bulunuyorsa aynı kuralları otomatik kullanamaz; kendi izin kartının iş kaybı ve işveren değişikliği hükümlerini kontrol etmelidir. Çifte vatandaş veya AB vatandaşı aile ferdi, dosyada hangi statüye dayandığını açıkça belirtmelidir.

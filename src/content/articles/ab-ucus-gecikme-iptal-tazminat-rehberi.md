@@ -15,10 +15,10 @@ faq:
     answer: "Genel olarak nihai varışa üç saat veya daha fazla gecikme önemlidir. Gecikmenin olağanüstü koşullardan kaynaklanmaması ve uçuşun AB kurallarının coğrafi kapsamına girmesi gerekir."
   - question: "AB uçuş tazminatı ne kadardır?"
     answer: "Mevcut standart koruma mesafeye göre 250, 400 veya 600 avrodur. Yeniden yönlendirme ve varış farkı bazı tutarları azaltabilir; dosya uçuş mesafesi ve nihai varışa göre hesaplanır."
-heroImage: "/images/ab-ucus-gecikme-iptal-tazminat-rehberi.jpg"
-heroAlt: "Pistte kalkışa hazırlanan bir yolcu uçağı"
-heroCredit: "Riik@mctr / Wikimedia Commons (CC BY-SA 2.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Saudi_Arabian_Airlines_B787-9_(HZ-ARC)_taxiing_at_Manchester_Airport_(2).jpg"
+heroImage: "/images/editorial/baby-travel.jpg"
+heroAlt: "Havalimanında valiziyle seyahat eden anne ve çocuğu"
+heroCredit: "Gustavo Fring / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/4173222/"
 ---
 
 AB hava yolcu hakları vatandaşlığa değil uçuşun rotası ve taşıyıcısına bağlıdır. AB içindeki uçuşlar, AB'den üçüncü ülkeye kalkan uçuşlar ve AB dışından AB'ye bir AB taşıyıcısıyla gelen uçuşlar kapsamda olabilir. Ortak rezervasyondaki bağlantılarda nihai varış dikkate alınabilir; ayrı biletlerde sorumluluk farklılaşır.

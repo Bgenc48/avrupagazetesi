@@ -15,10 +15,10 @@ faq:
     answer: "Doğumla Türk vatandaşı olup İçişleri Bakanlığından çıkma izni alarak vatandaşlığı kaybedenler ile kanunda belirtilen üçüncü dereceye kadar altsoyları hak sahibi olabilir. Her altsoy için soy bağı ve kapsam ayrıca doğrulanır."
   - question: "Yurt dışında Mavi Kart başvurusu şahsen mi yapılır?"
     answer: "Konsolosluk İşlemleri Portalı Mavi Kart başvurusu için randevu alındıktan sonra şahsen başvuru gerektiğini belirtir. Belge, ücret ve teslim uygulaması seçilen temsilcilikten teyit edilmelidir."
-heroImage: "/images/ab-arastirmaci-oturum-izni-rehberi.jpg"
-heroAlt: "Avrupa'daki bir havalimanında pasaport kontrol noktası"
-heroCredit: "Subhashish Panigrahi / Wikimedia Commons (CC BY-SA 4.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Man_using_the_automatic_gate_in_Munich_airport_02.jpg"
+heroImage: "/images/editorial/passport-visa.jpg"
+heroAlt: "Elinde farklı ülkelere ait pasaportlar tutan kişi"
+heroCredit: "RDNE Stock project / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/7009478/"
 ---
 
 Mavi Kart, doğumla Türk vatandaşı olup **çıkma izni** alarak vatandaşlıktan ayrılan kişiler ile kanunda belirtilen altsoylarının Türkiye'deki belirli haklarını kullanırken statülerini belgelemelerine yarar. Sonradan Türk vatandaşlığını kazanıp daha sonra kaybeden herkes otomatik olarak kapsamda değildir. İlk kontrol, kişinin doğumla vatandaşlığı ve kaybın İçişleri Bakanlığı iznine dayanıp dayanmadığıdır.

@@ -15,10 +15,10 @@ faq:
     answer: "ACAS'a geçerli süre içinde bildirim yapıldığında süre Early Conciliation boyunca durur. Sertifika sonrasında kalan sürenin hesabı teknik olabilir; ACAS, zamanında olup olmadığına karar vermez ve nihai kararı mahkeme verir."
   - question: "2026'da Employment Tribunal süresi üç ay mı altı ay mı?"
     answer: "Sorunun 1 Ekim 2026'dan önce doğduğu çoğu talepte mevcut üç ay eksi bir gün kuralı geçerlidir. 1 Ekim 2026 veya sonrasında doğan çoğu talepte süre altı aya çıkar; İskoçya'daki bazı sözleşme talepleri için başlangıç 9 Kasım 2026'dır."
-heroImage: "/images/almanya-olum-tescili-turkiye-rehberi.jpg"
-heroAlt: "Berlin'deki bir Türk kültür etkinliğinden katılımcı"
-heroCredit: "Siebbi / Wikimedia Commons (CC BY 3.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Fatih_Akin_(Berlin_Film_Festival_2011).jpg"
+heroImage: "/images/editorial/community-hands.jpg"
+heroAlt: "Dayanışmayı simgeleyen birleşmiş eller"
+heroCredit: "Ivan Samkov / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/9630217/"
 ---
 
 İngiltere, Galler veya İskoçya'da işten çıkarma, ücret, ayrımcılık ya da başka bir çalışma uyuşmazlığını **Employment Tribunal** önüne götürmek isteyen kişi, çoğu durumda önce ACAS'a bildirim yapar. İşverene şikâyet veya itiraz vermek bu yasal saati kendiliğinden durdurmaz. Türkçe konuşan çalışan için en güvenli yöntem, olay günü ile bütün iç yazışmaları ayrı takvimde izlemektir.

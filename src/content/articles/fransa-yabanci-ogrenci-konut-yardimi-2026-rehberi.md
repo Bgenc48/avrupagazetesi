@@ -15,10 +15,10 @@ faq:
     answer: "Hayır. CAF'ın güncel duyurusu, öğrenci ibareli oturum izni bulunan AB dışı öğrencilerden burs almayan ve ücretli faaliyette bulunmayanları hedefliyor. Vatandaşlık, kart ibaresi, burs ve çalışma durumu dosya bazında incelenmelidir."
   - question: "CAF simülasyonu kesin konut yardımı tutarı verir mi?"
     answer: "Hayır. Resmî CAF simülatörü sonucu tahmindir; kesin uygunluk ve tutar yalnız tamamlanmış başvurunun incelenmesiyle belirlenir."
-heroImage: "/images/ab-ogrenci-baska-uye-ulkede-hareketlilik-rehberi.jpg"
-heroAlt: "Avrupa'da bir üniversiteyi ziyaret eden öğrenci grubu"
-heroCredit: "Ввласенко / Wikimedia Commons (CC BY-SA 3.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:A_group_of_Chinese_students_at_Oxford._UK.jpg"
+heroImage: "/images/editorial/university-campus.jpg"
+heroAlt: "Üniversite kampüsünde yürüyen öğrenciler"
+heroCredit: "Tima Miroshnichenko / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/7683694/"
 ---
 
 Fransa'da öğrenci konut yardımı, yalnız kira kontratı bulunan herkese otomatik ödeme değildir. Konutun niteliği, kira, kaynaklar, hane yapısı, oturum statüsü ve 2026'da yürürlüğe giren öğrenci kuralı birlikte değerlendirilir. APL, ALF veya ALS adlarından hangisinin uygulanacağını başvuru sahibi değil CAF sistemi belirler.

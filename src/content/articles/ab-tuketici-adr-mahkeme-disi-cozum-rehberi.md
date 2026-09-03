@@ -15,10 +15,10 @@ faq:
     answer: "Hayır. Eski AB ODR platformu 20 Temmuz 2025'te kapandı; tüketiciler ulusal onaylı ADR kuruluşları, Avrupa Tüketici Merkezleri ve diğer uygun kanalları kullanmalıdır."
   - question: "ADR kararı her zaman bağlayıcı mıdır?"
     answer: "Hayır. Kuruluş ve ülkeye göre süreç öneri, uzlaştırma veya bağlayıcı karar biçiminde olabilir; katılmadan önce sonucun niteliği, mahkeme hakkı ve vazgeçme koşulları açıklanmalıdır."
-heroImage: "/images/ab-online-alisveris-14-gun-cayma-rehberi.jpg"
-heroAlt: "Dizüstü bilgisayarla çevrim içi alışveriş yapan bir tüketici"
-heroCredit: "Artem Beliaikin from Moscow, Russia / Wikimedia Commons (CC BY 2.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Woman_online_shopping_concept._Woman_in_the_green_park_with_modern_laptop._Bali_island._(47798039732).jpg"
+heroImage: "/images/editorial/courthouse-justice.jpg"
+heroAlt: "Adliye binası ve adalet sütunları"
+heroCredit: "Sora Shimazaki / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/5668882/"
 ---
 
 Alternatif uyuşmazlık çözümü, tüketici ile satıcı arasındaki sözleşme sorununu mahkemeye gitmeden bağımsız bir kuruluş önünde çözmeyi amaçlar. Ayıplı ürün, teslim edilmeyen sipariş, abonelik, seyahat veya dijital hizmet anlaşmazlığı buna konu olabilir. ADR kuruluşunun hangi sektör, ülke ve satıcıları kabul ettiği başvuru öncesinde kontrol edilmelidir.

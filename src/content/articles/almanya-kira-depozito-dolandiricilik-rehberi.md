@@ -15,10 +15,10 @@ faq:
     answer: "BGB §551'e göre konut depozitosu, işletme giderleri hariç aylık kiranın üç katını aşamaz. Nakit depozito üç eşit aylık taksitle ödenebilir."
   - question: "Evi görmeden rezervasyon parası gönderilmeli mi?"
     answer: "Hayır. Verbraucherzentrale, görülmeyen konut veya anahtar gönderimi için ön ödeme istemesini tipik dolandırıcılık işareti sayıyor. Sözleşme ve yetki doğrulanmadan para göndermeyin."
-heroImage: "/images/ab-konut-kredisi-esis-rehberi.jpg"
-heroAlt: "Amsterdam'da konutların bulunduğu bir şehir sokağı"
-heroCredit: "Jorge Láscar from Australia / Wikimedia Commons (CC BY 2.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Street_and_canal_at_dusk,_Oudezijds_Voorburgwal_%27blue_hour%27,_7_januari_2011_(5821465439).jpg"
+heroImage: "/images/editorial/policy-document.jpg"
+heroAlt: "Resmî bir belgeyi imzalayan kişi"
+heroCredit: "Pixabay / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/48148/"
 ---
 
 Almanya'da ev ararken ilan fiyatındaki **Kaltmiete**, yalnız kullanım kirasıdır. Betriebskosten veya Nebenkosten denilen işletme giderleri ve ısıtma eklenince Warmmiete oluşur. Elektrik, internet veya bazı ısıtma sözleşmeleri ayrıca kiracı adına olabilir. Başvuruları karşılaştırırken yalnız büyük yazılan soğuk kirayı değil, aylık toplamı ve yıllık gider hesaplaşması riskini kullanın.

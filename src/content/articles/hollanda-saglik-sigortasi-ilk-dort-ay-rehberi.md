@@ -15,10 +15,10 @@ faq:
     answer: "Hollanda'da yaşama veya çalışma nedeniyle zorunlu sigorta kapsamına giren kişi en geç dört ay içinde Hollandalı sigortacıdan poliçe almalıdır; kapsam kural olarak geliş veya yükümlülüğün başladığı tarihten başlar."
   - question: "Dört ay geçtikten sonra poliçe geriye yürür mü?"
     answer: "Government.nl, dört aydan sonra alınan poliçenin geriye dönük başlamadığını ve aradaki sağlık giderlerinin karşılanmadığını belirtiyor. CAK ayrıca mektup ve para cezası sürecini başlatabilir."
-heroImage: "/images/almanya-saglik-sigortasi-yeni-calisan-rehberi.jpg"
-heroAlt: "Bir hastanede görev başındaki doktorlar ve sağlık çalışanları"
-heroCredit: "U.S. Army photo by Cpl. Clara Soria / Wikimedia Commons (Public domain)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:US,_Ghana_medical_staff_participate_in_medical_exercise_(8439482).jpg"
+heroImage: "/images/editorial/pharmacy-medicine.jpg"
+heroAlt: "Eczane rafından ilaç seçen eczacı"
+heroCredit: "cottonbro studio / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/8657301/"
 ---
 
 Hollanda'da yaşamaya veya çalışmaya başlayan birçok kişi için yabancı seyahat poliçesi yeterli değildir. Zorunlu Hollanda sağlık sigortası **basisverzekering**, sağlık gideri ortaya çıktıktan sonra değil, yükümlülüğün başladığı tarihten itibaren kurulmalıdır. Government.nl, poliçenin mümkün olan en kısa sürede ve en geç dört ay içinde alınmasını ister.
@@ -49,3 +49,7 @@ Poliçe geldikten sonra ad, BSN, başlangıç tarihi, temel paket ve seçtiğini
 - [Government.nl: moving to the Netherlands](https://www.government.nl/faq/what-do-i-need-to-arrange-if-im-moving-to-the-netherlands)
 - [Government.nl: health insurance and residence permits](https://www.government.nl/themes/family-health-and-care/health-insurance/health-insurance-and-residence-permit)
 - [Dienst Toeslagen: zorgtoeslag başvurusu](https://www.belastingdienst.nl/wps/wcm/connect/nl/zorgtoeslag/content/hoe-moet-ik-zorgtoeslag-aanvragen)
+
+## İlgili okuma
+
+Günlük yaşam dosyanızdaki bağlantılı adımları tamamlamak için, [Almanya'da yeni çalışan için sağlık sigortası 2026 rehberi](/avrupagazetesi/makale/almanya-saglik-sigortasi-yeni-calisan-rehberi/) yazısındaki kontrol sırasını da inceleyin. İki rehberi tek dosyada izlemek, tekrar belge toplama ve çelişen işlem adımları riskini azaltır.

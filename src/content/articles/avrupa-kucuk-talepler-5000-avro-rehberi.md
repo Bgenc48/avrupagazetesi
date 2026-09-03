@@ -15,10 +15,10 @@ faq:
     answer: "Talep, mahkemenin başvuruyu aldığı tarihte faiz, gider ve masraflar hariç 5.000 avroyu aşmamalıdır. Usul Danimarka dışında AB ülkelerinde sınır ötesi medeni ve ticari uyuşmazlıklara uygulanır."
   - question: "Küçük talepler başvurusu için avukat zorunlu mu?"
     answer: "Hayır. Usul avukat olmadan standart formla başlatılabilecek şekilde tasarlanmıştır. Hukuken karmaşık veya yüksek riskli dosyada danışmanlık yine yararlı olabilir."
-heroImage: "/images/ab-10000-avro-nakit-beyan-rehberi.jpg"
-heroAlt: "Euro banknotları ve madeni avrolar"
-heroCredit: "Avij (talk · contribs) / Wikimedia Commons (Public domain)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Euro_coins_and_banknotes_(cropped).jpg"
+heroImage: "/images/editorial/family-multicultural.jpg"
+heroAlt: "Evde birlikte vakit geçiren çok kültürlü aile"
+heroCredit: "William Fortunato / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/6393334/"
 ---
 
 Avrupa Küçük Talepler Usulü, tüketici veya küçük işletmenin başka bir AB ülkesindeki tarafla olan medeni ve ticari uyuşmazlığını daha basit biçimde mahkemeye taşımasını sağlar. Talep tutarı, faiz ve masraflar hariç **5.000 avroyu** aşmamalıdır. Danimarka bu usule katılmaz.

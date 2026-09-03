@@ -15,10 +15,10 @@ faq:
     answer: "Asgari iki yıllık yasal garanti ürünün tüketiciye teslim edildiği gün başlar. Mağaza veya üreticinin daha kısa ticari garantisi, satıcıya karşı yasal hakkı azaltamaz."
   - question: "Ayıplı üründe doğrudan para iadesi istenebilir mi?"
     answer: "Genel sıra ücretsiz onarım veya değişimdir. Bunlar imkânsız, orantısız, makul sürede yapılmamış ya da tüketiciye önemli rahatsızlık vermişse fiyat indirimi veya sözleşmenin sona erdirilmesi gündeme gelir; küçük ayıp tam iadeyi haklı kılmayabilir."
-heroImage: "/images/ab-online-alisveris-14-gun-cayma-rehberi.jpg"
-heroAlt: "Dizüstü bilgisayarla çevrim içi alışveriş yapan bir tüketici"
-heroCredit: "Artem Beliaikin from Moscow, Russia / Wikimedia Commons (CC BY 2.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Woman_online_shopping_concept._Woman_in_the_green_park_with_modern_laptop._Bali_island._(47798039732).jpg"
+heroImage: "/images/editorial/home-buying.jpg"
+heroAlt: "Yeni evin anahtarını teslim alan kişi"
+heroCredit: "Kampus Production / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/7642008/"
 ---
 
 AB'de tüketicinin profesyonel satıcıdan aldığı ürün, teslim anında sözleşmeye uygun değilse en az **iki yıllık yasal garanti** korumasındadır. Ürün ilan edildiği gibi çalışmalı, normal amaca uygun olmalı, vaat edilen aksesuar ve güncellemeleri içermelidir. Hak üreticinin kartından değil, tüketici ile satıcı arasındaki sözleşmeden doğar.

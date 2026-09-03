@@ -15,10 +15,10 @@ faq:
     answer: "Geçerli AB dışı ehliyet sahibi, Great Britain'da yerleşik olduğu tarihten itibaren en fazla 12 ay bu ehliyetle araç kullanabilir. Yaş, araç sınıfı, ehliyet geçerliliği ve sigorta koşulları ayrıca karşılanmalıdır."
   - question: "Türk ehliyeti doğrudan Britanya ehliyetine çevrilebilir mi?"
     answer: "Türkiye, standart otomobil ehliyeti için GOV.UK'nin doğrudan değişim sürecinde varsayılmamalıdır. Güncel çevrim aracını kontrol edin; çoğu Türk ehliyeti sahibi kesintisiz sürüş için provisional licence alıp teori ve pratik sınavları geçmelidir."
-heroImage: "/images/ab-arac-kiralama-hasar-sigorta-rehberi.jpg"
-heroAlt: "Prag Havalimanı araç kiralama ve otopark binası"
-heroCredit: "Pavel Hrdlička (Czech Wikipedia user Packa) / Wikimedia Commons (CC BY-SA 4.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:House_parking_and_car_rental,_Prague_Airport.jpg"
+heroImage: "/images/editorial/airplane-flight.jpg"
+heroAlt: "Uçak penceresinden görünen bulutlar ve dağlar"
+heroCredit: "Dan Gold / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/1660194/"
 ---
 
 Türkiye'den alınmış geçerli sürücü belgesi, İngiltere, İskoçya ve Galler'i kapsayan **Great Britain** bölgesinde sınırsız kullanım sağlamaz. GOV.UK Highway Code, AB dışı ehliyetle yerleşik kişinin yerleşik olduğu tarihten itibaren en fazla **12 ay** araç kullanabileceğini belirtiyor. Kuzey İrlanda'nın kurumu ve kuralları ayrıdır.
@@ -49,3 +49,7 @@ Kişisel kontrol çizelgenize Great Britain'da resident sayıldığınız tarih,
 - [GOV.UK Highway Code: foreign licence rules](https://www.gov.uk/guidance/the-highway-code/annex-3-motor-vehicle-documentation-and-learner-driver-requirements)
 - [GOV.UK: apply for a first provisional driving licence](https://www.gov.uk/apply-first-provisional-driving-licence)
 - [GOV.UK: driving tests and learning to drive](https://www.gov.uk/browse/driving/learning-to-drive)
+
+## İlgili okuma
+
+Türkiye ile Avrupa arasındaki belge zincirini birlikte planlamak için, [Almanya'da doğan çocuğun Türk doğum tescili rehberi](/avrupagazetesi/makale/almanyada-dogan-cocuk-turk-dogum-tescili/) yazısındaki kontrol sırasını da inceleyin. İki rehberi tek dosyada izlemek, tekrar belge toplama ve çelişen işlem adımları riskini azaltır.

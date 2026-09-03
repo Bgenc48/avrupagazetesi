@@ -15,10 +15,10 @@ faq:
     answer: "Hayır. Aynı meslek bir ülkede diploma, sınav veya meslek odası kaydı gerektirirken başka ülkede düzenlenmemiş olabilir. Hedef ülke ve meslek resmî veri tabanında birlikte aranmalıdır."
   - question: "Türkiye diploması bir AB ülkesinde tanındıysa diğerinde otomatik geçerli olur mu?"
     answer: "Genellikle hayır. Üçüncü ülke yeterliliği ulusal kurallarla tanınır. İlk tanıyan AB ülkesinde en az üç yıllık mesleki deneyim sonrasında başka bir ülkede AB içi kurallar kapsamında başvuru imkânı doğabilir; yine başvuru ve karar gerekir."
-heroImage: "/images/ab-gorevlendirilen-calisan-a1-haklari-rehberi.jpg"
-heroCredit: "Marjory Collins / Wikimedia Commons (Public domain)"
-heroAlt: "Çalışma hayatı üzerine düzenlenen kalabalık bir toplantı"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:A_Sunday_afternoon_meeting_of_the_rubber_workers_union8d18608v.jpg"
+heroImage: "/images/editorial/professional-networking.jpg"
+heroCredit: "Christina Morillo / Pexels"
+heroAlt: "Konferans salonunda fikir alışverişi yapan profesyoneller"
+heroCreditUrl: "https://www.pexels.com/photo/1181406/"
 ---
 
 Avrupa'da “diploma denkliği” tek bir işlem değildir. Eğitim amacıyla akademik tanıma, göç izni ve düzenlenmiş bir meslekte çalışma yetkisi farklı makamlarca değerlendirilir. Hedefiniz doktorluk, hemşirelik, mimarlık, öğretmenlik veya başka bir mesleği icra etmekse ilk soru diplomanın seviyesi değil, o mesleğin hedef ülkede hukuken düzenlenmiş olup olmadığıdır.

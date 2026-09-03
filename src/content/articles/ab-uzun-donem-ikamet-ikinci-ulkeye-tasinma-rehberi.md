@@ -15,10 +15,10 @@ faq:
     answer: "Hayır. Statü hareketliliği kolaylaştırır, ancak ikinci ülkede üç aydan uzun çalışma için o ülkenin oturum iznine başvurup kabul almak gerekir."
   - question: "İkinci ülke işgücü piyasası testi uygulayabilir mi?"
     answer: "Evet. İkinci üye devlet çalışma başvurusunda işgücü piyasasını inceleyebilir, ulusal öncelik sırası veya mevcut kota koşullarını uygulayabilir."
-heroImage: "/images/ab-arastirmaci-oturum-izni-rehberi.jpg"
-heroAlt: "Avrupa'daki bir havalimanında pasaport kontrol noktası"
-heroCredit: "Subhashish Panigrahi / Wikimedia Commons (CC BY-SA 4.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Man_using_the_automatic_gate_in_Munich_airport_02.jpg"
+heroImage: "/images/editorial/passport-visa.jpg"
+heroAlt: "Elinde farklı ülkelere ait pasaportlar tutan kişi"
+heroCredit: "RDNE Stock project / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/7009478/"
 ---
 
 Bir AB ülkesinde “EU long-term resident” veya eşdeğer AB uzun dönem ikamet ibareli statü almak, diğer bütün üye devletlerde otomatik yerleşme hakkı vermez. 2003/109 sayılı Direktif, katılımcı ikinci ülkede çalışma, serbest meslek, eğitim veya başka amaçla üç aydan uzun ikamet için kolaylaştırılmış bir başvuru yolu sağlar. Danimarka ve İrlanda bu sisteme katılmaz.

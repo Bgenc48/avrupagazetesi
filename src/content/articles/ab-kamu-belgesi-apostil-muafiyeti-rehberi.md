@@ -15,10 +15,10 @@ faq:
     answer: "Belge AB düzenlemesinin kapsamındaysa, diğer üye devlet belgenin gerçekliğini kanıtlamak için apostil isteyemez. Belgenin doğurduğu hukuki sonucun tanınması ise alıcı ülkenin hukukuna bağlı olabilir."
   - question: "Çok dilli standart form belgenin yerine geçer mi?"
     answer: "Hayır. Form çeviri yardımcısıdır ve ilgili kamu belgesiyle birlikte sunulur; bağımsız nüfus belgesi veya hukuki sonuç belgesi değildir."
-heroImage: "/images/ab-kamu-belgesi-apostil-muafiyeti-rehberi.jpg"
-heroAlt: "Damga ve giriş çıkış kayıtları bulunan resmî seyahat belgeleri"
-heroCredit: "The government of the United States of America. / Wikimedia Commons (Public domain)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:United_States_official_passport_of_a_naval_officer_during_the_early_Vietnam_War_(1956)_14.png"
+heroImage: "/images/editorial/community-diverse.jpg"
+heroAlt: "Bir araya gelen farklı yaş ve kökenlerden insanlar"
+heroCredit: "Andrea Piacquadio / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/4143429/"
 ---
 
 Bir AB ülkesinin kamu makamınca düzenlenen belirli belgeler, başka bir AB ülkesine sunulduğunda gerçekliğin kanıtı için apostil zorunluluğundan muaftır. Kural, doğumdan evliliğe kadar sık kullanılan kayıt işlemlerini kolaylaştırır; her yabancı belgeyi ve her hukuki sonucu otomatik kabul ettirmez.

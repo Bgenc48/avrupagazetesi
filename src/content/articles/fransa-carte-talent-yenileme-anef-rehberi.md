@@ -15,10 +15,10 @@ faq:
     answer: "Service-Public, Fransa'da yaşayan kişinin çevrim içi başvuruyu mevcut vize veya oturum belgesi bitmeden en erken dört ay, en geç iki ay önce yapmasını belirtiyor."
   - question: "ANEF başvuru belgesi oturum kartının yerini otomatik alır mı?"
     answer: "Hayır. Basit dépôt belgesi yalnız başvurunun kayda alındığını gösterir. Süresi içinde verilmiş tam dosyada düzenlenen attestation de prolongation d'instruction farklı bir belgedir; çalışma ve seyahat etkisi belgenin türüne göre ayrıca okunmalıdır."
-heroImage: "/images/ab-arastirmaci-oturum-izni-rehberi.jpg"
-heroAlt: "Avrupa'daki bir havalimanında pasaport kontrol noktası"
-heroCredit: "Subhashish Panigrahi / Wikimedia Commons (CC BY-SA 4.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Man_using_the_automatic_gate_in_Munich_airport_02.jpg"
+heroImage: "/images/editorial/identity-culture.jpg"
+heroAlt: "Dünya haritası üzerinde farklı ülkelerin bayrakları"
+heroCredit: "Lara Jameson / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/8828605/"
 ---
 
 Fransa'daki **Carte talent** çok yıllı oturum kartı, nitelikli çalışan, EU Blue Card sahibi, araştırmacı, şirket kurucusu veya başka bir yetenek kategorisine dayanabilir. Yenilemede kartın üzerinde yalnız “talent” yazmasına bakmak yeterli değildir. Alt kategori, sözleşme, ücret, mesleki faaliyet ve aile durumu için istenen kanıtlar değişir.
@@ -47,3 +47,7 @@ Yeni kartı teslim alırken ad, doğum tarihi, alt kategori, çalışma ibaresi 
 - [Fransa İçişleri Bakanlığı: ANEF](https://administration-etrangers-en-france.interieur.gouv.fr/)
 - [Service-Public: attestation de demande de carte de séjour](https://www.service-public.fr/particuliers/vosdroits/F36206)
 - [France-Visas: international talents](https://france-visas.gouv.fr/en/web/france-visas/talents-internationaux-et-attractivite-economique)
+
+## İlgili okuma
+
+Göç ve uyum dosyanızdaki bağlantılı adımları tamamlamak için, [Fransa'da yeni çalışan için Carte Vitale rehberi](/avrupagazetesi/makale/fransa-carte-vitale-yeni-calisan-rehberi/) yazısındaki kontrol sırasını da inceleyin. İki rehberi tek dosyada izlemek, tekrar belge toplama ve çelişen işlem adımları riskini azaltır.

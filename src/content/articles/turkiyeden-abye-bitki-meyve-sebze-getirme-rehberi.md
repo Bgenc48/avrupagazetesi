@@ -15,10 +15,10 @@ faq:
     answer: "Genel bir kişisel miktar muafiyeti varsaymayın. Ananas, Hindistan cevizi, durian, muz ve hurma meyveleri için sertifika aranmaz; diğer ürünler kural olarak fitosaniter sertifikaya tabidir."
   - question: "Market fişi bitki sağlık sertifikasının yerine geçer mi?"
     answer: "Hayır. Fiş ürünün satın alındığını gösterebilir; yetkili bitki sağlığı makamınca düzenlenen fitosaniter sertifikanın yerine geçmez."
-heroImage: "/images/abden-turkiyeye-tax-free-kdv-iadesi-rehberi.jpg"
-heroAlt: "Türkiye ve Avrupa Birliği temsilcilerinin katıldığı uluslararası toplantı"
-heroCredit: "Christophe Licoppe, © European Union, 2025 / Wikimedia Commons (CC BY 4.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Securing_Our_Future_(EC_pic)_2025-03-02-15-19.jpg"
+heroImage: "/images/editorial/identity-culture.jpg"
+heroAlt: "Dünya haritası üzerinde farklı ülkelerin bayrakları"
+heroCredit: "Lara Jameson / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/8828605/"
 ---
 
 Türkiye, AB bitki sağlığı kuralları bakımından üçüncü ülkedir. Bu nedenle yolcu valizindeki küçük saksı, fide, tohum, kesme çiçek, meyve veya sebze “kişisel tüketim” denilerek otomatik serbest olmaz. Zararlı organizmalar az miktardaki üründe de taşınabildiği için, kural ticari sevkiyatın yanında kişisel bagajı ve posta paketini de kapsar.

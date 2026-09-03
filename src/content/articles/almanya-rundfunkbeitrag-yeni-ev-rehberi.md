@@ -15,10 +15,10 @@ faq:
     answer: "Hayır. Özel konutta kişi ve cihaz sayısından bağımsız olarak her konut için tek katkı ödenir. Diğer yetişkinler ödeme yapan kişinin Beitragsnummer bilgisini bildirir."
   - question: "Beitragsnummer eve mi kişiye mi bağlıdır?"
     answer: "Dokuz haneli Beitragsnummer kişiye bağlıdır ve taşınırken onunla gider. Ödeme yapan kişi evden ayrılırsa kalanlardan biri konutu kendi adına kaydetmelidir."
-heroImage: "/images/ab-konut-kredisi-esis-rehberi.jpg"
-heroAlt: "Amsterdam'da konutların bulunduğu bir şehir sokağı"
-heroCredit: "Jorge Láscar from Australia / Wikimedia Commons (CC BY 2.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Street_and_canal_at_dusk,_Oudezijds_Voorburgwal_%27blue_hour%27,_7_januari_2011_(5821465439).jpg"
+heroImage: "/images/editorial/remote-work.jpg"
+heroAlt: "Dizüstü bilgisayarla çalışan bir profesyonel"
+heroCredit: "Andrea Piacquadio / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/3791130/"
 ---
 
 Almanya'da kamu yayın katkısı **Rundfunkbeitrag**, televizyon veya radyo sahibi olup olmamaya göre değil konut üzerinden alınır. Özel hanelerde aynı konut için yalnız bir yetişkin ödeme yapar. Resmî çok dilli sayfaya göre güncel katkı aylık **18,36 avrodur** ve çoğunlukla üç aylık dönemler halinde tahsil edilir.

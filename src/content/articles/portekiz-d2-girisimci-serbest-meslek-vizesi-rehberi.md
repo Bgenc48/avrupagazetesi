@@ -15,10 +15,10 @@ faq:
     answer: "Hayır. Resmî hizmet hem bağımsız mesleki faaliyet yürütecek kişileri hem Portekiz'de yatırım yapacak göçmen girişimcileri kapsar; her yolun amaç ve kanıtları farklıdır."
   - question: "Portekiz girişimci oturum izni ne kadar geçerlidir?"
     answer: "AIMA'nın güncel girişimci sayfası geçici oturum izninin iki yıl geçerli olduğunu ve şartlar korunursa üçer yıllık dönemlerle yenilenebildiğini belirtir. Vize ile oturum kartını birbirinden ayırın."
-heroImage: "/images/ab-gorevlendirilen-calisan-a1-haklari-rehberi.jpg"
-heroAlt: "Çalışma hayatı üzerine düzenlenen kalabalık bir toplantı"
-heroCredit: "Marjory Collins / Wikimedia Commons (Public domain)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:A_Sunday_afternoon_meeting_of_the_rubber_workers_union8d18608v.jpg"
+heroImage: "/images/editorial/passport-visa.jpg"
+heroAlt: "Elinde farklı ülkelere ait pasaportlar tutan kişi"
+heroCredit: "RDNE Stock project / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/7009478/"
 ---
 
 Portekiz'de yaygın olarak “D2” denilen yol, AB/AEA/İsviçre dışı ülke vatandaşının bağımsız mesleki faaliyet veya girişimcilik amacıyla oturum vizesi istemesine dayanır. Sadece şirket ana sözleşmesi sunmak yeterli değildir; yapılacak işin gerçekliği, kaynak, konaklama ve başvuru sahibinin yeterliliği birlikte değerlendirilir.

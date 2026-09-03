@@ -15,10 +15,10 @@ faq:
     answer: "Mal satışında süre tüketicinin ürünü teslim aldığı gün, hizmette sözleşmenin kurulduğu gün başlar. Son gün tatilse süre sonraki iş gününe uzar."
   - question: "Cayma iadesinin kargo ücretini kim öder?"
     answer: "Satıcı önceden iade masrafının tüketiciye ait olduğunu açıkça bildirdiyse tüketici öder; satıcı üstlendiyse veya önceden bilgi vermediyse masraf satıcıya aittir."
-heroImage: "/images/ab-online-alisveris-14-gun-cayma-rehberi.jpg"
-heroAlt: "Dizüstü bilgisayarla çevrim içi alışveriş yapan bir tüketici"
-heroCredit: "Artem Beliaikin from Moscow, Russia / Wikimedia Commons (CC BY 2.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Woman_online_shopping_concept._Woman_in_the_green_park_with_modern_laptop._Bali_island._(47798039732).jpg"
+heroImage: "/images/editorial/policy-document.jpg"
+heroAlt: "Resmî bir belgeyi imzalayan kişi"
+heroCredit: "Pixabay / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/48148/"
 ---
 
 AB'de profesyonel satıcıdan internet, telefon veya kapıdan satış yoluyla alınan mal ve hizmette tüketici, kural olarak gerekçe göstermeden 14 gün içinde sözleşmeden cayabilir. Pazar yerindeki özel kişi satışı aynı korumaya tabi değildir; satıcının “işletme” mi “bireysel” mi olduğunu ödeme öncesinde kontrol edin.

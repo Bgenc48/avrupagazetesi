@@ -15,10 +15,10 @@ faq:
     answer: "Hayır. AB, Norveç veya İzlanda'da yaşıyorsanız kendi yaşadığınız ülkedeki Avrupa Tüketici Merkeziyle iletişim kurarsınız. Merkez, gerekirse satıcının ülkesindeki merkezle çalışır."
   - question: "ECC-Net satıcıya para iadesi emri verebilir mi?"
     answer: "ECC-Net ücretsiz ve gayriresmî yardım sağlar; hakları açıklar ve satıcıyla dostane çözüm arar. Mahkeme veya yaptırım makamı değildir. Sonuç alınmazsa ADR ya da uygun davalarda Avrupa Küçük Talepler Usulü değerlendirilebilir."
-heroImage: "/images/ab-online-alisveris-14-gun-cayma-rehberi.jpg"
-heroAlt: "Dizüstü bilgisayarla çevrim içi alışveriş yapan bir tüketici"
-heroCredit: "Artem Beliaikin from Moscow, Russia / Wikimedia Commons (CC BY 2.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Woman_online_shopping_concept._Woman_in_the_green_park_with_modern_laptop._Bali_island._(47798039732).jpg"
+heroImage: "/images/editorial/community-hands.jpg"
+heroAlt: "Dayanışmayı simgeleyen birleşmiş eller"
+heroCredit: "Ivan Samkov / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/9630217/"
 ---
 
 Avrupa'da başka ülkedeki internet mağazasından ürün alan, araç kiralayan veya uçuş ve konaklama hizmeti satın alan tüketici, satıcı cevap vermediğinde hangi ülkeye başvuracağını karıştırabilir. **European Consumer Centres Network (ECC-Net)**, tüketici ile profesyonel satıcının farklı ülkelerde bulunduğu birçok uyuşmazlıkta ücretsiz ve kişiye özel yardım sağlar.

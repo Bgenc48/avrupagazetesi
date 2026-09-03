@@ -15,10 +15,10 @@ faq:
     answer: "Konsolosluk portalı, Türkiye'ye defnedilecekler için Cenaze Nakil Belgesi başvurusunun randevu sonrasında şahsen yapılacağını belirtir. Acil durumda temsilciliğin nöbetçi hattından işlem sırası teyit edilmelidir."
   - question: "Yabancı ölüm belgesi tek başına nakil için yeterli mi?"
     answer: "Genellikle hayır. Yerel ölüm kaydı yanında cenazenin taşınmasına ilişkin sağlık, tahnit veya mühürleme belgeleri, yerel nakil izni, havayolu kabulü ve konsolosluk belgesi gerekebilir. Liste ülkeye göre değişir."
-heroImage: "/images/abden-turkiyeye-tax-free-kdv-iadesi-rehberi.jpg"
-heroAlt: "Türkiye ve Avrupa Birliği temsilcilerinin katıldığı uluslararası toplantı"
-heroCredit: "Christophe Licoppe, © European Union, 2025 / Wikimedia Commons (CC BY 4.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Securing_Our_Future_(EC_pic)_2025-03-02-15-19.jpg"
+heroImage: "/images/editorial/identity-culture.jpg"
+heroAlt: "Dünya haritası üzerinde farklı ülkelerin bayrakları"
+heroCredit: "Lara Jameson / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/8828605/"
 ---
 
 Yurt dışında vefat eden kişinin Türkiye'ye defnedilmek üzere nakli, ölüm tescilinden farklı ve zamana duyarlı bir süreçtir. Yerel nüfus/sağlık makamı, cenaze şirketi, havayolu, Türk dış temsilciliği ve Türkiye'deki teslim/defin tarafı aynı dosyada koordine edilir. Aile adına tek bir iletişim kişisi belirlemek, çelişkili talimat riskini azaltır.

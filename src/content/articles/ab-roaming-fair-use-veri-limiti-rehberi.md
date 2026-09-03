@@ -15,10 +15,10 @@ faq:
     answer: "Hayır. Ev paketindeki dakika, SMS ve sınırlı veri normalde ek ücret olmadan kullanılabilir; sınırsız veya çok ucuz veri paketinde adil kullanım kotası, uzun süreli dolaşımda ek ücret ve özel hizmet numaralarında farklı tarife olabilir."
   - question: "Operatör fair use veri limitini bildirmek zorunda mı?"
     answer: "Operatör sınır geçiş mesajında uygulanacak limiti bildirmeli ve adil kullanım kotasının yüzde 80'ine ulaşıldığında uyarı vermelidir."
-heroImage: "/images/gdpr-veri-erisim-duzeltme-sikayet-rehberi.jpg"
-heroAlt: "Verilerin işlendiği bir sunucu odası"
-heroCredit: "Esquilo / Wikimedia Commons (CC BY-SA 3.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:PDC_server_room.jpg"
+heroImage: "/images/editorial/passport-visa.jpg"
+heroAlt: "Elinde farklı ülkelere ait pasaportlar tutan kişi"
+heroCredit: "RDNE Stock project / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/7009478/"
 ---
 
 AB'nin “Roam Like at Home” sistemi, başka bir katılımcı ülkede geçici seyahatte telefonu genel olarak ev tarifesiyle kullanmayı sağlar. Bu, her paket ve her kullanımın sınırsız ücretsiz olduğu anlamına gelmez. Veri kotası, uzun süre yurt dışında kullanım, gemi/uydu şebekesi ve özel numaralar farklı ücret doğurabilir.

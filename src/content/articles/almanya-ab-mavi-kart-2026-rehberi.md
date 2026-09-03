@@ -15,10 +15,10 @@ faq:
     answer: "Federal hükümet portalı 2026 için genel eşiği yıllık brüt 50.700 avro; dar boğaz meslekleri ve uygun yeni mezunlar için düşük eşiği 45.934,20 avro olarak yayımlıyor."
   - question: "Üniversite diploması olmayan bir BT uzmanı Mavi Kart alabilir mi?"
     answer: "Belirli koşullarda evet. Son yedi yıl içinde en az üç yıllık üniversite düzeyinde BT deneyimi, uygun iş teklifi ve düşük maaş eşiği aranır; Federal Employment Agency onayı gerekebilir."
-heroImage: "/images/ab-arastirmaci-oturum-izni-rehberi.jpg"
-heroAlt: "Avrupa'daki bir havalimanında pasaport kontrol noktası"
-heroCredit: "Subhashish Panigrahi / Wikimedia Commons (CC BY-SA 4.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Man_using_the_automatic_gate_in_Munich_airport_02.jpg"
+heroImage: "/images/editorial/passport-visa.jpg"
+heroAlt: "Elinde farklı ülkelere ait pasaportlar tutan kişi"
+heroCredit: "RDNE Stock project / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/7009478/"
 ---
 
 Almanya'daki **Blaue Karte EU**, yüksek nitelikli üçüncü ülke vatandaşlarına verilen çalışma ve oturum iznidir. Türk vatandaşı bir başvuru sahibi için yalnız maaşın yüksek olması yeterli değildir. En az altı aylık somut iş teklifi, işe uygun yükseköğretim veya karşılaştırılabilir yeterlilik ve 2026 maaş eşiği birlikte incelenir. Düzenlenmiş mesleklerde çalışma izni veya bu iznin verileceğine dair güvenilir süreç de gerekir.

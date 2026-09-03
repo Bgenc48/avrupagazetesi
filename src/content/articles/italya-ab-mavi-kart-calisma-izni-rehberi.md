@@ -15,10 +15,10 @@ faq:
     answer: "Avrupa Komisyonunun İtalya sayfası, yüksek nitelikli iş için en az altı aylık geçerli sözleşme veya bağlayıcı iş teklifi ister."
   - question: "İtalya Mavi Kartta diploma yerine deneyim kullanılabilir mi?"
     answer: "Belirli koşullarda en az beş yıllık ilgili mesleki deneyim yüksek yeterlilik sayılabilir. Bilgi ve iletişim teknolojisi yöneticisi veya uzmanı için son yedi yılda edinilmiş en az üç yıllık ilgili deneyim yolu da bulunur."
-heroImage: "/images/ab-arastirmaci-oturum-izni-rehberi.jpg"
-heroAlt: "Avrupa'daki bir havalimanında pasaport kontrol noktası"
-heroCredit: "Subhashish Panigrahi / Wikimedia Commons (CC BY-SA 4.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Man_using_the_automatic_gate_in_Munich_airport_02.jpg"
+heroImage: "/images/editorial/passport-visa.jpg"
+heroAlt: "Elinde farklı ülkelere ait pasaportlar tutan kişi"
+heroCredit: "RDNE Stock project / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/7009478/"
 ---
 
 İtalya'da yüksek nitelikli bir iş için AB Mavi Kart, AB dışı ülke vatandaşlarına yönelik özel çalışma ve oturum yoludur. Her beyaz yakalı iş bu kapsama girmez. İş teklifinin süresi, görevin niteliği, diploma veya tanınan deneyim ve yıllık brüt ücret birlikte değerlendirilir.

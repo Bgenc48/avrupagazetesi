@@ -15,10 +15,10 @@ faq:
     answer: "Kural olarak başvuruyu IND tarafından tanınmış sponsor olan Hollandalı işveren veya araştırma kurumu yapar. Türk vatandaşları için sponsor tanınmasına ilişkin istisna bulunabildiğinden işveren dosyası IND'nin güncel talimatıyla ayrıca kontrol edilmelidir."
   - question: "2026 kennismigrant maaş eşiği nedir?"
     answer: "IND, tatil ödeneği hariç aylık brüt tutarı 30 yaş ve üzeri için 5.942 avro, 30 yaş altı için 4.357 avro ve uygun indirimli ölçüt için 3.122 avro olarak yayımlıyor."
-heroImage: "/images/ab-arastirmaci-oturum-izni-rehberi.jpg"
-heroAlt: "Avrupa'daki bir havalimanında pasaport kontrol noktası"
-heroCredit: "Subhashish Panigrahi / Wikimedia Commons (CC BY-SA 4.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Man_using_the_automatic_gate_in_Munich_airport_02.jpg"
+heroImage: "/images/editorial/policy-document.jpg"
+heroAlt: "Resmî bir belgeyi imzalayan kişi"
+heroCredit: "Pixabay / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/48148/"
 ---
 
 Hollanda'nın **kennismigrant** izni, üçüncü ülke vatandaşının yüksek nitelikli bir işte çalışması için kullanılan iş ve oturum yoludur. Dosya yalnız maaştan ibaret değildir: Hollanda'da bir iş sözleşmesi, uygun sponsor, yaş veya mezuniyet durumuna göre doğru 2026 gelir ölçütü ve piyasaya uygun ücret birlikte aranır. EU Blue Card ayrı bir izin türüdür; iki yolun şartlarını birbirine karıştırmayın.
@@ -47,3 +47,7 @@ Başvuru kontrol dosyanızda işverenin sicil çıktısı, imzalı sözleşme, �
 - [IND: 2026 required amounts](https://ind.nl/en/required-amounts-income-requirements)
 - [IND: public register of recognised sponsors](https://ind.nl/en/public-register-recognised-sponsors)
 - [IND: sponsor obligations](https://ind.nl/en/obligations-of-sponsor-and-recognised-sponsor)
+
+## İlgili okuma
+
+Göç ve uyum dosyanızdaki bağlantılı adımları tamamlamak için, [Almanya AB Mavi Kart 2026 başvuru rehberi](/avrupagazetesi/makale/almanya-ab-mavi-kart-2026-rehberi/) yazısındaki kontrol sırasını da inceleyin. İki rehberi tek dosyada izlemek, tekrar belge toplama ve çelişen işlem adımları riskini azaltır.

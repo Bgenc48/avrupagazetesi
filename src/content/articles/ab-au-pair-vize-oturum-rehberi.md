@@ -15,10 +15,10 @@ faq:
     answer: "Hayır. 2016/801 sayılı Direktif au pair kurallarını ülkeler için isteğe bağlı bırakır; yaş, süre, çalışma saati ve başvuru yolu hedef ülkenin ulusal mevzuatından doğrulanmalıdır."
   - question: "Au pair normal ev çalışanı sayılır mı?"
     answer: "Au pair düzeni kültürel değişim ve sınırlı çocuk bakımı veya hafif ev işi temeline dayanır. Düzenli tam zamanlı iş gizleniyorsa çalışma hukuku ve göç izni ihlali oluşabilir."
-heroImage: "/images/ab-arastirmaci-oturum-izni-rehberi.jpg"
-heroAlt: "Avrupa'daki bir havalimanında pasaport kontrol noktası"
-heroCredit: "Subhashish Panigrahi / Wikimedia Commons (CC BY-SA 4.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Man_using_the_automatic_gate_in_Munich_airport_02.jpg"
+heroImage: "/images/editorial/identity-culture.jpg"
+heroAlt: "Dünya haritası üzerinde farklı ülkelerin bayrakları"
+heroCredit: "Lara Jameson / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/8828605/"
 ---
 
 Au pair, bir aile yanında yaşayarak sınırlı çocuk bakımı ve hafif ev işine katkı sunarken dil ve kültür deneyimi edinmeye dayanan geçici bir düzenlemedir. AB genelinde tek tip au pair vizesi yoktur. 2016/801 sayılı Direktif ülkelerin bu kategoriye ortak kuralları uygulamasını isteğe bağlı bırakır; hedef ülkenin ulusal sayfası belirleyicidir.

@@ -15,10 +15,10 @@ faq:
     answer: "Hayır. Kayıt, oturum nedenine göre zorunlu ve ücretsiz ya da yıllık katkıyla gönüllü olabilir. Çalışma ve bazı aile statüleri zorunlu kapsama girerken diğer düzenli ve üç aydan uzun oturumlarda gönüllü kayıt gündeme gelebilir."
   - question: "İtalya'da SSN kaydı nerede yapılır?"
     answer: "Düzenli oturum sahibi yabancı, nüfusa kayıtlı olduğu belediyeden sorumlu ASL'ye; henüz nüfus kaydı yoksa oturum izninde belirtilen fiilî ikamet yerinin ASL'sine başvurabilir."
-heroImage: "/images/almanya-saglik-sigortasi-yeni-calisan-rehberi.jpg"
-heroAlt: "Bir hastanede görev başındaki doktorlar ve sağlık çalışanları"
-heroCredit: "U.S. Army photo by Cpl. Clara Soria / Wikimedia Commons (Public domain)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:US,_Ghana_medical_staff_participate_in_medical_exercise_(8439482).jpg"
+heroImage: "/images/editorial/pharmacy-medicine.jpg"
+heroAlt: "Eczane rafından ilaç seçen eczacı"
+heroCredit: "cottonbro studio / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/8657301/"
 ---
 
 İtalya'da kamu sağlık sistemine erişim, yalnız **tessera sanitaria** kartına sahip olup olmamakla açıklanamaz. Yabancının vatandaşlığı, kalış süresi ve oturum nedeni; Servizio Sanitario Nazionale'ye (**SSN**) kaydın zorunlu mu gönüllü mü olduğunu ve hangi tarihler arasında geçerli olacağını belirler. Türk vatandaşının önce oturum kararını ve yerel ASL yetkisini eşleştirmesi gerekir.

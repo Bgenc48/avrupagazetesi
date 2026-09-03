@@ -15,10 +15,10 @@ faq:
     answer: "Yabancı yetkili makam önünde yapılan evlilik, evlenme belgesinin o yerdeki Türk dış temsilciliğine verilmesi veya gönderilmesi yoluyla en geç 30 gün içinde bildirilmelidir."
   - question: "Evlilik Türkiye'de nüfus müdürlüğüne tescil ettirilebilir mi?"
     answer: "Dış temsilciliğe bildirilememişse, usulüne göre onaylanmış yabancı evlenme belgesinin aslı ve noter onaylı Türkçe tercümesi Türkiye'deki nüfus müdürlüğüne sunularak bildirim yapılabilir."
-heroImage: "/images/fransa-aile-birlesimi-regroupement-familial-rehberi.jpg"
-heroAlt: "Ailelerin ve çocukların katıldığı açık hava etkinliği"
-heroCredit: "Cupofjoy / Wikimedia Commons (CC0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Family_festival_in_the_park_with_inflatables.jpg"
+heroImage: "/images/editorial/cargo-containers.jpg"
+heroAlt: "Liman sahasında üst üste dizilmiş yük konteynerleri"
+heroCredit: "Chanaka E / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/906494/"
 ---
 
 Yabancı bir ülkenin yetkili makamı önünde yapılan evlilik, o ülkede geçerli olsa da Türk aile kütüğüne kendiliğinden işlenmeyebilir. Türk vatandaşının, yabancı makamdan aldığı evlenme belgesini evliliğin yapıldığı yerdeki dış temsilciliğe vererek veya göndererek **en geç 30 gün içinde** bildirim yapması gerekir.

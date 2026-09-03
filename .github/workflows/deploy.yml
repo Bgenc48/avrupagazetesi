@@ -19,6 +19,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: withastro/action@v4
+      - name: Editorial quality gate
+        run: npm run audit:editorial
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4

@@ -15,10 +15,10 @@ faq:
     answer: "Her belediyenin erişim sağladığı yerel antidiscrimination service ücretsiz bilgi, yardım ve kayıt sunar. Ulusal 0800 0880 hattı da kişiyi bulunduğu bölgedeki hizmete yönlendirir."
   - question: "Netherlands Institute for Human Rights kararı bağlayıcı mı?"
     answer: "Enstitü eşit muamele hukukunun ihlal edilip edilmediğini ücretsiz değerlendirir; kararları hukuken bağlayıcı değildir ancak uygulamada sıklıkla izlenir ve mahkeme değerlendirmesinde dikkate alınabilir."
-heroImage: "/images/avrupa-kucuk-talepler-5000-avro-rehberi.jpg"
-heroAlt: "Lüksemburg’daki Avrupa Birliği Adalet Divanı yerleşkesi"
-heroCredit: "Luxofluxo / Wikimedia Commons (CC BY-SA 4.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Palais_de_la_Cour_de_Justice_CJEU_July_2021_Sign_to_the_Ancien_Palais.jpg"
+heroImage: "/images/editorial/policy-document.jpg"
+heroAlt: "Resmî bir belgeyi imzalayan kişi"
+heroCredit: "Pixabay / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/48148/"
 ---
 
 Hollanda Anayasası'nın 1. maddesi eşit durumlarda eşit muameleyi güvence altına alır. Köken, din, cinsiyet, cinsel yönelim, engellilik, kronik hastalık, yaş, medeni durum, vatandaşlık ve yasadaki başka ölçütlere dayalı farklı muamele için birden fazla bildirim yolu vardır. Her kurumun sonucu farklı olduğundan yalnız “şikâyet ettim” demek yeterli değildir.

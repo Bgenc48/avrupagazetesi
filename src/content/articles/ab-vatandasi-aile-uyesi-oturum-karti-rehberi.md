@@ -15,10 +15,10 @@ faq:
     answer: "AB vatandaşıyla onun vatandaşı olmadığı başka bir AB ülkesinde üç aydan uzun kalacak aile üyesi, genel olarak varıştan sonraki üç ay içinde yetkili makama başvurur. İlk üç ayda bazı ülkeler yalnız varlık bildirimi isteyebilir."
   - question: "Bir ülkedeki AB aile üyesi kartı başka ülkede otomatik oturum sağlar mı?"
     answer: "Hayır. Kart kısa seyahatte vize muafiyeti sağlayabilir; fakat başka bir AB ülkesine taşınırken AB vatandaşıyla birlikte yeni ülkenin makamına yeni oturum kartı başvurusu yapılır."
-heroImage: "/images/fransa-aile-birlesimi-regroupement-familial-rehberi.jpg"
-heroAlt: "Ailelerin ve çocukların katıldığı açık hava etkinliği"
-heroCredit: "Cupofjoy / Wikimedia Commons (CC0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Family_festival_in_the_park_with_inflatables.jpg"
+heroImage: "/images/editorial/policy-document.jpg"
+heroAlt: "Resmî bir belgeyi imzalayan kişi"
+heroCredit: "Pixabay / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/48148/"
 ---
 
 AB vatandaşının AB/AEA/İsviçre dışı eşi veya belirli aile üyeleri, AB vatandaşının **kendi vatandaşlık ülkesi dışındaki** bir AB ülkesinde serbest dolaşım hakkına dayanarak oturum kartı alabilir. Örneğin Alman vatandaşının İtalya'daki Türk eşi bu rejime girebilir; çift doğrudan Almanya'ya yerleşiyorsa kural olarak Alman ulusal aile göçü hükümleri uygulanır.

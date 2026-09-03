@@ -15,10 +15,10 @@ faq:
     answer: "Evet. OLAF'ın çevrim içi Dolandırıcılık Bildirim Sistemi üzerinden anonim bildirim ve güvenli belge iletimi mümkündür; geri iletişim isteniyorsa güvenli posta kutusu seçeneğini kullanın."
   - question: "OLAF her dolandırıcılığı araştırır mı?"
     answer: "Hayır. OLAF esas olarak AB kamu gelirini, harcamasını veya varlıklarını etkileyen dolandırıcılık ve ciddi usulsüzlüklerle, AB kurumlarındaki ciddi suistimalleri inceler."
-heroImage: "/images/avrupa-kucuk-talepler-5000-avro-rehberi.jpg"
-heroAlt: "Lüksemburg’daki Avrupa Birliği Adalet Divanı yerleşkesi"
-heroCredit: "Luxofluxo / Wikimedia Commons (CC BY-SA 4.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Palais_de_la_Cour_de_Justice_CJEU_July_2021_Sign_to_the_Ancien_Palais.jpg"
+heroImage: "/images/editorial/community-diverse.jpg"
+heroAlt: "Bir araya gelen farklı yaş ve kökenlerden insanlar"
+heroCredit: "Andrea Piacquadio / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/4143429/"
 ---
 
 Avrupa Dolandırıcılıkla Mücadele Ofisi OLAF, AB bütçesini etkileyen dolandırıcılık ve ciddi usulsüzlükler ile AB kurum ve organlarındaki ciddi personel suistimali iddialarını değerlendirir. Sahte çevrim içi mağaza, kişisel banka dolandırıcılığı veya AB fonuyla ilgisiz yerel yolsuzluk otomatik olarak OLAF yetkisine girmez; bunlar polis, savcılık veya ulusal denetim makamına yöneltilmelidir.

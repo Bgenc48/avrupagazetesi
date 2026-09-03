@@ -15,10 +15,10 @@ faq:
     answer: "Üye devlet öğrencinin çalışmasına izin vermelidir ancak yıllık veya haftalık sınırlar koyabilir. Kesin saat, işveren bildirimi ve vergi şartı eğitim ülkesinden doğrulanmalıdır."
   - question: "Mezuniyet sonrası AB'de iş aranabilir mi?"
     answer: "Direktif kapsamındaki öğrenci, şartları sağlayıp ayrı oturum başvurusu yaparak eğitim aldığı ülkede en az dokuz ay iş arama veya iş kurma amacıyla kalabilir."
-heroImage: "/images/ab-ogrenci-baska-uye-ulkede-hareketlilik-rehberi.jpg"
-heroAlt: "Avrupa'da bir üniversiteyi ziyaret eden öğrenci grubu"
-heroCredit: "Ввласенко / Wikimedia Commons (CC BY-SA 3.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:A_group_of_Chinese_students_at_Oxford._UK.jpg"
+heroImage: "/images/editorial/passport-visa.jpg"
+heroAlt: "Elinde farklı ülkelere ait pasaportlar tutan kişi"
+heroCredit: "RDNE Stock project / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/7009478/"
 ---
 
 AB öğrenci oturumu, üçüncü ülke vatandaşının tanınmış bir yükseköğretim kurumunda tam zamanlı ve diploma ya da yeterlilikle sonuçlanan programa katılması içindir. Üniversitenin kabul mektubu göç izninin temelidir fakat tek başına ülkeye giriş veya ikamet hakkı vermez.

@@ -15,10 +15,10 @@ faq:
     answer: "AB'de yasal ikamet eden tüketicinin temel ödeme hesabı başvurusu yalnız bankanın başka ülkede kurulmuş olması gerekçesiyle reddedilemez. Bazı ülkeler gerçek menfaat kanıtı isteyebilir."
   - question: "Temel ödeme hesabı kredi veya eksi bakiye içerir mi?"
     answer: "Hesap para yatırma, çekme, ödeme, otomatik ödeme ve kart gibi günlük hizmetleri kapsar; bankanın kredi, eksi bakiye veya tasarruf ürünü sağlaması zorunlu değildir."
-heroImage: "/images/ab-10000-avro-nakit-beyan-rehberi.jpg"
-heroAlt: "Euro banknotları ve madeni avrolar"
-heroCredit: "Avij (talk · contribs) / Wikimedia Commons (Public domain)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Euro_coins_and_banknotes_(cropped).jpg"
+heroImage: "/images/editorial/credit-score.jpg"
+heroAlt: "Bilgisayar başında banka kartını kontrol eden kişi"
+heroCredit: "Mikhail Nilov / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/4968390/"
 ---
 
 AB'de yasal olarak ikamet eden tüketici, temel özelliklere sahip bir ödeme hesabı açma hakkına sahiptir. Banka, başvuruyu yalnız kişinin hesabın açılacağı ülkede yaşamaması nedeniyle reddedemez. Bu hak tasarruf, yatırım veya kredi hesabına değil; günlük ödemelerin yapılabildiği temel hesaba ilişkindir.

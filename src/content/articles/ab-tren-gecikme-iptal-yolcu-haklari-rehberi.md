@@ -15,10 +15,10 @@ faq:
     answer: "Yolcu, yolculuk amacını yitirdiyse bilet iadesi ve gerektiğinde başlangıç noktasına dönüşü; ilk fırsatta ücretsiz yeniden yönlendirmeyi; ya da uygun gördüğü daha sonraki tarihte yolculuğu seçebilir."
   - question: "Tren gecikme tazminatı oranı nedir?"
     answer: "Varış gecikmesi 60–119 dakika ise bilet bedelinin yüzde 25'i, 120 dakika veya daha fazlaysa yüzde 50'si istenebilir. İade seçilmesi veya resmî istisnalar sonucu değiştirebilir."
-heroImage: "/images/ab-engelli-yolcu-ucretsiz-yardim-rehberi.jpg"
-heroAlt: "Berlin Hauptbahnhof tren istasyonu"
-heroCredit: "Ansgar Koreng / Wikimedia Commons (CC BY 3.0 de)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Berlin_Hauptbahnhof_Ostseite_HDR.jpg"
+heroImage: "/images/editorial/passport-visa.jpg"
+heroAlt: "Elinde farklı ülkelere ait pasaportlar tutan kişi"
+heroCredit: "RDNE Stock project / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/7009478/"
 ---
 
 Avrupa Birliği demiryolu yolcu kuralları, gecikme veya iptalde bilet sahibine seçim ve yardım hakları verir. Ancak önce biletin tek bir taşıma sözleşmesi mi yoksa ayrı ayrı biletler mi içerdiğini belirleyin. Bağlantılı yolculukta varış gecikmesi hesaplanırken bu ayrım, kaçırılan aktarmanın sorumluluğunu değiştirebilir.

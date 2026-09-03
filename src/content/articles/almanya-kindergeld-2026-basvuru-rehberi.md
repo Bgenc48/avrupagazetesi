@@ -15,10 +15,10 @@ faq:
     answer: "Federal Aile Portalının güncel bilgisinde her çocuk için aylık 259 avro ödenir. Ödeme hakkı ve başlangıç tarihi kişisel koşullara göre Familienkasse tarafından belirlenir."
   - question: "Çocuk Almanya dışında yaşıyorsa Kindergeld alınabilir mi?"
     answer: "Çocuğun Almanya, başka bir AB ülkesi, İzlanda, Lihtenştayn, Norveç veya İsviçre'de yaşayıp kayıtlı olması halinde hak mümkün olabilir. Türkiye gibi ülkelerde sosyal güvenlik anlaşması ve özel kurallar ayrıca incelenir."
-heroImage: "/images/ab-konut-kredisi-esis-rehberi.jpg"
-heroAlt: "Amsterdam'da konutların bulunduğu bir şehir sokağı"
-heroCredit: "Jorge Láscar from Australia / Wikimedia Commons (CC BY 2.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Street_and_canal_at_dusk,_Oudezijds_Voorburgwal_%27blue_hour%27,_7_januari_2011_(5821465439).jpg"
+heroImage: "/images/editorial/home-buying.jpg"
+heroAlt: "Yeni evin anahtarını teslim alan kişi"
+heroCredit: "Kampus Production / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/7642008/"
 ---
 
 Kindergeld, Almanya'da çocukların geçimine yönelik federal aile ödemesidir. 2026'da her çocuk için aylık **259 avro** tutar açıklanmıştır. Ödeme gelir testi gibi basit tek bir ölçüte dayanmaz; ebeveynin vergi/ikamet statüsü, çocuğun yaşı, yaşadığı ülke ve 18 yaş sonrası durumu birlikte değerlendirilir.

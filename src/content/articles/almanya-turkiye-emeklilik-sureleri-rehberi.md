@@ -15,10 +15,10 @@ faq:
     answer: "Süreler hak kazanma koşulunu incelemek için birlikte dikkate alınabilir; fakat Almanya ve Türkiye kural olarak kendi mevzuatına göre, kendi sigorta dönemleri üzerinden ayrı aylık hesaplar."
   - question: "Almanya'da yaşayan kişi Türkiye aylığı için ayrıca Türkiye'ye gitmeli mi?"
     answer: "Genellikle ikamet ülkesindeki yetkili kuruma verilen başvuru diğer ülke için de başvuru sayılabilir. Yine de iki ülkedeki tüm süreleri ve kurum numaralarını dosyada bildirmek gerekir."
-heroImage: "/images/abden-turkiyeye-tax-free-kdv-iadesi-rehberi.jpg"
-heroAlt: "Türkiye ve Avrupa Birliği temsilcilerinin katıldığı uluslararası toplantı"
-heroCredit: "Christophe Licoppe, © European Union, 2025 / Wikimedia Commons (CC BY 4.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Securing_Our_Future_(EC_pic)_2025-03-02-15-19.jpg"
+heroImage: "/images/editorial/tax-documents.jpg"
+heroAlt: "Vergi belgelerini düzenleyen bir kişi"
+heroCredit: "RDNE Stock project / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/6863330/"
 ---
 
 Almanya ile Türkiye arasındaki Sosyal Güvenlik Sözleşmesi, iki ülkede çalışmış kişilerin sigorta dönemleri yüzünden hak kaybetmesini azaltır. En önemli ayrım şudur: Dönemlerin **birlikte dikkate alınması**, bütün primlerin tek kasaya aktarılması demek değildir. Her ülke kendi mevzuatına göre hak ve aylık hesabı yapar; sonuçta iki ayrı kurumdan ayrı karar ve ödeme doğabilir.
@@ -49,3 +49,7 @@ Prim iadesini emekliliğe kısa yol sanmayın. Deutsche Rentenversicherung, iade
 - [Deutsche Rentenversicherung: Almanya ve Türkiye'de çalışma ve emeklilik](https://www.deutsche-rentenversicherung.de/SharedDocs/Downloads/DE/Broschueren/international/weitere_abkommen/02_arbeiten_deutschland_tuerkei.html)
 - [Deutsche Rentenversicherung: sosyal güvenlik sözleşmeleri](https://www.deutsche-rentenversicherung.de/DRV/DE/Rente/Ausland/Sozialversicherungsabkommen)
 - [SGK: yurt dışı borçlanması işlemleri](https://www.sgk.gov.tr/Content/Post/d4df88e5-f0a2-4a62-a793-949cf611f0a6/Yurt-Disi-Borclanmasi-Islemleri-2026-01-06-02-20-17)
+
+## İlgili okuma
+
+Türkiye ile Avrupa arasındaki belge zincirini birlikte planlamak için, [Almanya'daki ölümü Türkiye nüfusuna tescil rehberi](/avrupagazetesi/makale/almanya-olum-tescili-turkiye-rehberi/) yazısındaki kontrol sırasını da inceleyin. İki rehberi tek dosyada izlemek, tekrar belge toplama ve çelişen işlem adımları riskini azaltır.

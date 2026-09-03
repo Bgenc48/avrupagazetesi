@@ -15,10 +15,10 @@ faq:
     answer: "Hayır. Yolun amacı tanıma sürecini Almanya'daki nitelikli istihdamla birlikte yürütmektir; ancak yeterliliğin eğitim ülkesinde devletçe tanınması ve işverenle yazılı ortaklık anlaşması gerekir."
   - question: "Denklik ortaklığı için hangi Almanca seviyesi istenir?"
     answer: "Oturum amacı bakımından kural olarak en az A2 Almanca kanıtlanır. Mesleğin, işverenin veya telafi önleminin daha yüksek dil düzeyi istemesi mümkündür."
-heroImage: "/images/ab-gorevlendirilen-calisan-a1-haklari-rehberi.jpg"
-heroAlt: "Çalışma hayatı üzerine düzenlenen kalabalık bir toplantı"
-heroCredit: "Marjory Collins / Wikimedia Commons (Public domain)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:A_Sunday_afternoon_meeting_of_the_rubber_workers_union8d18608v.jpg"
+heroImage: "/images/editorial/passport-visa.jpg"
+heroAlt: "Elinde farklı ülkelere ait pasaportlar tutan kişi"
+heroCredit: "RDNE Stock project / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/7009478/"
 ---
 
 Denklik ortaklığı, yabancı mesleki veya akademik yeterliliğin Almanya'daki tanıma işlemini ülkeye gelmeden tamamlamak yerine, nitelikli bir işte çalışırken yürütmeye yarar. Bu yol “belgesiz çalışma” izni değildir. Başvuru sahibi ile işveren, tanıma başvurusunu gecikmeden yapmayı ve eksik görülen yeterlilikleri tamamlamayı yazılı olarak üstlenir.

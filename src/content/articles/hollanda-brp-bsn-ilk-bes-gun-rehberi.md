@@ -15,10 +15,10 @@ faq:
     answer: "Dört aydan uzun yaşayacak kişi gelişinden itibaren beş gün içinde kalıcı adresinin bulunduğu belediyeye resident kaydı yaptırmalıdır. Aile üyeleri de şahsen gelmelidir."
   - question: "Dört aydan kısa kalacak kişi BSN alabilir mi?"
     answer: "Evet. Hollanda'da yaşamayan veya altı aylık dönemde dört aydan kısa kalacak kişi uygun RNI masasından non-resident kaydıyla BSN alabilir. RNI, uzun süreli BRP resident kaydının yerine kullanılmamalıdır."
-heroImage: "/images/ab-hukuku-ihlalini-komisyona-bildirme-rehberi.jpg"
-heroAlt: "Brüksel'deki Avrupa Komisyonu Berlaymont binasının girişi"
-heroCredit: "Ank Kumar / Wikimedia Commons (CC BY-SA 4.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:European_Commission_headquarters,_The_Berlaymont_Building,_Brussels,_Belgium_(_Ank_Kumar,_Infosys_Limited_).jpg"
+heroImage: "/images/editorial/professional-networking.jpg"
+heroAlt: "Konferans salonunda fikir alışverişi yapan profesyoneller"
+heroCredit: "Christina Morillo / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/1181406/"
 ---
 
 Hollanda'ya dört aydan uzun yaşamaya gelen kişi, gelişinden itibaren **beş gün içinde** yaşadığı belediyeye Basisregistratie Personen yani BRP resident kaydı yaptırmalıdır. Kayıtla verilen burgerservicenummer (**BSN**), vergi, sağlık, iş ve birçok kamu işleminde kullanılan tekil numaradır.

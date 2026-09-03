@@ -15,10 +15,10 @@ faq:
     answer: "Geçerli bir AB ehliyeti kural olarak tanınır ve taşınınca hemen değiştirilmez. Kayıp, çalıntı, hasar, bazı süresiz ehliyetler veya ikamet ülkesindeki trafik ihlali zorunlu değişim doğurabilir."
   - question: "Türk ehliyetinden çevrilmiş AB ehliyeti her AB ülkesinde tanınır mı?"
     answer: "Yeni ülke, üçüncü ülke ehliyeti karşılığında düzenlenmiş AB ehliyetini otomatik tanımak zorunda olmayabilir. İlk Türk belgesine ilişkin yeni ülkenin ulusal değişim kuralı ayrıca kontrol edilmelidir."
-heroImage: "/images/ab-arac-kiralama-hasar-sigorta-rehberi.jpg"
-heroAlt: "Prag Havalimanı araç kiralama ve otopark binası"
-heroCredit: "Pavel Hrdlička (Czech Wikipedia user Packa) / Wikimedia Commons (CC BY-SA 4.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:House_parking_and_car_rental,_Prague_Airport.jpg"
+heroImage: "/images/editorial/airplane-flight.jpg"
+heroAlt: "Uçak penceresinden görünen bulutlar ve dağlar"
+heroCredit: "Dan Gold / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/1660194/"
 ---
 
 Bir AB ülkesinin düzenlediği geçerli ehliyet, kural olarak diğer AB ülkelerinde tanınır. Başka ülkeye taşınmak, belgeyi hemen yerel ehliyete çevirme zorunluluğu yaratmaz. Ancak belgenin süresi, ilk hangi ehliyet karşılığında verildiği ve yeni ülkedeki olağan ikamet, sonucu değiştirebilir.

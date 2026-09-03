@@ -15,10 +15,10 @@ faq:
     answer: "Formül A çok dilli doğum, Formül B çok dilli evlenme, Formül C çok dilli ölüm kayıt örneğidir. Belgeler Türk nüfus sistemindeki tescilli olayı gösterir; yabancı ülkedeki olay henüz tescil edilmediyse önce kayıt işlemi gerekir."
   - question: "Formül belgesine her zaman apostil gerekir mi?"
     answer: "Hayır. Kabul, Türkiye ile hedef ülkenin taraf olduğu sözleşmeye ve işlemi yapan kurumun kuralına bağlıdır. Çok dilli olması otomatik olarak apostil gereksiz demek değildir; hedef makamdan yazılı belge listesi alınmalıdır."
-heroImage: "/images/ab-kamu-belgesi-apostil-muafiyeti-rehberi.jpg"
-heroAlt: "Damga ve giriş çıkış kayıtları bulunan resmî seyahat belgeleri"
-heroCredit: "The government of the United States of America. / Wikimedia Commons (Public domain)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:United_States_official_passport_of_a_naval_officer_during_the_early_Vietnam_War_(1956)_14.png"
+heroImage: "/images/editorial/identity-culture.jpg"
+heroAlt: "Dünya haritası üzerinde farklı ülkelerin bayrakları"
+heroCredit: "Lara Jameson / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/8828605/"
 ---
 
 Formül A, B ve C; Türk nüfus kayıtlarında tescilli doğum, evlenme ve ölüm olaylarını çok dilli standartta gösteren belgelerdir. **Formül A doğum**, **Formül B evlenme**, **Formül C ölüm** kayıt örneğidir. Bunlar hastane doğum raporu, evlilik cüzdanı veya ölüm belgesinin bire bir kopyası değildir; merkezi kayıttaki olayı resmen özetler.

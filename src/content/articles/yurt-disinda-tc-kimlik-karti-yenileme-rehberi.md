@@ -15,10 +15,10 @@ faq:
     answer: "Evet. Konsolosluk portalı hem doğum veya değiştirme hem kayıp nedeniyle TCKK başvurusu için randevudan sonra şahsen başvurulacağını belirtir."
   - question: "T.C. kimlik kartının geçerlilik süresi kaç yıldır?"
     answer: "Dışişleri Bakanlığı SSS sayfasına göre kimlik kartı on yıl geçerlidir ve sürenin bitimini izleyen tarihten itibaren yenilenir. Kayıp, hasar veya bilgi değişikliği daha erken başvuru gerektirebilir."
-heroImage: "/images/ab-kamu-belgesi-apostil-muafiyeti-rehberi.jpg"
-heroAlt: "Damga ve giriş çıkış kayıtları bulunan resmî seyahat belgeleri"
-heroCredit: "The government of the United States of America. / Wikimedia Commons (Public domain)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:United_States_official_passport_of_a_naval_officer_during_the_early_Vietnam_War_(1956)_14.png"
+heroImage: "/images/editorial/identity-culture.jpg"
+heroAlt: "Dünya haritası üzerinde farklı ülkelerin bayrakları"
+heroCredit: "Lara Jameson / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/8828605/"
 ---
 
 Yurt dışında yaşayan Türk vatandaşı, hizmet bölgesindeki büyükelçilik konsolosluk şubesi veya başkonsoloslukta T.C. kimlik kartı başvurusu yapabilir. Doğum veya değiştirme nedeniyle başvuru ile kayıp kart başvurusu portalda ayrı işlemlerdir. Yanlış türde randevu almak, ücret ve belge listesini değiştirebilir.

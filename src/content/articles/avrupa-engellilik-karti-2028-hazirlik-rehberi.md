@@ -15,10 +15,10 @@ faq:
     answer: "Henüz hayır. Direktifler kabul edildi ancak ülkelerin kuralları uygulaması için süre bulunuyor; yeni kartların 2028'de işler hale gelmesi bekleniyor. Mevcut ulusal ve pilot kart kurallarını kontrol edin."
   - question: "Kart sosyal güvenlik ödemelerini başka ülkeye taşır mı?"
     answer: "Hayır. Kart kısa ziyaretlerde hizmet, etkinlik ve tesislerde yerel engelli kişilere sunulan özel koşullara eşit erişimi destekler; sosyal güvenlik ve uzun süreli destek haklarını uyumlaştırmaz."
-heroImage: "/images/ab-engelli-park-karti-yurt-disi-kullanim-rehberi.jpg"
-heroAlt: "Tekerlekli sandalyesiyle erişilebilir trene binen bir yolcu"
-heroCredit: "John Robert McPherson / Wikimedia Commons (CC BY-SA 4.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Electric_wheelchair_boarding_Queensland_Rail_SMU260_Platform_3_Sunnybank_Railway_Station_DSCF7806.jpg"
+heroImage: "/images/editorial/hospital-doctor.jpg"
+heroAlt: "Stetoskoplu bir hastane doktoru"
+heroCredit: "MART PRODUCTION / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/5998477/"
 ---
 
 Avrupa Engellilik Kartı ve yenilenmiş Avrupa Park Kartı için AB direktifleri 2024'te kabul edildi. Üye devletlerin mevzuatı hazırlaması ve sistemi uygulaması için süre bulunduğundan kartlar henüz bütün AB'de ortak şekilde kullanılamaz. Avrupa Komisyonu, yeni sistemin 2028'de işler hale gelmesini bekliyor.

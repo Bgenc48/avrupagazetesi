@@ -15,10 +15,10 @@ faq:
     answer: "Hayır. Yabancı makam kararı veya medeni hâl olayı Türk nüfus sistemine usulüne uygun bildirilip tescil edilmelidir; otomatik veri paylaşımı varsayılmamalıdır."
   - question: "Yabancı ad değişikliği belgesine apostil gerekir mi?"
     answer: "Belgenin ülkesi, uluslararası sözleşme ve düzenlenme biçimine göre apostil, konsolosluk tasdiki veya muafiyet uygulanabilir; temsilciliğin güncel belge listesini kontrol edin."
-heroImage: "/images/ab-kamu-belgesi-apostil-muafiyeti-rehberi.jpg"
-heroAlt: "Damga ve giriş çıkış kayıtları bulunan resmî seyahat belgeleri"
-heroCredit: "The government of the United States of America. / Wikimedia Commons (Public domain)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:United_States_official_passport_of_a_naval_officer_during_the_early_Vietnam_War_(1956)_14.png"
+heroImage: "/images/editorial/cargo-containers.jpg"
+heroAlt: "Liman sahasında üst üste dizilmiş yük konteynerleri"
+heroCredit: "Chanaka E / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/906494/"
 ---
 
 Yabancı ülkede mahkeme, nüfus makamı, evlenme veya boşanma nedeniyle değişen ad ya da soyad, Türk nüfus kaydına her zaman otomatik yansımaz. Türk kimliği, pasaport ve yabancı belgelerde farklı ad kullanılması seyahat, banka, miras ve çocuk kayıtlarında kimlik eşleştirme sorunu yaratabilir. Değişikliğin dayanağını belirleyerek konsolosluk veya nüfus makamına bildirim yapmak gerekir.

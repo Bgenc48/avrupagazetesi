@@ -15,10 +15,10 @@ faq:
     answer: "Genel kural, başvuru yapılan AB ülkesinde başvurudan hemen önce beş yıl yasal ve kesintisiz ikamettir. Sayılan süreler ve kabul edilen devamsızlıklar ikamet türüne göre ayrıca değerlendirilir."
   - question: "AB uzun dönem ikamet kartı başka bir AB ülkesinde otomatik çalışma hakkı verir mi?"
     answer: "Hayır. Statü ikinci bir AB ülkesinde ikamet başvurusunu kolaylaştırabilir; ancak kişi o ülkenin izin, iş, gelir ve kota koşullarını karşılamadan otomatik olarak yerleşip çalışamaz."
-heroImage: "/images/ab-arastirmaci-oturum-izni-rehberi.jpg"
-heroAlt: "Avrupa'daki bir havalimanında pasaport kontrol noktası"
-heroCredit: "Subhashish Panigrahi / Wikimedia Commons (CC BY-SA 4.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Man_using_the_automatic_gate_in_Munich_airport_02.jpg"
+heroImage: "/images/editorial/passport-visa.jpg"
+heroAlt: "Elinde farklı ülkelere ait pasaportlar tutan kişi"
+heroCredit: "RDNE Stock project / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/7009478/"
 ---
 
 AB uzun dönem ikamet statüsü, bir AB ülkesinde kalıcı bağ kuran AB/AEA/İsviçre dışı ülke vatandaşlarına yönelik ortak bir hukuki statüdür. Genel kural, aynı ülkede başvurudan hemen önce **beş yıl yasal ve kesintisiz ikamet**, düzenli gelir ve sağlık sigortasıdır. Ulusal “süresiz” veya “kalıcı” kart aynı hak ve hareketlilik koşullarını taşımayabilir; kartın dayandığı statüyü yazılı karardan kontrol edin.

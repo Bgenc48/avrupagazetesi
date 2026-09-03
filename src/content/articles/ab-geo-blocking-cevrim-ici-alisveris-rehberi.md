@@ -15,10 +15,10 @@ faq:
     answer: "Hayır. Geo-blocking kuralları satıcıya yeni ülkeye teslimat ağı kurma zorunluluğu getirmez; müşteri satıcının hizmet verdiği yerde teslim almayı veya kendi taşımasını düzenleyebilir."
   - question: "Site beni iznim olmadan yerel sürüme yönlendirebilir mi?"
     answer: "Müşterinin açık rızası olmadan erişimi engelleyen veya farklı ülke sürümüne kalıcı biçimde yönlendiren uygulama kural olarak yasaktır; özgün sürüme erişim seçeneği korunmalıdır."
-heroImage: "/images/ab-online-alisveris-14-gun-cayma-rehberi.jpg"
-heroAlt: "Dizüstü bilgisayarla çevrim içi alışveriş yapan bir tüketici"
-heroCredit: "Artem Beliaikin from Moscow, Russia / Wikimedia Commons (CC BY 2.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Woman_online_shopping_concept._Woman_in_the_green_park_with_modern_laptop._Bali_island._(47798039732).jpg"
+heroImage: "/images/editorial/home-buying.jpg"
+heroAlt: "Yeni evin anahtarını teslim alan kişi"
+heroCredit: "Kampus Production / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/7642008/"
 ---
 
 Geo-blocking, satıcının müşteriyi vatandaşlığı, ikamet yeri veya kuruluş yeri nedeniyle çevrim içi mağazadan engellemesi, başka ülke sürümüne zorla yönlendirmesi ya da aynı işlemde farklı şart uygulamasıdır. AB kuralları her fiyatı Avrupa çapında eşitlemez; belirli sınır ötesi ayrımcılık biçimlerini yasaklar.

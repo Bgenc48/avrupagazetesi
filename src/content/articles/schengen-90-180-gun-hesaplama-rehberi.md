@@ -15,10 +15,10 @@ faq:
     answer: "Evet. Giriş günü ilk kalış günü, çıkış günü son kalış günü olarak sayılır. Aynı gün giriş ve çıkış da bir gündür."
   - question: "Çok girişli vize her altı ayda otomatik 90 yeni gün verir mi?"
     answer: "Hayır. Her kalış gününde geriye doğru kayan 180 günlük dönemde toplam en fazla 90 gün bulunabilir. Ayrıca vize etiketindeki geçerlilik, izin verilen gün ve giriş sayısı sınırları uygulanır."
-heroImage: "/images/ab-hukuku-ihlalini-komisyona-bildirme-rehberi.jpg"
-heroAlt: "Brüksel'deki Avrupa Komisyonu Berlaymont binasının girişi"
-heroCredit: "Ank Kumar / Wikimedia Commons (CC BY-SA 4.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:European_Commission_headquarters,_The_Berlaymont_Building,_Brussels,_Belgium_(_Ank_Kumar,_Infosys_Limited_).jpg"
+heroImage: "/images/editorial/professional-networking.jpg"
+heroAlt: "Konferans salonunda fikir alışverişi yapan profesyoneller"
+heroCredit: "Christina Morillo / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/1181406/"
 ---
 
 Schengen kısa kalış kuralı “altı ayda 90 gün” diye sabit takvim bloklarına ayrılmaz. Her bir kalış gününde geriye doğru **180 günlük hareketli dönem** incelenir ve Schengen alanında geçirilen toplam gün 90'ı aşmamalıdır. Bir ülkeden diğerine geçmek sayacı sıfırlamaz; Schengen ülkelerindeki günler birlikte toplanır.

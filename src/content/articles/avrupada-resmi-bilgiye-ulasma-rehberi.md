@@ -18,10 +18,10 @@ faq:
     answer: "Her zaman değil. Reklamlar, danışmanlık siteleri ve eski içerikler üst sıralarda görünebilir. Alan adını, kurumu, güncelleme tarihini ve sayfanın resmî hizmete bağlantısını kontrol edin."
   - question: "Türkçe bilgi yoksa ne yapmalıyım?"
     answer: "Kurumun ülke dilindeki sayfasını esas alın; tarayıcı çevirisini yalnızca anlamaya yardımcı araç olarak kullanın. Kritik belge adlarını özgün dilde kaydedin ve belirsizliği doğrudan kuruma sorun."
-heroImage: "/images/ab-hukuku-ihlalini-komisyona-bildirme-rehberi.jpg"
-heroAlt: "Brüksel'deki Avrupa Komisyonu Berlaymont binasının girişi"
-heroCredit: "Ank Kumar / Wikimedia Commons (CC BY-SA 4.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:European_Commission_headquarters,_The_Berlaymont_Building,_Brussels,_Belgium_(_Ank_Kumar,_Infosys_Limited_).jpg"
+heroImage: "/images/editorial/remote-work.jpg"
+heroAlt: "Dizüstü bilgisayarla çalışan bir profesyonel"
+heroCredit: "Andrea Piacquadio / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/3791130/"
 ---
 
 Avrupa’da oturum, adres kaydı, çalışma, diploma tanıma veya uyum kursu hakkında arama yapan biri, aynı konu için birbirinden farklı onlarca yanıtla karşılaşabilir. Farkın nedeni yalnızca yanlış bilgi değildir: Kişinin vatandaşlığı, aile bağı, çalışma durumu, bulunduğu ülke ve hatta belediyesi uygulanacak adımı değiştirebilir. Bu nedenle iyi araştırma, tek bir “belge listesi” bulmaktan önce doğru hukuki ve idari kategoriyi belirlemekle başlar.
@@ -69,3 +69,7 @@ Soruyu kısa ve denetlenebilir kurun: “Şu oturum türüne sahibim, şu tariht
 Her konu için küçük bir kayıt tutmak hata riskini azaltır. Kaynak bağlantısı, erişim tarihi, yetkili kurum, son tarih, istenen belgeler, gönderim kanıtı ve kurumdan gelen yanıtı aynı yerde saklayın. Güncel olmayan bir sayfaya tekrar dönmemek için eski bağlantıyı “yerine geçen kaynak” notuyla işaretleyin.
 
 İyi bir kaynak zinciri yalnızca arama sonucunu doğrulamaz; kararın hangi bilgiye dayanarak verildiğini de gösterir. Avrupa Gazetesi’nin rehberlerinde de aynı yaklaşımı uygulayacağız: kişisel durumları ayıracak, mümkün olduğunda birincil resmî kaynaklara bağlanacak, güncellik tarihini belirtecek ve bilinmeyeni kesinmiş gibi sunmayacağız.
+
+## İlgili okuma
+
+Bu işlemin bağlantılı belge ve doğrulama adımlarını görmek için, [AB 10.000 avro nakit beyan rehberi](/avrupagazetesi/makale/ab-10000-avro-nakit-beyan-rehberi/) yazısındaki kontrol sırasını da inceleyin. İki rehberi tek dosyada izlemek, tekrar belge toplama ve çelişen işlem adımları riskini azaltır.

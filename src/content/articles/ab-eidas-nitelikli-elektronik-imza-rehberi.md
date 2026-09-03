@@ -15,10 +15,10 @@ faq:
     answer: "Evet. eIDAS'a uygun nitelikli elektronik imza bütün AB üye devletlerinde el yazısı imzayla eşdeğer hukuki etkiye sahiptir."
   - question: "Basit elektronik imza geçersiz midir?"
     answer: "Hayır. Bir elektronik imza yalnız elektronik olduğu veya nitelikli koşulları taşımadığı için hukuki etki ve delil kabulünden yoksun bırakılamaz; somut etkisi ulusal hukuk ve işlem şartlarına bağlıdır."
-heroImage: "/images/gdpr-veri-erisim-duzeltme-sikayet-rehberi.jpg"
-heroAlt: "Verilerin işlendiği bir sunucu odası"
-heroCredit: "Esquilo / Wikimedia Commons (CC BY-SA 3.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:PDC_server_room.jpg"
+heroImage: "/images/editorial/policy-document.jpg"
+heroAlt: "Resmî bir belgeyi imzalayan kişi"
+heroCredit: "Pixabay / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/48148/"
 ---
 
 Elektronik belgede yazılmış ad, onay kutusu, çizilmiş imza, sertifika tabanlı imza ve nitelikli elektronik imza aynı güvence düzeyinde değildir. eIDAS Tüzüğü basit, gelişmiş ve nitelikli elektronik imza katmanlarını tanımlar. Hangi düzeyin gerektiği işlemin hukuki şekline, tarafların anlaşmasına ve ulusal kurala bağlıdır.

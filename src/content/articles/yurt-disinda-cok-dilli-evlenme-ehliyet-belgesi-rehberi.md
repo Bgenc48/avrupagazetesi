@@ -15,10 +15,10 @@ faq:
     answer: "Yurt dışında yabancı makam önünde evlenecek Türk vatandaşı belgeyi Türkiye'de nüfus müdürlüğünden, yurt dışında Türk dış temsilciliğinden talep edebilir."
   - question: "Bu belge evliliği Türk nüfusuna otomatik işler mi?"
     answer: "Hayır. Belge evlenme öncesi ehliyeti gösterir; yabancı makam önünde yapılan evlilik ayrıca en geç 30 gün içinde Türk dış temsilciliğine bildirilmelidir."
-heroImage: "/images/ab-arac-kiralama-hasar-sigorta-rehberi.jpg"
-heroAlt: "Prag Havalimanı araç kiralama ve otopark binası"
-heroCredit: "Pavel Hrdlička (Czech Wikipedia user Packa) / Wikimedia Commons (CC BY-SA 4.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:House_parking_and_car_rental,_Prague_Airport.jpg"
+heroImage: "/images/editorial/highway-traffic.jpg"
+heroAlt: "Çok şeritli otoyolda ilerleyen otomobil ve kamyonlar"
+heroCredit: "Pixabay / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/221284/"
 ---
 
 Çok dilli evlenme ehliyet belgesi, kişinin nüfus kaydındaki medeni hâline göre evlenmesine engel bulunup bulunmadığını yabancı evlendirme makamına göstermeye yarar. Evlilik belgesi değildir ve nikâhı gerçekleştirmez. Yurt dışında evlenecek Türk vatandaşı bunu Türkiye'de nüfus müdürlüğünden veya dış temsilcilikten isteyebilir.

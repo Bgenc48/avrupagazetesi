@@ -15,10 +15,10 @@ faq:
     answer: "2016/801 sayılı Direktife bağlı ülkeler, kapsamdaki öğrenci ve araştırmacılara eğitim veya araştırma tamamlandıktan sonra iş aramak ya da işletme kurmak için en az dokuz ay kalış imkânı sağlamalıdır."
   - question: "Diploma çıkar çıkmaz çalışma izni otomatik başlar mı?"
     answer: "Hayır. Mezuniyet sonrası oturum için süresinde başvuru, geçerli pasaport, sigorta ve mali kaynak gerekir; bulunan iş için ayrıca ulusal çalışma veya oturum kategorisine geçiş yapılabilir."
-heroImage: "/images/ab-arastirmaci-oturum-izni-rehberi.jpg"
-heroAlt: "Avrupa'daki bir havalimanında pasaport kontrol noktası"
-heroCredit: "Subhashish Panigrahi / Wikimedia Commons (CC BY-SA 4.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Man_using_the_automatic_gate_in_Munich_airport_02.jpg"
+heroImage: "/images/editorial/small-business.jpg"
+heroAlt: "Küçük işletme planını görüşen girişimciler"
+heroCredit: "RDNE Stock project / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/7413915/"
 ---
 
 AB dışı bir öğrenci veya araştırmacı, 2016/801 sayılı Direktif kapsamındaki eğitimini ya da araştırmasını tamamladıktan sonra izin veren ülkede iş aramak veya işletme kurmak amacıyla en az dokuz ay kalabilir. Bu hak otomatik uzatma değildir; mezuniyet veya araştırma bitiminden önce ya da ulusal sürede ayrı oturum başvurusu yapılmalıdır.

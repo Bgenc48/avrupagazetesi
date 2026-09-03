@@ -15,10 +15,10 @@ faq:
     answer: "Hayır. Kesinleşmiş karar için dış temsilcilik veya yetkili nüfus müdürlüğünde idari tescil başvurusu yapılır; şartlar sağlanmazsa Türkiye'de tanıma davası gerekebilir."
   - question: "Eski eşlerin aynı gün başvurması zorunlu mu?"
     answer: "Paris Başkonsolosluğu, tarafların birlikte veya ilk başvurudan sonra 90 gün içinde ayrı ayrı başvurabileceğini belirtiyor. Taraf, kanuni temsilci ya da özel yetkili vekil başvurabilir."
-heroImage: "/images/fransa-aile-birlesimi-regroupement-familial-rehberi.jpg"
-heroAlt: "Ailelerin ve çocukların katıldığı açık hava etkinliği"
-heroCredit: "Cupofjoy / Wikimedia Commons (CC0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Family_festival_in_the_park_with_inflatables.jpg"
+heroImage: "/images/editorial/family-multicultural.jpg"
+heroAlt: "Evde birlikte vakit geçiren çok kültürlü aile"
+heroCredit: "William Fortunato / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/6393334/"
 ---
 
 Fransa'da boşanmış olmak, Türkiye'deki aile kütüğünde medeni halin kendiliğinden değiştiği anlamına gelmez. Kesinleşmiş Fransız adli veya idari kararı, şartları varsa Türk dış temsilciliği ya da yetkili nüfus müdürlüğü üzerinden idari yolla tescil edilebilir. Dosya kabul edilmezse mahkemede tanıma yolu ayrıca gündeme gelir.
@@ -48,3 +48,7 @@ Başvuru öncesi tek sayfalık belge envanteri hazırlayın: Fransızca belge ad
 - [Paris Başkonsolosluğu: Fransa boşanma kararının tescili](https://paris-bk.mfa.gov.tr/Mission/ShowInfoNote/375958)
 - [Konsolosluk portalı](https://www.konsolosluk.gov.tr/)
 - [Resmî Gazete: tescil yönetmeliği](https://www.resmigazete.gov.tr/eskiler/2018/02/20180207-5.htm)
+
+## İlgili okuma
+
+Türkiye ile Avrupa arasındaki belge zincirini birlikte planlamak için, [Hollanda boşanma kararını Türkiye'de tescil ettirme rehberi](/avrupagazetesi/makale/hollanda-bosanma-karari-turkiye-tescil-rehberi/) yazısındaki kontrol sırasını da inceleyin. İki rehberi tek dosyada izlemek, tekrar belge toplama ve çelişen işlem adımları riskini azaltır.

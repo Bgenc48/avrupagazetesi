@@ -15,10 +15,10 @@ faq:
     answer: "Evet. Avrupa Komisyonuna göre 112, AB'nin her yerinde sabit ve mobil telefonlardan ücretsiz aranabilir ve ambulans, itfaiye veya polise erişim sağlar."
   - question: "112 operatörü Türkçe konuşur mu?"
     answer: "Türkçe hizmet garantisi yoktur. Birçok ülkede operatörler ulusal dilin yanında İngilizce veya Fransızca yanıt verebilir; bulunduğunuz ülkenin dil ve erişilebilirlik seçeneklerini seyahatten önce kontrol edin."
-heroImage: "/images/ab-hukuku-ihlalini-komisyona-bildirme-rehberi.jpg"
-heroAlt: "Brüksel'deki Avrupa Komisyonu Berlaymont binasının girişi"
-heroCredit: "Ank Kumar / Wikimedia Commons (CC BY-SA 4.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:European_Commission_headquarters,_The_Berlaymont_Building,_Brussels,_Belgium_(_Ank_Kumar,_Infosys_Limited_).jpg"
+heroImage: "/images/editorial/remote-work.jpg"
+heroAlt: "Dizüstü bilgisayarla çalışan bir profesyonel"
+heroCredit: "Andrea Piacquadio / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/3791130/"
 ---
 
 Avrupa Birliği içinde ciddi sağlık sorunu, yangın, kaza veya devam eden güvenlik tehdidinde **112**, ortak acil telefon numarasıdır. Sabit veya mobil telefondan ücretsiz aranır; eğitimli operatör çağrıyı ambulans, itfaiye veya polis hizmetine yönlendirir. Ülkelerin kendi ulusal acil numaraları da çalışabilir, fakat 112 AB genelinde hatırlanacak ortak numaradır.

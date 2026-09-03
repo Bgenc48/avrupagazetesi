@@ -15,10 +15,10 @@ faq:
     answer: "DSA, tüm platformların tavsiye sistemlerinin ana parametrelerini açıklamasını ister. Profillemeye dayanmayan en az bir seçenek sunma yükümlülüğü özellikle çok büyük çevrim içi platformlar ve arama motorları için geçerlidir."
   - question: "Profilsiz seçenek kronolojik akış demek midir?"
     answer: "Her zaman değil. Seçenek profillemeye dayanmamalıdır; sıralama zaman, konum veya kullanıcının o anda verdiği başka bir sinyale dayanabilir. Platformun açıklamasını okuyun."
-heroImage: "/images/gdpr-veri-erisim-duzeltme-sikayet-rehberi.jpg"
-heroAlt: "Verilerin işlendiği bir sunucu odası"
-heroCredit: "Esquilo / Wikimedia Commons (CC BY-SA 3.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:PDC_server_room.jpg"
+heroImage: "/images/editorial/courthouse-justice.jpg"
+heroAlt: "Adliye binası ve adalet sütunları"
+heroCredit: "Sora Shimazaki / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/5668882/"
 ---
 
 Sosyal medya, video, alışveriş ve içerik platformları kullanıcının ne göreceğini bir tavsiye sistemiyle sıralayabilir. AB Dijital Hizmetler Yasası (DSA), bu sistemlerin tamamen açıklanmasını veya kaynak kodunun yayımlanmasını istemez; fakat hizmet şartlarında kullanılan ana parametrelerin ve kullanıcının bunları değiştirme yollarının açık, anlaşılır biçimde anlatılmasını zorunlu kılar.
@@ -41,7 +41,7 @@ Tavsiye sistemi seçimi reklam profillemesini otomatik kapatmayabilir. DSA, çev
 
 Çocuk hesabında yaş güvencesi, varsayılan gizlilik ve tavsiye tasarımı birlikte değerlendirilmelidir. Platformun “çocuklara uygun” beyanını tek kanıt saymayın. Hesabın doğum tarihini değiştirerek sistemi test etmek yanlış veri üretir; gerçek hesapta mevcut ayar ve açıklamaları belgeleyin.
 
-Önce platformun kendi destek veya şikâyet kanalına açık talep gönderin: hesabı, cihazı, menü yolunu, beklenen profilsiz seçeneği ve gördüğünüz sonucu yazın. [DSA yasa dışı içerik bildirim ve itiraz rehberimiz](/avrupagazetesi/makale/dsa-yasa-disi-icerik-bildirim-itiraz-rehberi/) içerik kaldırma uyuşmazlığı için farklı süreci açıklar.
+Önce platformun kendi destek veya şikâyet kanalına açık talep gönderin: hesabı, cihazı, menü yolunu, beklenen profilsiz seçeneği ve gördüğünüz sonucu yazın. [DSA yasa dışı içerik bildirim ve itiraz rehberimiz](/avrupagazetesi/makale/dsa-yasadisi-icerik-bildirim-itiraz-rehberi/) içerik kaldırma uyuşmazlığı için farklı süreci açıklar.
 
 Sorun çözülmezse yerleşik olduğunuz ülkenin Dijital Hizmetler Koordinatörüne DSA ihlali şikâyeti sunabilirsiniz. Çok büyük platformlardaki sistematik sorunlar için Komisyonun da denetim rolü vardır. Şikâyette “algoritmayı sevmiyorum” yerine, hangi açıklamanın eksik olduğunu, profilsiz seçeneğin nerede bulunmadığını veya tercihin nasıl geri alındığını somutlaştırın.
 

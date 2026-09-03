@@ -15,10 +15,10 @@ faq:
     answer: "IND'nin güncel kuralına göre orientation year oturum izni bir yıl geçerlidir ve uzatılamaz. Yeni bir uygun eğitim veya araştırma tamamlanırsa ayrı bir orientation year hakkı doğabilir."
   - question: "Orientation year sırasında çalışma izni gerekir mi?"
     answer: "Hayır. Geçerli orientation year kartında işgücü piyasasına serbest erişim bulunur; işverenin ayrıca TWV çalışma izni alması gerekmez. İşveren yine de karttaki çalışma ibaresini kontrol etmelidir."
-heroImage: "/images/ab-arastirmaci-oturum-izni-rehberi.jpg"
-heroAlt: "Avrupa'daki bir havalimanında pasaport kontrol noktası"
-heroCredit: "Subhashish Panigrahi / Wikimedia Commons (CC BY-SA 4.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Man_using_the_automatic_gate_in_Munich_airport_02.jpg"
+heroImage: "/images/editorial/policy-document.jpg"
+heroAlt: "Resmî bir belgeyi imzalayan kişi"
+heroCredit: "Pixabay / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/48148/"
 ---
 
 Hollanda'nın **orientation year** veya Hollandaca adıyla **zoekjaar** izni, uygun bir yükseköğrenim, doktora ya da araştırma döneminden sonra iş aramak için verilen geçici oturumdur. İzin her mezuna otomatik verilmez. Mezuniyet türü, kurum, tarih ve yabancı diplomanın sıralama koşulu ayrı ayrı kontrol edilir.

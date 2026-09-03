@@ -15,10 +15,10 @@ faq:
     answer: "Hayır. Mağdur destek hizmetlerine erişim genel olarak resmî şikâyet yapmaya bağlı olmamalıdır; acil güvenlik, psikolojik ve pratik destek için ülkenin resmî hizmetine doğrudan başvurulabilir."
   - question: "Suç şikâyetinde tercüman istenebilir mi?"
     answer: "Ceza sürecini anlamak ve katılmak için ihtiyaç duyan mağdura ücretsiz tercüme ve belirli temel belgelerin çevirisi sağlanabilir. İhtiyacı ilk temasta açıkça bildirin ve kararı dosyaya kaydettirin."
-heroImage: "/images/avrupa-kucuk-talepler-5000-avro-rehberi.jpg"
-heroAlt: "Lüksemburg’daki Avrupa Birliği Adalet Divanı yerleşkesi"
-heroCredit: "Luxofluxo / Wikimedia Commons (CC BY-SA 4.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Palais_de_la_Cour_de_Justice_CJEU_July_2021_Sign_to_the_Ancien_Palais.jpg"
+heroImage: "/images/editorial/community-hands.jpg"
+heroAlt: "Dayanışmayı simgeleyen birleşmiş eller"
+heroCredit: "Ivan Samkov / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/9630217/"
 ---
 
 AB'de seyahat ederken, çalışırken veya yaşarken suç mağduru olan kişi; uyruğu ve ikamet statüsünden bağımsız olarak saygılı muamele, bilgi, destek ve korunma haklarına sahiptir. Hakların pratik uygulaması ulusal ceza usulüne göre değişir. Acil tehlikede **112** veya ülkenin polis/acil hattını arayın; dijital başvuru acil fiziksel korumanın yerine geçmez.

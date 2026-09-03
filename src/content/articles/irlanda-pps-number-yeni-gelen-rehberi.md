@@ -15,10 +15,10 @@ faq:
     answer: "Başvuran kimliğini, adresini ve PPS numarasına neden ihtiyaç duyduğunu kanıtlamalıdır. Türk vatandaşı için geçerli pasaport, üç aydan yeni adres belgesi ve iş veya kamu işlemi yazısı örnek olabilir."
   - question: "PPS Number ile Public Services Card aynı şey mi?"
     answer: "Hayır. PPS Number kamu hizmetlerinde kullanılan kişisel referans numarasıdır; Public Services Card kimlik doğrulama aracıdır. Numaranın verilmesi kartın otomatik çıktığı anlamına gelmez."
-heroImage: "/images/ab-gorevlendirilen-calisan-a1-haklari-rehberi.jpg"
-heroAlt: "Çalışma hayatı üzerine düzenlenen kalabalık bir toplantı"
-heroCredit: "Marjory Collins / Wikimedia Commons (Public domain)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:A_Sunday_afternoon_meeting_of_the_rubber_workers_union8d18608v.jpg"
+heroImage: "/images/editorial/community-diverse.jpg"
+heroAlt: "Bir araya gelen farklı yaş ve kökenlerden insanlar"
+heroCredit: "Andrea Piacquadio / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/4143429/"
 ---
 
 İrlanda **Personal Public Service Number (PPSN)**, sosyal yardım, vergi ve belirli kamu hizmetlerinde kişiyi tanıyan kişiye özgü referanstır. Biçimi yedi rakam ve ardından bir veya iki harftir. PPS numarası oturum izni, çalışma izni veya banka hesabının yerine geçmez.

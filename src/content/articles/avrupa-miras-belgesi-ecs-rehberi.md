@@ -15,10 +15,10 @@ faq:
     answer: "Hayır. ECS sınır ötesi kullanım için isteğe bağlı bir araçtır; ulusal mirasçılık belgesi kullanılabilir, ancak ECS diğer katılımcı üye devletlerde özel tanıma işlemi olmadan etki sağlar."
   - question: "ECS hangi ülkelerde kullanılabilir?"
     answer: "650/2012 sayılı Tüzüğe katılan AB ülkeleri arasında kullanılır; Danimarka ve İrlanda bu düzenlemeye katılmamaktadır."
-heroImage: "/images/avrupa-kucuk-talepler-5000-avro-rehberi.jpg"
-heroAlt: "Lüksemburg’daki Avrupa Birliği Adalet Divanı yerleşkesi"
-heroCredit: "Luxofluxo / Wikimedia Commons (CC BY-SA 4.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Palais_de_la_Cour_de_Justice_CJEU_July_2021_Sign_to_the_Ancien_Palais.jpg"
+heroImage: "/images/editorial/baby-travel.jpg"
+heroAlt: "Havalimanında valiziyle seyahat eden anne ve çocuğu"
+heroCredit: "Gustavo Fring / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/4173222/"
 ---
 
 Avrupa Miras Belgesi, yaygın İngilizce kısaltmasıyla ECS, sınır ötesi bir tereke dosyasında mirasçı, belirli mal vasiyeti alacaklısı, vasiyet yürütücüsü veya tereke yöneticisinin statü ve yetkisini başka bir katılımcı AB ülkesinde kanıtlamasına yardımcı olur. Belge yeni bir miras hakkı yaratmaz; yetkili makamın miras dosyasındaki bulgularını ortak formatta gösterir.

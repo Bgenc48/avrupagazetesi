@@ -15,10 +15,10 @@ faq:
     answer: "Avusturya hükümet portalına göre konuta fiilen taşındıktan sonra üç gün içinde ana veya ikincil adres için kayıt yapılmalıdır. Taşınmadan önce sahte adres kaydı yapılamaz."
   - question: "Meldezettel oturum izni yerine geçer mi?"
     answer: "Hayır. Meldezettel ikamet adresinin Merkezi Nüfus Siciline kaydıdır. Türk vatandaşı için vize, çalışma veya oturum izni şartları ayrı makam ve süreçlere tabidir."
-heroImage: "/images/ab-hukuku-ihlalini-komisyona-bildirme-rehberi.jpg"
-heroAlt: "Brüksel'deki Avrupa Komisyonu Berlaymont binasının girişi"
-heroCredit: "Ank Kumar / Wikimedia Commons (CC BY-SA 4.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:European_Commission_headquarters,_The_Berlaymont_Building,_Brussels,_Belgium_(_Ank_Kumar,_Infosys_Limited_).jpg"
+heroImage: "/images/editorial/home-buying.jpg"
+heroAlt: "Yeni evin anahtarını teslim alan kişi"
+heroCredit: "Kampus Production / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/7642008/"
 ---
 
 Avusturya'da bir ev, oda veya alt kiraya fiilen taşınan kişi, ana ya da ikincil adresini **üç gün içinde** kayıt ettirmelidir. Bu işlem günlük dilde Meldezettel olarak anılır. Formun adı ile kayıt sonucunda verilen Bestätigung der Meldung belgesini karıştırmayın.
@@ -49,3 +49,7 @@ Randevu dosyasına her kişi için ayrı imzalı form, pasaport, gerekiyorsa do�
 - [Austria.gv.at: residence registration services](https://www.oesterreich.gv.at/en/landingpages/meldewesen)
 - [Austria.gv.at: checklist for third-country nationals](https://www.oesterreich.gv.at/en/themen/menschen_aus_anderen_staaten/aufenthalt/3/3)
 - [Austria.gv.at: moving checklist](https://www.oesterreich.gv.at/en/themen/bauen_und_wohnen/umzug)
+
+## İlgili okuma
+
+Bu işlemin bağlantılı belge ve doğrulama adımlarını görmek için, [Avusturya'da yeni çalışan için e-card rehberi](/avrupagazetesi/makale/avusturya-e-card-yeni-calisan-rehberi/) yazısındaki kontrol sırasını da inceleyin. İki rehberi tek dosyada izlemek, tekrar belge toplama ve çelişen işlem adımları riskini azaltır.

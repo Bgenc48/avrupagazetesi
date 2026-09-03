@@ -15,10 +15,10 @@ faq:
     answer: "Hayır. NIE yabancıya verilen tek ve kişisel numaradır; TIE ise belirli yasal kalış hakkını ve süresini gösteren fiziksel karttır. TIE üzerinde NIE bulunur."
   - question: "İspanya'da TIE ne zaman istenir?"
     answer: "Genel rejimde altı aydan uzun kalış vizesi veya izni verilen yabancı, kural olarak girişten veya iznin yürürlüğe girmesinden itibaren bir ay içinde TIE'ye şahsen başvurur."
-heroImage: "/images/ab-hukuku-ihlalini-komisyona-bildirme-rehberi.jpg"
-heroAlt: "Brüksel'deki Avrupa Komisyonu Berlaymont binasının girişi"
-heroCredit: "Ank Kumar / Wikimedia Commons (CC BY-SA 4.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:European_Commission_headquarters,_The_Berlaymont_Building,_Brussels,_Belgium_(_Ank_Kumar,_Infosys_Limited_).jpg"
+heroImage: "/images/editorial/remote-work.jpg"
+heroAlt: "Dizüstü bilgisayarla çalışan bir profesyonel"
+heroCredit: "Andrea Piacquadio / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/3791130/"
 ---
 
 İspanya'da **NIE**, Número de Identidad de Extranjero; **TIE** ise Tarjeta de Identidad de Extranjero'dur. NIE tek, kişisel ve sıralı bir numaradır; vergi, banka, mülk veya göç belgelerinde kullanılır. TIE ise belirli yasal kalış durumunu ve geçerlilik süresini gösteren fiziksel karttır.

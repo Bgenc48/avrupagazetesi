@@ -15,10 +15,10 @@ faq:
     answer: "Evet, AB vatandaşı olmayan kişi adaylık gününde en az beş yıldır Hollanda'da yasal ve kesintisiz ikamet ediyor, geçerli uygun oturum statüsüne sahip, belediyede kayıtlı ve 18 yaşını doldurmuşsa oy kullanabilir."
   - question: "Beş yıl hesabı seçim gününde mi yapılır?"
     answer: "Kiesraad, AB dışı seçmen için beş yıllık yasal ve kesintisiz ikameti kandidaatstelling yani adaylık günü itibarıyla arar. Seçimin kendine özgü kritik tarihini resmi seçim takviminden kontrol edin."
-heroImage: "/images/ab-arastirmaci-oturum-izni-rehberi.jpg"
-heroAlt: "Avrupa'daki bir havalimanında pasaport kontrol noktası"
-heroCredit: "Subhashish Panigrahi / Wikimedia Commons (CC BY-SA 4.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Man_using_the_automatic_gate_in_Munich_airport_02.jpg"
+heroImage: "/images/editorial/identity-culture.jpg"
+heroAlt: "Dünya haritası üzerinde farklı ülkelerin bayrakları"
+heroCredit: "Lara Jameson / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/8828605/"
 ---
 
 Hollanda belediye meclisi seçimlerinde oy hakkı yalnız Hollanda veya AB vatandaşlarına ait değildir. Türk vatandaşı gibi AB dışı bir ülke vatandaşı da koşulları karşıladığında yaşadığı belediyenin seçiminde oy kullanabilir. Bu hak, Tweede Kamer genel seçimiyle aynı değildir; seçim türünü doğru ayırmak gerekir.
@@ -49,3 +49,7 @@ Seçimden önce belediyenin aday listesi, sandık yerleri ve erişilebilirlik bi
 - [Kiesraad: municipal voting eligibility](https://www.kiesraad.nl/verkiezingen/gemeenteraden/stemmen/kiesgerechtigdheid)
 - [Government.nl: municipal election voting requirements](https://www.government.nl/faq/elections/what-do-i-need-to-vote-in-the-municipal-elections)
 - [Government.nl: moving and BRP registration](https://www.government.nl/faq/what-do-i-need-to-arrange-if-im-moving-to-the-netherlands)
+
+## İlgili okuma
+
+Topluluk ve aile planınızdaki bağlantılı adımları tamamlamak için, [Birleşik Krallık'ta Türk vatandaşının oy hakkı rehberi](/avrupagazetesi/makale/birlesik-krallik-turk-vatandasi-oy-hakki-rehberi/) yazısındaki kontrol sırasını da inceleyin. İki rehberi tek dosyada izlemek, tekrar belge toplama ve çelişen işlem adımları riskini azaltır.

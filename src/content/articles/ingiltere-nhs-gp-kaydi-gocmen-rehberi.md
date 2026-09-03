@@ -15,10 +15,10 @@ faq:
     answer: "Hayır. NHS, İngiltere'de GP kaydı için kimlik, adres kanıtı, immigration status veya NHS number gerekmediğini belirtiyor. Belgeler kayıt eşleştirmesine yardım edebilir ama yokluğu ret gerekçesi olamaz."
   - question: "GP surgery kayıt başvurusunu reddederse ne olur?"
     answer: "Muayenehane yeni hasta almıyorsa, alan dışında yaşıyorsanız veya başka makul neden varsa reddedebilir; 14 gün içinde yazılı gerekçe vermelidir. ICB, Healthwatch veya Citizens Advice desteği istenebilir."
-heroImage: "/images/ab-arastirmaci-oturum-izni-rehberi.jpg"
-heroAlt: "Avrupa'daki bir havalimanında pasaport kontrol noktası"
-heroCredit: "Subhashish Panigrahi / Wikimedia Commons (CC BY-SA 4.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Man_using_the_automatic_gate_in_Munich_airport_02.jpg"
+heroImage: "/images/editorial/identity-culture.jpg"
+heroAlt: "Dünya haritası üzerinde farklı ülkelerin bayrakları"
+heroCredit: "Lara Jameson / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/8828605/"
 ---
 
 İngiltere'de herkes bir **GP surgery** kaydına ücretsiz başvurabilir. NHS açıkça kimlik, proof of address, immigration status veya NHS number belgesinin kayıt için zorunlu olmadığını söyler. Bu kural GP yani birinci basamak kaydı içindir; hastane tedavisinin ücretlendirilmesi ve immigration health surcharge ayrı konulardır.
@@ -49,3 +49,7 @@ Sorun çözülmezse local Integrated Care Board, Healthwatch veya Citizens Advic
 - [NHS England: you and your general practice](https://www.england.nhs.uk/long-read/you-and-your-general-practice-english/)
 - [NHS: find a GP](https://www.nhs.uk/service-search/find-a-gp)
 - [NHS: urgent and emergency care](https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/)
+
+## İlgili okuma
+
+Günlük yaşam dosyanızdaki bağlantılı adımları tamamlamak için, [Belçika'da mutualité sağlık sigortasına kayıt rehberi](/avrupagazetesi/makale/belcika-mutualite-saglik-sigortasi-rehberi/) yazısındaki kontrol sırasını da inceleyin. İki rehberi tek dosyada izlemek, tekrar belge toplama ve çelişen işlem adımları riskini azaltır.

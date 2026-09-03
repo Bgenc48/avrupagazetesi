@@ -15,10 +15,10 @@ faq:
     answer: "Tüketici sözleşmenin veya bağlayıcı ön sözleşmenin imzalandığı ya da daha sonra teslim alındığı tarihten itibaren 14 takvim günü içinde gerekçe göstermeden cayabilir. Zorunlu form verilmezse süre bir yıl 14 güne kadar uzayabilir."
   - question: "Cayma süresinde devre tatil için kapora alınabilir mi?"
     answer: "Hayır. Cayma süresi sona ermeden avans, teminat, hesaba bloke veya borç kabulü dahil hiçbir ön ödeme istenemez. Yeniden satış sözleşmesinde de satış gerçekleşmeden veya sözleşme sona ermeden ön ödeme yasaktır."
-heroImage: "/images/ab-online-alisveris-14-gun-cayma-rehberi.jpg"
-heroAlt: "Dizüstü bilgisayarla çevrim içi alışveriş yapan bir tüketici"
-heroCredit: "Artem Beliaikin from Moscow, Russia / Wikimedia Commons (CC BY 2.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Woman_online_shopping_concept._Woman_in_the_green_park_with_modern_laptop._Bali_island._(47798039732).jpg"
+heroImage: "/images/editorial/professional-networking.jpg"
+heroAlt: "Konferans salonunda fikir alışverişi yapan profesyoneller"
+heroCredit: "Christina Morillo / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/1181406/"
 ---
 
 Devre tatil (timeshare), bir yıldan uzun sözleşmeyle bir veya daha fazla konaklama yerini birden çok kullanım dönemi için kullanma hakkıdır. Uzun süreli tatil kulübü, devre değişim sistemi ve yeniden satış aracılığı da AB tüketici korumasına girebilir. Ürünün “üyelik”, “puan” veya “yatırım” diye adlandırılması gerçek ekonomik yapıyı değiştirmez.

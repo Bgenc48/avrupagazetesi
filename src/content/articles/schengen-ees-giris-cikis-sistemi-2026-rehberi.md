@@ -15,10 +15,10 @@ faq:
     answer: "Hayır. EES bir seyahat izni değildir; kısa süreli AB dışı yolcunun pasaport ve biyometrik verisi dış Schengen sınırında kaydedilir. ETIAS faaliyete geçtiğinde ayrı ön seyahat izni olacaktır."
   - question: "EES ne zaman tamamen faaliyete geçti?"
     answer: "Avrupa Komisyonuna göre sistem 12 Ekim 2025'te aşamalı başladı ve 10 Nisan 2026'dan beri bütün EES dış sınır noktalarında tam faaliyettedir."
-heroImage: "/images/ab-hukuku-ihlalini-komisyona-bildirme-rehberi.jpg"
-heroAlt: "Brüksel'deki Avrupa Komisyonu Berlaymont binasının girişi"
-heroCredit: "Ank Kumar / Wikimedia Commons (CC BY-SA 4.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:European_Commission_headquarters,_The_Berlaymont_Building,_Brussels,_Belgium_(_Ank_Kumar,_Infosys_Limited_).jpg"
+heroImage: "/images/editorial/policy-document.jpg"
+heroAlt: "Resmî bir belgeyi imzalayan kişi"
+heroCredit: "Pixabay / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/48148/"
 ---
 
 Entry/Exit System (EES), Schengen alanına kısa süreli gelen AB dışı ülke vatandaşlarının giriş, çıkış ve giriş reddi kayıtlarını dijitalleştirir. Sistem 12 Ekim 2025'te aşamalı başladı ve **10 Nisan 2026** itibarıyla bütün ilgili dış sınır geçiş noktalarında tam faaliyete geçti.

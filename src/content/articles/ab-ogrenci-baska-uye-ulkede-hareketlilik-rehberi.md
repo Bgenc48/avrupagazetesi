@@ -15,10 +15,10 @@ faq:
     answer: "2016/801 kapsamındaki öğrenci, Birlik veya çok taraflı hareketlilik programı ya da üniversiteler arası anlaşma içindeyse ikinci ülkede 360 güne kadar hareketlilikten yararlanabilir; bildirim ve ulusal koşullar yine uygulanır."
   - question: "Erasmus kabul belgesi tek başına yeterli midir?"
     answer: "Hayır. İlk ülkenin geçerli öğrenci izni, seyahat belgesi, ikinci ülkedeki kabul, sigorta, mali kaynak ve gerekiyorsa bildirim belgeleri birlikte sunulmalıdır."
-heroImage: "/images/ab-ogrenci-baska-uye-ulkede-hareketlilik-rehberi.jpg"
-heroCredit: "Ввласенко / Wikimedia Commons (CC BY-SA 3.0)"
-heroAlt: "Avrupa'da bir üniversiteyi ziyaret eden öğrenci grubu"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:A_group_of_Chinese_students_at_Oxford._UK.jpg"
+heroImage: "/images/editorial/classroom-education.jpg"
+heroCredit: "Yan Krukau / Pexels"
+heroAlt: "Sınıfta öğretmenleriyle çalışan öğrenciler"
+heroCreditUrl: "https://www.pexels.com/photo/8363102/"
 ---
 
 AB dışı bir öğrenci, bir üye devlette 2016/801 sayılı Direktif kapsamındaki öğrenci iznine sahipse belirli koşullarla ikinci bir katılımcı üye devlette eğitiminin bir bölümünü sürdürebilir. Bu hak bütün değişimlere otomatik uygulanmaz. Öğrencinin Birlik veya çok taraflı hareketlilik programında ya da iki yükseköğretim kurumu arasındaki anlaşmada yer alması gerekir.

@@ -15,10 +15,10 @@ faq:
     answer: "Çoğu açık istişare vatandaşlara, işletmelere, uzmanlara ve kuruluşlara açıktır; belirli çağrının hedef kitlesi ve kayıt koşulu ilan sayfasında kontrol edilmelidir."
   - question: "Görüş Türkçe gönderilebilir mi?"
     answer: "Komisyonun kanıt çağrıları ve kamu istişareleri ilke olarak 24 resmî AB dilinde katkı kabul eder; Türkçe resmî AB dili olmadığından kabul edilen bir dil seçilmelidir."
-heroImage: "/images/almanya-olum-tescili-turkiye-rehberi.jpg"
-heroAlt: "Berlin'deki bir Türk kültür etkinliğinden katılımcı"
-heroCredit: "Siebbi / Wikimedia Commons (CC BY 3.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Fatih_Akin_(Berlin_Film_Festival_2011).jpg"
+heroImage: "/images/editorial/family-multicultural.jpg"
+heroAlt: "Evde birlikte vakit geçiren çok kültürlü aile"
+heroCredit: "William Fortunato / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/6393334/"
 ---
 
 Avrupa Komisyonunun Have Your Say portalı, vatandaşların, işletmelerin, meslek kuruluşlarının ve uzmanların yeni AB politikaları ile mevcut kurallar hakkında görüş ve kanıt sunmasını sağlar. Katılım oy verme değildir; Komisyon katkıları analiz eder, özetler ve etki değerlendirmesi veya mevzuat hazırlığında kullanır.

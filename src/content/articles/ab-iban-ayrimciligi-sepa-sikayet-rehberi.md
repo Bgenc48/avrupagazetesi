@@ -15,10 +15,10 @@ faq:
     answer: "Bir kişinin başka bir üye devletteki hesabından SEPA havalesi yapmasının, ödeme almasının veya otomatik ödeme kullanmasının hesabın ülke kodu nedeniyle engellenmesidir."
   - question: "Yabancı IBAN reddedilirse nereye şikâyet edilir?"
     answer: "Önce kuruluşun yazılı düzeltme kanalına başvurun; çözülmezse ayrımcılığın gerçekleştiği ülkedeki SEPA Tüzüğü ulusal yetkili makamına kanıtlarla şikâyet verin."
-heroImage: "/images/ab-10000-avro-nakit-beyan-rehberi.jpg"
-heroAlt: "Euro banknotları ve madeni avrolar"
-heroCredit: "Avij (talk · contribs) / Wikimedia Commons (Public domain)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Euro_coins_and_banknotes_(cropped).jpg"
+heroImage: "/images/editorial/credit-score.jpg"
+heroAlt: "Bilgisayar başında banka kartını kontrol eden kişi"
+heroCredit: "Mikhail Nilov / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/4968390/"
 ---
 
 IBAN ayrımcılığı, bir işverenin, kamu kurumunun veya işletmenin başka bir üye devlette bulunan ödeme hesabından SEPA havalesi yapılmasını, para alınmasını ya da otomatik ödeme kurulmasını sırf hesabın ülke kodu nedeniyle reddetmesidir. “Yalnız DE IBAN”, “maaş için FR hesabı” veya formun yabancı IBAN'ı kabul etmemesi tipik işaretlerdir.

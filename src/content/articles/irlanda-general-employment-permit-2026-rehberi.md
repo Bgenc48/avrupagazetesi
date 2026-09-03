@@ -15,10 +15,10 @@ faq:
     answer: "1 Mart 2026'dan itibaren genel asgari yıllık ücret 36.605 avrodur. Belirli sağlık ve tarım-gıda işleri için 32.691 avro, son 12 ayda ilgili İrlanda yükseköğretim derecesi alanlar için 34.009 avro eşiği bulunabilir."
   - question: "İlk General Employment Permit ile işveren hemen değiştirilebilir mi?"
     answer: "Genel kural, ilk izinle işe başladıktan sonra dokuz ay dolmadan farklı işveren için yeni iznin değerlendirilmemesidir. İşten çıkarılma ve önceden öngörülemeyen temel değişiklikler gibi sınırlı istisnalar bulunur."
-heroImage: "/images/ab-gorevlendirilen-calisan-a1-haklari-rehberi.jpg"
-heroAlt: "Çalışma hayatı üzerine düzenlenen kalabalık bir toplantı"
-heroCredit: "Marjory Collins / Wikimedia Commons (Public domain)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:A_Sunday_afternoon_meeting_of_the_rubber_workers_union8d18608v.jpg"
+heroImage: "/images/editorial/passport-visa.jpg"
+heroAlt: "Elinde farklı ülkelere ait pasaportlar tutan kişi"
+heroCredit: "RDNE Stock project / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/7009478/"
 ---
 
 İrlanda General Employment Permit, Critical Skills listesine girmeyen fakat yasaklı meslek listesinde de bulunmayan birçok iş için kullanılabilir. Uygunluk yalnız maaşa bağlı değildir: gerçek işveren, uygun meslek, adayın yeterliliği ve çoğu dosyada işgücü piyasası testi birlikte aranır.

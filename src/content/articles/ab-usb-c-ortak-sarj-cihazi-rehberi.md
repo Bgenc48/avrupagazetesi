@@ -15,10 +15,10 @@ faq:
     answer: "Hayır. Kural, kablolu şarj edilebilen ve Direktifte sayılan telefon, tablet, kamera, kulaklık ve benzeri taşınabilir radyo ekipmanlarına; 28 Nisan 2026'dan itibaren de kapsamdaki dizüstü bilgisayarlara uygulanır."
   - question: "Satıcı cihazı şarj adaptörü olmadan satabilir mi?"
     answer: "Evet. Tüketici cihazı adaptörle veya adaptörsüz alma seçeneğine sahip olmalı; ambalajdaki sembol kutuda şarj cihazı bulunup bulunmadığını göstermelidir."
-heroImage: "/images/ab-akilli-telefon-tablet-enerji-etiketi-rehberi.jpg"
-heroAlt: "Dokunmatik ekranlı bir akıllı telefon"
-heroCredit: "Jr223 / Wikimedia Commons (CC BY-SA 3.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:P-02E_front.jpg"
+heroImage: "/images/editorial/home-buying.jpg"
+heroAlt: "Yeni evin anahtarını teslim alan kişi"
+heroCredit: "Kampus Production / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/7642008/"
 ---
 
 AB ortak şarj kuralları, belirli taşınabilir elektroniklerde cihaz tarafındaki kablolu şarj girişini USB-C olarak birleştirir. Telefon, tablet, dijital kamera, kulaklık, taşınabilir hoparlör, e-okuyucu, klavye, fare, taşınabilir oyun konsolu ve navigasyon cihazları için uygulama 28 Aralık 2024'te başladı. Kapsamdaki dizüstü bilgisayarlar 28 Nisan 2026'dan beri aynı çerçevededir.

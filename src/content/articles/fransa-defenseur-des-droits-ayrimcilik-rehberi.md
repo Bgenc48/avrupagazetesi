@@ -15,10 +15,10 @@ faq:
     answer: "Antidiscriminations.fr hizmetindeki eğitimli hukukçular olayı dinler, ilk hukuki nitelendirmeyi yapar, olası yolları açıklar ve uygun kuruma yönlendirir. Hizmet mağdur ve tanıklara açıktır."
   - question: "Défenseur des droits başvurusu dava süresini durdurur mu?"
     answer: "Hayır. Kuruma başvurmak mahkeme veya ceza şikâyeti sürelerini kendiliğinden durdurmaz. Olay türüne göre geçerli süre ayrıca kontrol edilmelidir."
-heroImage: "/images/avrupa-kucuk-talepler-5000-avro-rehberi.jpg"
-heroAlt: "Lüksemburg’daki Avrupa Birliği Adalet Divanı yerleşkesi"
-heroCredit: "Luxofluxo / Wikimedia Commons (CC BY-SA 4.0)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:Palais_de_la_Cour_de_Justice_CJEU_July_2021_Sign_to_the_Ancien_Palais.jpg"
+heroImage: "/images/editorial/community-hands.jpg"
+heroAlt: "Dayanışmayı simgeleyen birleşmiş eller"
+heroCredit: "Ivan Samkov / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/9630217/"
 ---
 
 Fransa'da işe alım, çalışma, konut, eğitim, sağlık veya mal ve hizmet erişiminde farklı muamele her zaman hukuken ayrımcılık sayılmaz. Başvuru için olumsuz davranışın köken, cinsiyet, engellilik, sağlık, yaş, din, aile durumu veya yasada korunan başka bir ölçütle bağlantısını göstermek gerekir.

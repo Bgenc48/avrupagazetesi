@@ -15,10 +15,10 @@ faq:
     answer: "Evet. Life in Denmark, CPR için Danimarka'da kalıcı bir adresin zorunlu olduğunu belirtir. Kişi başvurmadan önce adreste fiilen yaşamaya başlamış olmalıdır."
   - question: "CPR numarası alınca MitID otomatik açılır mı?"
     answer: "Hayır. CPR kamu sicil numarasıdır; MitID dijital kimlik doğrulama aracıdır ve ayrı kimlik kontrolü ile etkinleştirilir. Aktivasyon kodları ve uygulama güvenliği ayrıca yönetilmelidir."
-heroImage: "/images/ab-gorevlendirilen-calisan-a1-haklari-rehberi.jpg"
-heroAlt: "Çalışma hayatı üzerine düzenlenen kalabalık bir toplantı"
-heroCredit: "Marjory Collins / Wikimedia Commons (Public domain)"
-heroCreditUrl: "https://commons.wikimedia.org/wiki/File:A_Sunday_afternoon_meeting_of_the_rubber_workers_union8d18608v.jpg"
+heroImage: "/images/editorial/policy-document.jpg"
+heroAlt: "Resmî bir belgeyi imzalayan kişi"
+heroCredit: "Pixabay / Pexels"
+heroCreditUrl: "https://www.pexels.com/photo/48148/"
 ---
 
 Danimarka'da **CPR number**, Central Person Register içindeki kişisel numaradır. Vergi, sağlık, banka ve kamu kurumlarıyla işlemlerde kullanılır. **MitID** ise çevrim içi kamu ve özel hizmetlere güvenli giriş aracıdır. Aynı sistemin parçası gibi görünseler de ayrı kayıt ve güvenlik adımları vardır.
